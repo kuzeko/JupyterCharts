@@ -1,0 +1,1168 @@
+query_id	answer_id	final_rating	num_ratings	std_rating	r1	r2	r3	r4	r5	r6	r7	r8	r9	r10	r11	r12	r13	r14	r15	r16	r17	r18	r19	r20	r21	r22	r23	r24	r25	r26	r27	r28	r29	r30	r31	r32	r33	r34	r35	r36	r37	r38	r39	r40	r41	r42	r43	r44	r45	r46	r47	r48	r49	r50	r51	r52	r53	r54	r55	r56	r57	r58	r59	r60	r61	r62	r63	r64	r65	r66	r67	r68	r69	r70	r71	r72	r73	r74	r75	r76	r77	r78	r79	r80	r81	r82	r83	r84	r85	r86	r87	r88	r89	r90	r91	r92	r93	r94	r95	r96	r97	r98	r99	r100	r101	r102	r103	r104	r105	r106	r107	r108	r109	r110	r111	r112	r113	r114	r115	r116	r117	r118	r119	r120	r121	r122	r123	r124	r125	r126	r127	r128	r129	r130	r131	r132	r133	r134	r135	r136	r137	r138	r139	r140	r141	r142	r143	r144	r145	r146	r147	r148	r149	r150	r151	r152	r153	r154	r155	r156	r157	r158	r159	r160	r161	r162	r163	r164	r165	r166	r167	r168	r169	r170	r171	r172	r173	r174	r175	r176	r177	r178	r179	r180	r181	r182	r183	r184	r185	r186	r187	r188	r189	r190	r191	r192	r193	r194	r195	r196	r197	r198	r199	r200	r201	r202	r203	r204	r205	r206	r207	r208	r209	r210	r211	r212	r213	r214	r215	r216	r217	r218	r219
+72907148	Abraham Lincoln Romantic relationships (with celebrities)  Celebrity Ann Rutledge	2.888888888888889	36	0.314269680527	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	2
+72907148	Abraham Lincoln Vice president Andrew Johnson	0.0	46	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+72907148	Abraham Lincoln Dedications  Dedicated By United States Congress	0.13043478260869565	46	0.447636093086	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+72907148	Abraham Lincoln Condition Smallpox	1.8888888888888888	36	0.874889763779	2	0	1	3	2	2	3	3	2	2	2	3	2	1	0	2	2	2	2	0	1	3	2	2	3	3	2	2	2	3	2	1	0	2	2	2
+72907148	Abraham Lincoln Place of burial Oak Ridge Cemetery	1.2142857142857142	28	1.08091042503	0	1	0	0	1	2	0	3	2	2	1	0	2	3	0	1	0	0	1	2	0	3	2	2	1	0	2	3
+72907148	Abraham Lincoln Film Story Credits Lincoln's Gettysburg Address	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+72907148	Abraham Lincoln Election campaigns Abraham Lincoln Presidential Campaign, 1860	0.1111111111111111	36	0.458122847291	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+72907148	Abraham Lincoln Service  Rank Captain	0.4444444444444444	18	0.496903995	0	0	0	1	1	1	1	0	0	0	0	0	1	1	1	1	0	0
+72907148	Abraham Lincoln Named after Abraham	1.0	18	1.15470053838	3	0	0	2	0	2	0	0	2	3	0	0	2	0	2	0	0	2
+72907148	Abraham Lincoln Cause of death Assassination	1.8888888888888888	18	0.874889763779	2	2	0	1	2	2	3	3	2	2	2	0	1	2	2	3	3	2
+72907148	Abraham Lincoln Speeches or presentations  Speech subject American Civil War	0.29411764705882354	34	0.665512264646	0	0	0	0	0	2	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	2	0	0
+72907148	Abraham Lincoln Participated in conflicts Black Hawk War	0.2222222222222222	18	0.415739709642	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0
+72907148	Abraham Lincoln Exhibitions created about this subject Abraham Lincoln: Self-Made in America	0.3333333333333333	24	0.7453559925	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	2	0	0	0	2	0	0
+72907148	Abraham Lincoln Party  Party Republican Party	0.3333333333333333	6	0.471404520791	0	1	0	0	1	0
+72907148	Abraham Lincoln Ethnicity Americans	1.7857142857142858	28	1.14508711013	3	2	0	1	2	1	2	3	3	3	3	2	0	0	3	2	0	1	2	1	2	3	3	3	3	2	0	0
+72907148	Abraham Lincoln Representations In Fiction Abraham Lincoln	0.17391304347826086	46	0.563542669427	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+72907148	Abraham Lincoln Films On This Subject Lincoln	0.5	24	0.763762615826	0	0	0	0	0	2	2	1	0	0	0	1	0	0	0	0	0	2	2	1	0	0	0	1
+72907148	Abraham Lincoln Place of death Washington, D.C.	1.7777777777777777	18	0.916245694582	2	1	0	1	2	2	3	3	2	2	1	0	1	2	2	3	3	2
+72907148	Abraham Lincoln Employment history  Title President	0.7777777777777778	18	0.916245694582	0	2	0	2	2	0	0	1	0	0	2	0	2	2	0	0	1	0
+72907148	Abraham Lincoln Quotations About This Subject \The Emancipation Proclamation...can remind us in 2013 of all the mistakes we never want to commit again but it can also motivate us to fulfill to an ever greater degree the definitive freedom-sustaining and life-enhancing principles of democracy in living action.	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Inventions Einstein refrigerator	1.0357142857142858	56	1.05160227602	0	1	1	2	0	2	2	2	0	3	0	1	0	3	2	3	1	0	0	2	1	0	0	1	0	2	0	0	0	1	1	2	0	2	2	2	0	3	0	1	0	3	2	3	1	0	0	2	1	0	0	1	0	2	0	0
+88677448	Albert Einstein Departments School of Mathematics, Institute for Advanced Study	1.7333333333333334	60	0.963788819653	2	2	0	3	2	2	1	1	2	3	3	0	2	1	0	0	2	3	2	0	2	1	2	3	2	2	2	3	2	2	2	2	0	3	2	2	1	1	2	3	3	0	2	1	0	0	2	3	2	0	2	1	2	3	2	2	2	3	2	2
+88677448	Albert Einstein Follows diet Veganism	0.0	60	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Academic advisors Heinrich Friedrich Weber	2.4	60	0.8	3	3	1	3	3	2	2	2	3	3	3	1	3	3	3	1	2	3	2	2	2	3	3	2	3	3	0	2	3	3	3	3	1	3	3	2	2	2	3	3	3	1	3	3	3	1	2	3	2	2	2	3	3	2	3	3	0	2	3	3
+88677448	Albert Einstein Family Einstein family	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Hall of fame inductions  Hall of fame The Walhalla	0.3333333333333333	60	0.69920589878	0	0	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	1	0	2	0	0	0	0	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	1	0	2	0	0
+88677448	Albert Einstein Series Written (or Contributed To) The Collected Papers of Albert Einstein	1.1	20	1.04403065089	0	0	0	0	2	2	1	3	1	2	0	0	0	0	2	2	1	3	1	2
+88677448	Albert Einstein Member of  Organization Royal Society	1.1	60	0.943398113206	2	1	2	0	1	2	0	2	0	2	0	1	1	0	2	0	1	3	2	2	2	0	1	0	0	2	0	0	2	2	2	1	2	0	1	2	0	2	0	2	0	1	1	0	2	0	1	3	2	2	2	0	1	0	0	2	0	0	2	2
+88677448	Albert Einstein Appears in ranked lists  List Time 100: The Most Important People of the Century	0.6	20	0.8	0	0	2	0	0	0	1	2	1	0	0	0	2	0	0	0	1	2	1	0
+88677448	Albert Einstein Artwork on the Subject Albert Einstein Memorial	0.36666666666666664	60	0.706320670014	0	0	0	0	0	2	0	1	0	2	0	0	0	0	2	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	2	0	0	0	0	2	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Academic advisees Nathan Rosen	2.1481481481481484	54	0.970059322497	3	3	1	3	3	3	1	3	1	3	2	2	2	2	3	1	2	0	1	3	3	3	2	0	2	3	3	3	3	1	3	3	3	1	3	1	3	2	2	2	2	3	1	2	0	1	3	3	3	2	0	2	3	3
+88677448	Albert Einstein Governance of  Organization Black Mountain College	0.5	16	0.707106781187	2	0	0	0	1	0	0	1	2	0	0	0	1	0	0	1
+88677448	Albert Einstein Cause of death Abdominal aortic aneurysm	0.0	16	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Representations In Fiction Albert Einstein	0.2	60	0.47609522857	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	1	1	0	0	0
+88677448	Albert Einstein Peers  Peers Werner Heisenberg	0.5555555555555556	54	0.916245694582	0	0	0	0	0	0	0	0	0	0	2	0	1	2	3	0	2	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	2	3	0	2	0	1	2	2	0	0	0	0	0	0
+88677448	Albert Einstein Ethnicity Jewish people	0.08333333333333333	72	0.363241578628	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Religion Judaism	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Organizations founded Hebrew University of Jerusalem	0.75	72	0.982485510213	1	0	0	2	1	0	0	0	1	0	0	1	0	0	1	0	0	0	2	0	0	1	2	3	1	0	0	0	0	3	1	0	0	2	2	3	1	0	0	2	1	0	0	0	1	0	0	1	0	0	1	0	0	0	2	0	0	1	2	3	1	0	0	0	0	3	1	0	0	2	2	3
+88677448	Albert Einstein Employment history  Employer Leiden University	1.8	10	1.16619037897	0	3	1	2	3	0	3	1	2	3
+88677448	Albert Einstein Place of death Princeton	0.0	16	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Tour operators TravelChinaGuide	0.05263157894736842	38	0.223296878269	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Travel destinations served  Mode of transportation Air travel	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Olympics hosted 2008 Summer Olympics	0.0	38	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Olympics bid on  Olympic games 2008 Summer Olympics	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Exhibitions created about this subject Beijing 2008: A Photographic Journey	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Country China	0.0	43	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Accommodation Beijing Hotel	0.0	38	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Local transportation Beijing Subway	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing How to get here  Mode of transportation Bus	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Time zone(s) China Time Zone	0.0	34	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Nearby airports Beijing Capital International Airport	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Climate  Month February	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Adjoins  Adjoins Hebei	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Newspapers People's Daily	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Contained by China	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Tourist attractions Beijing National Stadium	0.0	31	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Organizations with this scope Beijing Ultrasonic Co., Ltd	2.3333333333333335	42	0.776643163348	2	3	2	3	2	3	2	3	1	2	3	2	3	3	0	2	3	2	2	3	3	2	3	2	3	2	3	2	3	1	2	3	2	3	3	0	2	3	2	2	3	3
+5249574948	Beijing Governing officials  Basic title Mayor	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Featured In Films Hero	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Events 2008 Summer Olympics	0.0	42	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Film Collections AFI's 100 Years...100 Movies	0.08333333333333333	96	0.276385399196	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Primary language English Language	0.0625	96	0.242061459138	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Gross revenue  Currency United States Dollar	0.020833333333333332	96	0.142826137508	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Dubbing performances  Language German Language	0.020833333333333332	96	0.142826137508	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Film format Super 35	0.10416666666666667	96	0.305476631221	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5295826848	Titanic Things named after this Titanic Barbie Doll	0.02040816326530612	98	0.141391902659	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Featured Song My Heart Will Go On	2.783505154639175	97	0.541605176766	3	3	3	2	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	0	3	2	3	2	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	0	3	2	3	2	3	3	3	3	2
+5295826848	Titanic Estimated budget  Currency United States Dollar	0.041666666666666664	96	0.199826313471	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Subjects Tragedy	0.041666666666666664	96	0.199826313471	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+5295826848	Titanic Soundtrack Titanic: Music from the Motion Picture	2.8958333333333335	96	0.367399835178	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	1	3	3	3	3	3	3	3	3	2	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	1	3	3	3	3	3	3	3	3	2	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+5295826848	Titanic Set Decoration by Michael D. Ford	0.021739130434782608	92	0.145830520272	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Appears in ranked lists  List The Movie List: the first 9200	0.045454545454545456	88	0.208298895225	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Costume design by Deborah Lynn Scott	0.021739130434782608	92	0.145830520272	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Production design by Peter Lamont	0.04081632653061224	98	0.197864483976	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5295826848	Titanic Rated PG-13 (USA)	0.022727272727272728	88	0.149032693734	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Casting director Mali Finn	0.043010752688172046	93	0.202881314668	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+5295826848	Titanic Cinematography Russell Carpenter	0.0	25	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Art direction by Charles Lee	0.11764705882352941	102	0.378182382784	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+5295826848	Titanic Music by James Horner	2.5	24	0.866025403784	3	2	3	2	2	3	0	3	3	3	3	3	3	2	3	2	2	3	0	3	3	3	3	3
+5295826848	Titanic Production companies Paramount Pictures	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Force Deployments  Military Conflict United Nations Operation in the Congo	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Military Commanders  Military Conflict War in Darfur	0.0	34	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Subjects A Contrario	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Offices/Positions Within the Body President of the United Nations General Assembly	0.75	24	0.924211375534	1	0	2	0	2	0	0	2	0	2	0	0	1	0	2	0	2	0	0	2	0	2	0	0
+5354845548	United Nations Programs with this subject Pauline Frederick at the U.N.	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Geographic scope World	0.23529411764705882	34	0.545506970323	0	0	1	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	1	0	0	0	0
+5354845548	United Nations Place founded Lake Success	0.5882352941176471	34	0.844276476142	0	0	1	0	2	2	0	1	0	0	0	2	2	0	0	0	0	0	0	1	0	2	2	0	1	0	0	0	2	2	0	0	0	0
+5354845548	United Nations Subject of Black History Month Enhanced by International Year for People of African Descent	0.0	35	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Exhibitions sponsored  Venue Chelsea Art Museum	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations TV programs Created 21st Century	0.0	35	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Sectors Law	0.0	35	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Members  Officeholder Lester B. Pearson	0.4166666666666667	24	0.640095478989	0	0	1	0	1	0	0	1	0	0	2	0	0	0	1	0	1	0	0	1	0	0	2	0
+5354845548	United Nations Organizations founded UN Women	0.2	30	0.541602560309	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0
+5354845548	United Nations Headquarters  City/Town New York City	2.75	24	0.829156197589	3	3	3	3	3	0	3	3	3	3	3	3	3	3	3	3	3	0	3	3	3	3	3	3
+5354845548	United Nations Military Conflicts  Conflict Korean War	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Leadership  Person Kofi Annan	0.4117647058823529	34	0.691020007322	0	0	1	0	1	0	0	2	0	0	2	0	1	0	0	0	0	0	0	1	0	1	0	0	2	0	0	2	0	1	0	0	0	0
+5354845548	United Nations Quotations About This Subject The United Nations is designed to make possible lasting freedom and independence for all its members.	0.0	34	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Things named after this 6000 United Nations	0.0	30	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Founders United Kingdom	0.5	24	0.866025403784	0	0	2	0	0	2	0	2	0	0	0	0	0	0	2	0	0	2	0	2	0	0	0	0
+5354845548	United Nations Awards Won  Award category Peabody Award	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Structures Owned  Structure Childwickbury Manor	0.0625	96	0.242061459138	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Place of burial Childwickbury Manor	0.0	96	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Cause of death Myocardial infarction	0.020833333333333332	96	0.142826137508	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Films edited Fear and Desire	1.6666666666666667	30	0.942809041582	2	3	2	1	3	1	2	2	0	2	1	2	0	3	1	2	3	2	1	3	1	2	2	0	2	1	2	0	3	1
+5578775448	Stanley Kubrick Film cinematography credits Fear and Desire	2.0	30	0.816496580928	2	3	2	2	3	3	2	2	1	2	2	2	0	3	1	2	3	2	2	3	3	2	2	1	2	2	2	0	3	1
+5578775448	Stanley Kubrick Religion Judaism	0.020833333333333332	96	0.142826137508	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Employment history  Employer Cowles Media Company	0.8571428571428571	84	1.03674005034	0	0	0	0	0	1	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	1	0	0	1	0	3	2	1	0	1	2	3	0	2	2	3	3	3	2	1	0	0	0	0	0	1	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	1	0	0	1	0	3	2	1	0	1	2	3	0	2	2	3	3	3	2	1
+5578775448	Stanley Kubrick Ethnicity Jewish people	0.0196078431372549	102	0.138648388468	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Place of death St Albans	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Spouse (or domestic partner)  Type of union Marriage	0.0	102	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Parents Jacques Leonard Kubrick	0.0	90	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Siblings  Sibling Barbara Kubrick	0.0	90	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Education  Institution Columbia University	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Films Produced Full Metal Jacket	2.372093023255814	86	0.682786895623	3	3	2	3	2	3	2	1	3	1	3	2	2	2	1	2	3	2	3	3	3	3	2	3	3	3	2	3	2	2	3	2	2	3	1	3	2	3	1	3	2	3	2	3	3	2	3	2	3	2	1	3	1	3	2	2	2	1	2	3	2	3	3	3	3	2	3	3	3	2	3	2	2	3	2	2	3	1	3	2	3	1	3	2	3	2
+5578775448	Stanley Kubrick Children Vivian Kubrick	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Places lived  Location New York City	0.0	90	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Influenced By H. P. Lovecraft	1.2549019607843137	102	0.882135049349	2	2	1	0	2	2	0	1	0	1	0	2	1	1	2	1	2	3	2	2	0	1	1	3	1	1	0	2	2	2	1	0	0	2	1	1	0	2	2	1	0	2	2	1	3	2	1	1	2	0	0	2	2	1	0	2	2	0	1	0	1	0	2	1	1	2	1	2	3	2	2	0	1	1	3	1	1	0	2	2	2	1	0	0	2	1	1	0	2	2	1	0	2	2	1	3	2	1	1	2	0	0
+5578775448	Stanley Kubrick Film writing credits Full Metal Jacket	2.1627906976744184	86	0.833324319403	2	3	2	2	2	2	2	0	3	2	3	1	2	2	1	2	2	2	3	3	3	2	2	3	3	3	2	3	3	2	3	0	2	2	2	0	3	3	1	3	2	3	2	2	3	2	2	2	2	2	0	3	2	3	1	2	2	1	2	2	2	3	3	3	2	2	3	3	3	2	3	3	2	3	0	2	2	2	0	3	3	1	3	2	3	2
+5578775448	Stanley Kubrick Place of birth The Bronx	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Fictional Characters Created HAL 9000	1.8333333333333333	96	0.964653075233	3	3	2	1	3	2	0	2	1	2	3	3	0	3	2	3	2	0	2	1	2	2	1	1	2	2	2	2	0	2	2	1	2	3	2	3	2	2	2	2	0	3	3	0	3	2	0	2	3	3	2	1	3	2	0	2	1	2	3	3	0	3	2	3	2	0	2	1	2	2	1	1	2	2	2	2	0	2	2	1	2	3	2	3	2	2	2	2	0	3	3	0	3	2	0	2
+7057716748	Richard Burton Dedications  Work Dedicated Nineteen Eighty-Four	0.41025641025641024	78	0.741376015118	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	3	0	0	1	0	0	2	0	0	2	0	0	0	1	1	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	3	0	0	1	0	0	2	0	0	2	0	0	0	1	1	0	1	1	0	0	0	0	1	0
+7057716748	Richard Burton Service  Military Force Royal Air Force	0.02564102564102564	78	0.158061897512	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Representations In Fiction Richard Burton	0.7272727272727273	88	0.888400922077	0	0	2	0	0	0	0	0	0	0	2	0	0	0	2	0	2	1	2	0	1	0	2	2	0	0	2	2	0	2	1	2	0	0	2	0	1	2	1	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	2	0	0	0	2	0	2	1	2	0	1	0	2	2	0	0	2	2	0	2	1	2	0	0	2	0	1	2	1	1	0	0	0	0
+7057716748	Richard Burton Theater Roles  Play Camelot	0.6666666666666666	78	0.857346333195	0	0	2	2	0	0	0	0	0	0	0	0	0	2	0	3	0	0	2	0	0	2	2	0	1	1	0	1	1	1	0	1	2	1	1	1	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	2	0	3	0	0	2	0	0	2	2	0	1	1	0	1	1	1	0	1	2	1	1	1	0	0	0
+7057716748	Richard Burton Cause of death Cerebral hemorrhage	0.05063291139240506	79	0.219246937667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Religion Presbyterianism	0.05128205128205128	78	0.316123795024	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Ethnicity Welsh people	0.0	88	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Films Produced The Taming of the Shrew	1.564102564102564	78	1.12762222704	0	2	2	2	0	3	0	0	3	1	3	1	2	2	0	3	1	3	2	1	2	2	3	3	0	3	1	1	1	2	0	0	3	1	1	1	3	3	0	0	2	2	2	0	3	0	0	3	1	3	1	2	2	0	3	1	3	2	1	2	2	3	3	0	3	1	1	1	2	0	0	3	1	1	1	3	3	0
+7057716748	Richard Burton Place of death Céligny	0.0	72	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Films directed Doctor Faustus	1.1333333333333333	15	0.95684667296	0	2	2	2	0	2	0	0	2	2	2	0	2	0	1
+7057716748	Richard Burton Starring TV roles  Series Ellis Island	0.9487179487179487	78	0.959399329942	1	0	2	2	0	0	0	0	0	1	0	3	0	2	0	3	0	0	1	0	0	2	2	0	1	1	1	1	2	2	0	1	3	2	1	1	1	1	0	1	0	2	2	0	0	0	0	0	1	0	3	0	2	0	3	0	0	1	0	0	2	2	0	1	1	1	1	2	2	0	1	3	2	1	1	1	1	0
+7057716748	Richard Burton Spouse (or domestic partner)  Location of ceremony Montreal	0.045454545454545456	88	0.208298895225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+7057716748	Richard Burton Places lived  Location Neath Port Talbot	0.024390243902439025	82	0.154257446837	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+7057716748	Richard Burton Parents Richard Walter Jenkins	0.022727272727272728	88	0.149032693734	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Siblings  Sibling Ifor Jenkins	0.022727272727272728	88	0.149032693734	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Education  Institution Exeter College, Oxford	0.0	82	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Children Kate Burton	0.0449438202247191	89	0.296424852995	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+7057716748	Richard Burton Country of nationality United Kingdom	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Place of birth Pontrhydyfen	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Gender Male	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Inventions Aqua-lung	0.0	26	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau TV episodes produced  Role Executive Producer	0.0	27	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Dedications  Work Dedicated The Life Aquatic with Steve Zissou	0.0	26	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Hall of fame inductions  Hall of fame Television Hall of Fame	0.0	26	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Participated in conflicts World War II	0.0	27	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Belongs to Order  Order Legion of Honour	0.0	26	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Governance of  Organization National Association of Underwater Instructors	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau TV programs produced  Producer type Executive Producer	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Ethnicity French people	0.08695652173913043	92	0.458071902298	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Films Executive Produced Cousteau: My First 85 Years	0.07692307692307693	26	0.266469355011	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Films Produced World Without Sun	0.0	11	0.0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Film writing credits The Silent World	0.0	26	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Place of death Paris	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau TV regular appearances  Appearance type Him/Herself	0.07692307692307693	26	0.266469355011	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Ships owned  Ship RV Calypso	0.0	26	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7176525248	Jacques-Yves Cousteau Organizations founded EarthEcho International	0.06382978723404255	94	0.432914679774	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Films directed The Silent World	0.0759493670886076	79	0.471253429595	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+7176525248	Jacques-Yves Cousteau Spouse (or domestic partner)  Location of ceremony Paris	0.3695652173913043	92	0.702749125011	0	0	0	0	0	0	2	1	0	0	0	1	1	1	0	0	1	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	1	0	0	0	3	0	0	0	0	0	0	0	0	2	1	0	0	0	1	1	1	0	0	1	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	1	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Parents Élisabeth Cousteau	0.5517241379310345	87	0.723316447014	1	1	0	0	1	0	0	0	1	1	1	0	0	1	0	1	0	1	2	0	2	1	0	0	0	0	0	1	0	1	0	1	1	2	0	0	1	0	0	0	3	0	0	1	1	0	0	1	0	0	0	1	1	1	0	0	1	0	1	0	1	2	0	2	1	0	0	0	0	0	1	0	1	0	1	1	2	0	0	1	0	0	0	3	0	0	0
+7176525248	Jacques-Yves Cousteau Siblings  Sibling Pierre-Antoine Cousteau	0.8695652173913043	92	1.01314610415	1	3	0	1	1	0	2	3	0	0	0	1	1	1	0	0	3	1	0	0	1	2	0	2	1	0	0	0	0	1	0	0	2	0	1	0	2	1	1	3	0	2	0	3	0	0	1	3	0	1	1	0	2	3	0	0	0	1	1	1	0	0	3	1	0	0	1	2	0	2	1	0	0	0	0	1	0	0	2	0	1	0	2	1	1	3	0	2	0	3	0	0
+7474756848	Nikos Kazantzakis Named after Heraklion International Airport	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Ethnicity Greeks	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Place of death Freiburg im Breisgau	2.9767441860465116	86	0.150714899963	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+7474756848	Nikos Kazantzakis Spouse (or domestic partner)  Location of ceremony Heraklion	0.06976744186046512	86	0.333783723126	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Education  Institution National and Kapodistrian University of Athens	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Parents Maria Kazantzaki	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Places lived  Location Crete	0.13953488372093023	86	0.346503823855	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+7474756848	Nikos Kazantzakis Influenced By Friedrich Nietzsche	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Country of nationality Greece	0.046511627906976744	86	0.21059035205	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Book editions published The Last Temptation of Christ	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Place of birth Heraklion	0.1839080459770115	87	0.387409184974	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Gender Male	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Profession Writer	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Things named after this Nikos Kazantzakis Museum	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Influenced Karl E. Peters	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Award Nominations  Award Nobel Prize in Literature	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Film Story Credits The Last Temptation of Christ	0.0	87	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Lyrics Written  Kind of composition Song	0.0	87	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Quotations \I hope for nothing. I fear nothing. I am free.	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7474756848	Nikos Kazantzakis Works written Alexander the Great	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7876784948	Cameroon Multi-event tournaments participated in 2010 Commonwealth Games	0.13513513513513514	74	0.413434014616	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+7876784948	Cameroon National anthem  Anthem O Cameroon, Cradle of Our Forefathers	0.6388888888888888	72	0.821677747653	0	0	0	0	2	0	0	0	0	1	0	0	2	0	0	1	2	1	0	2	1	1	1	0	1	1	0	0	1	0	0	3	1	2	0	0	0	0	0	0	2	0	0	0	0	1	0	0	2	0	0	1	2	1	0	2	1	1	1	0	1	1	0	0	1	0	0	3	1	2	0	0
+7876784948	Cameroon Currency Used Central African CFA franc	1.2222222222222223	72	1.03040205506	0	0	2	2	2	0	1	2	0	1	0	0	2	0	0	1	3	2	0	2	1	2	2	1	2	2	0	1	2	3	0	3	1	3	0	1	0	0	2	2	2	0	1	2	0	1	0	0	2	0	0	1	3	2	0	2	1	2	2	1	2	2	0	1	2	3	0	3	1	3	0	1
+7876784948	Cameroon Capital Yaoundé	2.1666666666666665	72	0.927960727138	1	2	2	3	3	2	1	1	0	3	1	3	2	2	2	3	3	3	0	3	3	3	1	3	3	2	3	2	3	1	3	3	2	3	2	1	1	2	2	3	3	2	1	1	0	3	1	3	2	2	2	3	3	3	0	3	3	3	1	3	3	2	3	2	3	1	3	3	2	3	2	1
+7876784948	Cameroon Flag  Flag Flag of Cameroon	0.9024390243902439	82	1.0775961968	0	0	0	2	2	0	1	0	0	0	0	0	3	0	1	0	0	2	0	0	2	3	3	0	2	2	2	1	0	1	1	1	1	1	0	0	3	0	3	0	0	0	0	0	2	2	0	1	0	0	0	0	0	3	0	1	0	0	2	0	0	2	3	3	0	2	2	2	1	0	1	1	1	1	1	0	0	3	0	3	0	0
+7876784948	Cameroon Official Language English Language	1.1081081081081081	74	1.08512756216	0	0	2	0	1	0	1	1	2	0	0	0	0	2	0	0	1	3	3	0	2	2	2	1	1	3	2	0	1	2	0	0	3	0	3	2	1	0	0	2	0	1	0	1	1	2	0	0	0	0	2	0	0	1	3	3	0	2	2	2	1	1	3	2	0	1	2	0	0	3	0	3	2	1
+7876784948	Cameroon GDP (nominal per capita)  Currency United States Dollar	1.1111111111111112	72	0.99380799	0	0	2	1	1	0	1	3	0	1	0	1	2	0	0	1	2	0	0	1	1	2	2	2	3	2	0	1	2	3	0	1	0	3	1	1	0	0	2	1	1	0	1	3	0	1	0	1	2	0	0	1	2	0	0	1	1	2	2	2	3	2	0	1	2	3	0	1	0	3	1	1
+7876784948	Cameroon Subject of Poets of the Past and Present in 2014 Spotlight	0.12121212121212122	66	0.326373624675	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+7876784948	Cameroon Internet TLD cm	0.19444444444444445	72	0.460642331994	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	2	0
+7876784948	Cameroon Form of Government Republic	2.0555555555555554	72	1.05262751786	0	3	1	1	2	1	2	3	2	2	2	1	3	0	0	3	3	3	0	3	3	3	2	3	3	3	2	2	3	3	1	3	1	3	1	3	0	3	1	1	2	1	2	3	2	2	2	1	3	0	0	3	3	3	0	3	3	3	2	3	3	3	2	2	3	3	1	3	1	3	1	3
+7876784948	Cameroon Government bodies Senate	1.7560975609756098	82	1.03075837118	0	3	1	1	2	1	2	0	1	0	2	3	3	2	2	2	1	3	0	0	2	2	2	0	3	3	3	1	3	3	3	2	2	3	3	1	1	1	2	1	2	0	3	1	1	2	1	2	0	1	0	2	3	3	2	2	2	1	3	0	0	2	2	2	0	3	3	3	1	3	3	3	2	2	3	3	1	1	1	2	1	2
+7876784948	Cameroon Time zone(s) West Africa Time Zone	1.3333333333333333	66	1.06363204696	0	0	2	0	0	1	1	1	2	2	2	0	3	1	3	1	2	2	3	2	2	0	0	0	1	2	2	0	3	0	3	2	1	0	0	2	0	0	1	1	1	2	2	2	0	3	1	3	1	2	2	3	2	2	0	0	0	1	2	2	0	3	0	3	2	1
+7876784948	Cameroon Olympics participated in 2008 Summer Olympics	0.1111111111111111	72	0.458122847291	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+7876784948	Cameroon Member of  Organization United Nations	1.9642857142857142	56	1.05160227602	0	2	3	0	3	0	0	2	2	2	2	2	2	3	3	3	3	3	1	1	2	3	3	1	3	3	1	2	0	2	3	0	3	0	0	2	2	2	2	2	2	3	3	3	3	3	1	1	2	3	3	1	3	3	1	2
+7876784948	Cameroon Languages spoken English Language	0.972972972972973	74	1.02631554303	0	0	2	0	0	0	0	2	2	0	0	0	0	2	0	0	1	2	0	0	2	1	2	1	2	3	0	0	1	2	1	0	3	1	3	2	1	0	0	2	0	0	0	0	2	2	0	0	0	0	2	0	0	1	2	0	0	2	1	2	1	2	3	0	0	1	2	1	0	3	1	3	2	1
+7876784948	Cameroon Adjoins  Adjoins Nigeria	1.9285714285714286	56	0.96097314622	3	0	2	2	1	1	0	2	2	0	2	2	3	3	1	3	3	2	1	1	2	2	3	2	2	3	3	3	3	0	2	2	1	1	0	2	2	0	2	2	3	3	1	3	3	2	1	1	2	2	3	2	2	3	3	3
+7876784948	Cameroon Teams Cameroon national football team	0.07317073170731707	82	0.260416542732	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+7876784948	Cameroon Internet users as percentage of population  Source Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank	0.53125	64	0.828567098973	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	1	2	2	0	0	0	1	1	2	2	0	0	0	2	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	1	2	2	0	0	0	1	1	2	2	0	0	0	2	0	0
+7876784948	Cameroon Military expenditure as percentage of GDP  Source Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank	1.4375	64	0.998044963917	0	2	1	2	3	1	0	0	2	0	0	1	1	1	3	2	1	3	2	2	1	2	1	2	2	3	1	0	2	3	0	2	0	2	1	2	3	1	0	0	2	0	0	1	1	1	3	2	1	3	2	2	1	2	1	2	2	3	1	0	2	3	0	2
+7876784948	Cameroon Contained by Africa	2.2857142857142856	56	0.839095723176	3	0	2	3	2	3	2	2	2	3	0	2	2	3	2	3	2	3	3	2	3	1	3	3	2	3	3	2	3	0	2	3	2	3	2	2	2	3	0	2	2	3	2	3	2	3	3	2	3	1	3	3	2	3	3	2
+8372755048	Eritrea Multi-event tournaments participated in 2012 World Mountain Running Championships	0.0	34	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea National anthem  Anthem Ertra, Ertra, Ertra	0.17647058823529413	34	0.381220041083	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+8372755048	Eritrea Currency Used Eritrean nakfa	0.0	34	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Capital Asmara	0.16666666666666666	24	0.37267799625	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+8372755048	Eritrea Flag  Flag Flag of Eritrea	0.17647058823529413	34	0.381220041083	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+8372755048	Eritrea GDP (nominal per capita)  Currency United States Dollar	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Official Language English Language	0.058823529411764705	34	0.235294117647	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Internet TLD er	0.0	34	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Form of Government Presidential system	1.8333333333333333	24	0.552770798393	2	2	2	1	2	2	2	1	1	3	2	2	2	2	2	1	2	2	2	1	1	3	2	2
+8372755048	Eritrea Government bodies National Assembly	1.0555555555555556	72	0.779759380423	2	2	2	0	2	2	1	0	0	1	1	0	1	0	1	0	2	2	1	1	0	1	2	2	1	1	1	2	1	2	2	1	0	0	0	1	2	2	2	0	2	2	1	0	0	1	1	0	1	0	1	0	2	2	1	1	0	1	2	2	1	1	1	2	1	2	2	1	0	0	0	1
+8372755048	Eritrea Government positions President of Eritrea	2.6666666666666665	24	0.471404520791	2	3	2	3	3	3	3	2	3	3	2	3	2	3	2	3	3	3	3	2	3	3	2	3
+8372755048	Eritrea Time zone(s) East Africa Time Zone	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Athletic performances  Medal Silver medal	0.0	34	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Olympics participated in 2008 Summer Olympics	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Languages spoken Hejazi Arabic	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Adjoins  Adjoins Ethiopia	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Member of  Organization United Nations	0.5	8	0.5	1	1	0	0	1	1	0	0
+8372755048	Eritrea Military expenditure as percentage of GDP  Source Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank	0.07142857142857142	28	0.257539376819	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Teams Eritrea national football team	0.0	72	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Internet users as percentage of population  Source Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank	0.0	29	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8448865148	Illinois Contains major portion of Upper Mississippi River	1.3191489361702127	94	0.969895431493	3	0	0	1	1	2	0	3	1	1	2	1	0	0	2	0	0	1	2	1	2	2	2	2	0	0	3	2	2	2	2	2	1	2	1	0	0	2	3	0	2	1	1	2	3	1	1	3	0	0	1	1	2	0	3	1	1	2	1	0	0	2	0	0	1	2	1	2	2	2	2	0	0	3	2	2	2	2	2	1	2	1	0	0	2	3	0	2	1	1	2	3	1	1
+8448865148	Illinois Capital Springfield	0.46808510638297873	94	0.613710855398	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	0	0	1	0	1	1	1	2	0	0	0	0	2	0	1	1	1	1	1	1	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	0	0	1	0	1	1	1	2	0	0	0	0	2	0	1	1	1	1	1	1	0	0	0	0	0	0	1	0	0	0	2	0
+8448865148	Illinois Flag  Flag Flag of Illinois	0.12244897959183673	98	0.327803640902	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+8448865148	Illinois Capital  Capital Springfield	0.41304347826086957	92	0.57392951228	0	0	0	0	0	0	0	1	1	1	0	0	0	1	0	0	1	0	1	1	1	2	0	0	0	0	1	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	0	0	1	0	1	1	1	2	0	0	0	0	1	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	2	0
+8448865148	Illinois Elections United States Senate election in Illinois, 2008	0.02127659574468085	94	0.144304893258	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8448865148	Illinois Nearby airports Chicago Midway International Airport	0.32608695652173914	92	0.591767721253	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	2	0	2	1	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	2	0	2	1	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0
+8448865148	Illinois Minimum wage  Currency United States Dollar	0.0425531914893617	94	0.201847510224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+8448865148	Illinois Government positions Illinois Secretary of State	0.04081632653061224	98	0.197864483976	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+8448865148	Illinois Government bodies Illinois Senate	0.04081632653061224	98	0.197864483976	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+8448865148	Illinois Official symbols  Kind of symbol Motto	0.06382978723404255	94	0.244449474321	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8448865148	Illinois Time zone(s) Central Time Zone	0.2222222222222222	18	0.415739709642	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0
+8448865148	Illinois Religions  Religion Islam	0.02040816326530612	98	0.141391902659	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8448865148	Illinois Adjoins  Adjoins Iowa	2.727272727272727	22	0.445361771415	3	2	2	3	3	2	3	3	3	3	3	3	2	2	3	3	2	3	3	3	3	3
+8448865148	Illinois Newspapers The Southern Illinoisan	0.04081632653061224	98	0.197864483976	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+8448865148	Illinois Military units 8th Illinois Volunteer Infantry Regiment	0.022222222222222223	90	0.147405546238	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8448865148	Illinois Partially contains Mississippi River	1.4242424242424243	99	0.853878957794	3	0	0	1	1	2	0	2	1	1	1	1	2	1	0	0	2	1	0	1	2	1	2	1	2	2	2	0	3	2	2	1	2	2	1	2	1	2	0	2	3	2	2	1	2	2	3	2	1	3	0	0	1	1	2	0	2	1	1	1	1	2	1	0	0	2	1	0	1	2	1	2	1	2	2	2	0	3	2	2	1	2	2	1	2	1	2	0	2	3	2	2	1	2	2	3	2	1	1
+8448865148	Illinois Partially contains  Partially contains Mississippi River	1.3673469387755102	98	0.896566638224	3	0	0	1	1	2	0	2	1	1	1	1	2	1	0	0	2	0	0	1	2	1	2	1	2	2	2	0	3	0	2	1	2	2	1	2	1	2	0	2	3	2	2	1	2	2	3	2	1	3	0	0	1	1	2	0	2	1	1	1	1	2	1	0	0	2	0	0	1	2	1	2	1	2	2	2	0	3	0	2	1	2	2	1	2	1	2	0	2	3	2	2	1	2	2	3	2	1
+8448865148	Illinois GDP (nominal)  Currency United States Dollar	0.041666666666666664	96	0.199826313471	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+8448865148	Illinois Contained by Contiguous United States	0.4	10	0.8	0	0	0	2	0	0	0	0	2	0
+8448865148	Illinois Agencies Illinois State Toll Highway Authority	0.14285714285714285	98	0.451753951453	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0
+8478554948	Bill Gates Subjects Jiba	0.2619047619047619	84	0.490845907812	0	1	0	0	0	0	0	1	0	0	0	1	0	0	2	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	2	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0
+8478554948	Bill Gates Structures Owned  Structure Bill Gates' house	1.2857142857142858	84	1.00677973866	2	0	1	3	2	2	2	2	3	0	2	2	1	0	2	1	3	2	2	2	0	1	1	1	1	0	0	2	0	2	2	2	0	0	0	0	3	1	2	2	0	0	2	0	1	3	2	2	2	2	3	0	2	2	1	0	2	1	3	2	2	2	0	1	1	1	1	0	0	2	0	2	2	2	0	0	0	0	3	1	2	2	0	0
+8478554948	Bill Gates Games Developed DONKEY.BAS	0.21052631578947367	19	0.407682457496	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0
+8478554948	Bill Gates Belongs to Order  Order Order of the Aztec Eagle	1.5476190476190477	84	0.956242172763	2	1	2	0	2	0	1	2	1	2	1	3	2	2	0	2	2	2	2	3	0	3	1	3	0	0	2	2	2	2	3	2	1	2	2	0	0	2	0	2	2	2	2	1	2	0	2	0	1	2	1	2	1	3	2	2	0	2	2	2	2	3	0	3	1	3	0	0	2	2	2	2	3	2	1	2	2	0	0	2	0	2	2	2
+8478554948	Bill Gates Leader of  Organization Microsoft Corporation	1.0	84	1.02353263144	1	0	0	2	2	0	1	1	1	0	1	1	0	0	3	0	0	1	1	3	3	1	1	0	3	0	0	0	2	2	1	1	0	0	2	0	1	3	0	2	2	0	1	0	0	2	2	0	1	1	1	0	1	1	0	0	3	0	0	1	1	3	3	1	1	0	3	0	0	0	2	2	1	1	0	0	2	0	1	3	0	2	2	0
+8478554948	Bill Gates Representations In Fiction Bill Gates	0.30952380952380953	84	0.597139819237	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	2	0	2	1	0	0	0	0	1	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	2	0	2	1	0	0	0	0	1	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0
+8478554948	Bill Gates Governance of  Organization Microsoft Corporation	0.8571428571428571	84	0.940400840863	1	0	0	2	2	0	1	1	1	0	2	1	0	0	3	0	0	0	0	2	3	1	0	0	2	0	0	0	2	2	1	1	0	0	2	0	1	2	0	2	1	0	1	0	0	2	2	0	1	1	1	0	2	1	0	0	3	0	0	0	0	2	3	1	0	0	2	0	0	0	2	2	1	1	0	0	2	0	1	2	0	2	1	0
+8478554948	Bill Gates Ethnicity Scottish American	2.5319148936170213	94	0.821287619814	3	3	3	3	2	3	3	3	3	2	0	3	3	3	3	3	3	3	3	3	2	2	1	2	3	3	3	3	0	2	0	3	2	2	3	3	3	3	2	2	3	3	3	3	3	2	3	3	3	3	3	2	3	3	3	3	2	0	3	3	3	3	3	3	3	3	3	2	2	1	2	3	3	3	3	0	2	0	3	2	2	3	3	3	3	2	2	3	3	3	3	3	2	3
+8478554948	Bill Gates Episode appearances  Appearance type Him/Herself	0.30952380952380953	84	0.462297329499	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	1	0
+8478554948	Bill Gates Influenced Naveen Jain	0.6428571428571429	84	0.781373289592	1	0	0	0	1	0	0	1	0	0	0	1	1	1	1	0	2	0	2	2	0	0	0	2	2	0	0	0	0	0	1	2	2	0	2	0	1	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	0	1	1	1	1	0	2	0	2	2	0	0	0	2	2	0	0	0	0	0	1	2	2	0	2	0	1	1	0	1	0	0
+8478554948	Bill Gates Films On This Subject Pirates of Silicon Valley	0.2765957446808511	94	0.534038314809	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	2	0	0	0	0	0	0	0	0	0	1	1	2	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	2	0	0	0	0	0	0	0	0	0	1	1	2	0	0	0	0	0	0	0	1	0	0
+8478554948	Bill Gates Spouse (or domestic partner)  Spouse Melinda Gates	2.760869565217391	92	0.558911310095	3	3	3	3	1	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	2	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	1	3	3	3	2	3	3	3	3	3	3	1	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	2	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	1	3	3	3	2	3	3
+8478554948	Bill Gates Employment history  Employer Microsoft Corporation	1.0212765957446808	94	1.0208332371	1	0	1	2	2	0	2	1	0	1	1	0	0	1	0	2	1	0	0	3	0	0	2	2	3	3	1	1	0	1	0	0	0	0	2	2	1	1	0	3	0	1	3	0	2	2	0	1	0	1	2	2	0	2	1	0	1	1	0	0	1	0	2	1	0	0	3	0	0	2	2	3	3	1	1	0	1	0	0	0	0	2	2	1	1	0	3	0	1	3	0	2	2	0
+8478554948	Bill Gates Parents William H. Gates, Sr.	2.774193548387097	93	0.588948986565	3	3	3	3	0	3	3	3	1	2	3	3	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	0	3	3	3	1	2	3	3	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	2
+8478554948	Bill Gates Siblings  Sibling Kristi Gates	2.652173913043478	92	0.66650911812	2	3	3	3	0	3	3	3	1	2	3	3	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	3	3	2	3	3	3	3	3	2	1	3	3	2	2	3	3	2	3	3	3	0	3	3	3	1	2	3	3	3	3	3	3	3	3	3	3	3	2	2	3	3	3	3	3	2	3	3	3	2	3	3	3	3	3	2	1	3	3	2	2	3	3
+8478554948	Bill Gates Organizations founded Microsoft Corporation	0.7692307692307693	91	1.00631984382	1	0	0	2	2	0	0	1	0	0	0	1	0	1	1	0	0	2	0	0	0	1	2	3	1	0	0	3	0	0	0	0	1	2	2	0	0	3	0	1	3	0	2	0	0	1	0	0	2	2	0	0	1	0	0	0	1	0	1	1	0	0	2	0	0	0	1	2	3	1	0	0	3	0	0	0	0	1	2	2	0	0	3	0	1	3	0	2	0	0	0
+8478554948	Bill Gates Children Phoebe Adele Gates	2.642857142857143	28	0.717848258651	3	3	3	3	1	3	3	3	1	2	3	3	3	3	3	3	3	3	1	3	3	3	1	2	3	3	3	3
+8478554948	Bill Gates Education  Institution Harvard College	2.230769230769231	26	0.890448992522	2	3	3	3	1	2	3	2	3	2	0	2	3	2	3	3	3	1	2	3	2	3	2	0	2	3
+8478554948	Bill Gates Place of birth Seattle	2.6363636363636362	22	0.77138921584	3	3	3	3	1	3	3	3	1	3	3	3	3	3	3	1	3	3	3	1	3	3
+8478554948	Bill Gates Awards Won  Award winner Melinda Gates	0.6888888888888889	90	0.914627361211	1	1	0	2	1	0	1	0	0	0	1	2	0	2	1	0	0	3	0	0	0	0	1	0	0	0	0	3	0	0	0	2	1	1	1	0	0	2	0	1	1	0	3	0	0	1	1	0	2	1	0	1	0	0	0	1	2	0	2	1	0	0	3	0	0	0	0	1	0	0	0	0	3	0	0	0	2	1	1	1	0	0	2	0	1	1	0	3	0	0
+8772815348	Poland Contains major portion of Barkocin	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Coat of Arms used  Coat of Arms Coat of arms of Poland	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Multi-event tournaments participated in 2012 World Mountain Running Championships	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Currency Used Polish złoty	0.16666666666666666	12	0.37267799625	0	0	0	0	0	1	0	0	0	0	0	1
+8772815348	Poland Flag  Flag Flag of Poland	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland National anthem  Anthem Mazurek Dąbrowskiego	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Festivals with this focus Polish Film Festival in America	0.16666666666666666	12	0.37267799625	0	1	0	0	0	0	0	1	0	0	0	0
+8772815348	Poland Capital Warsaw	0.3076923076923077	13	0.461538461538	0	1	0	0	0	1	0	1	0	0	0	1	0
+8772815348	Poland Force Deployments  Military Conflict War in Afghanistan (2001–present)	0.16666666666666666	12	0.37267799625	0	0	0	0	0	1	0	0	0	0	0	1
+8772815348	Poland Things named after this Polonium	0.0	4	0.0	0	0	0	0
+8772815348	Poland Partially contained by North European Plain	0.0	6	0.0	0	0	0	0	0	0
+8772815348	Poland Partially contained by  Partially contained by North European Plain	0.0	6	0.0	0	0	0	0	0	0
+8772815348	Poland Internet TLD pl	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland GDP (nominal per capita)  Currency United States Dollar	0.8333333333333334	12	0.687184270936	0	1	1	0	1	2	0	1	1	0	1	2
+8772815348	Poland Official Language Polish Language	1.1666666666666667	12	0.897527467856	1	2	0	2	0	2	1	2	0	2	0	2
+8772815348	Poland Athletes  Sports Figure skating	0.4	20	0.663324958071	0	2	0	0	0	0	0	0	1	1	0	2	0	0	0	0	0	0	1	1
+8772815348	Poland Form of Government Democracy	1.0	6	0.816496580928	1	2	0	1	2	0
+8772815348	Poland Religions  Religion Catholicism	1.6666666666666667	6	0.471404520791	1	2	2	1	2	2
+8772815348	Poland Government positions Marshal of the Sejm	0.4	10	0.8	0	2	0	0	0	0	2	0	0	0
+8772815348	Poland Government bodies National Assembly	0.8	10	0.748331477355	0	2	0	1	1	0	2	0	1	1
+9078665448	Russia Belongs To Combatant Group Allies of World War II	0.06666666666666667	30	0.249443825785	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Coat of Arms used  Coat of Arms Coat of arms of Russia	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Contains major portion of Karelia	2.8333333333333335	24	0.552770798393	3	3	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	3	3	3
+9078665448	Russia Multi-event tournaments participated in 2012 World Mountain Running Championships	0.0	30	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Athlete Olimpiada Ivanova	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Subject of TelecomConsulting	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Partially contained by Europe	2.6666666666666665	6	0.471404520791	3	2	3	3	2	3
+9078665448	Russia Partially contained by  Partially contained by Europe	2.6666666666666665	6	0.471404520791	3	2	3	3	2	3
+9078665448	Russia Currency Used Russian ruble	0.4166666666666667	24	0.953793595188	0	0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	0	0	2	0	0	0	0	3
+9078665448	Russia Force Deployments  Resource Infantry	0.25	24	0.829156197589	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	3
+9078665448	Russia Casualties  Military Conflict Battle of Kulikovo	0.08333333333333333	24	0.276385399196	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+9078665448	Russia Flag  Flag Flag of Russia	0.4166666666666667	24	0.953793595188	0	0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	0	0	2	0	0	0	0	3
+9078665448	Russia Capital Moscow	2.25	24	0.721687836487	2	3	2	1	3	2	3	1	3	2	2	3	2	3	2	1	3	2	3	1	3	2	2	3
+9078665448	Russia Internet TLD ru	0.09090909090909091	22	0.287479787288	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+9078665448	Russia National anthem  Anthem National Anthem of Russia	0.3333333333333333	24	0.7453559925	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	2	0	0	0	0	2
+9078665448	Russia GDP (nominal per capita)  Currency United States Dollar	0.16666666666666666	24	0.552770798393	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2
+9078665448	Russia Places exported to  Exported to Uzbekistan	0.75	24	0.829156197589	0	0	1	0	1	1	2	0	0	2	0	2	0	0	1	0	1	1	2	0	0	2	0	2
+9078665448	Russia Places imported from  Imported from Uzbekistan	0.75	24	0.829156197589	0	0	1	0	1	1	2	0	0	2	0	2	0	0	1	0	1	1	2	0	0	2	0	2
+9078665448	Russia Official Language Russian Language	0.75	24	1.08972473589	0	0	2	0	0	0	2	0	2	0	0	3	0	0	2	0	0	0	2	0	2	0	0	3
+9078665448	Russia Athletes  Competitor Russia national football team	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+538284665548	Salesforce.com Cash  Currency United States Dollar	0.4186046511627907	86	0.618796962588	0	2	0	0	0	1	1	0	0	0	2	0	0	2	0	0	0	1	0	1	0	1	1	0	1	0	1	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	1	1	0	0	0	2	0	0	2	0	0	0	1	0	1	0	1	1	0	1	0	1	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+538284665548	Salesforce.com Retained Earnings  Currency United States Dollar	0.4186046511627907	86	0.618796962588	0	2	0	0	0	1	1	0	0	0	2	0	0	2	0	0	0	1	1	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	1	1	0	0	0	2	0	0	2	0	0	0	1	1	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+538284665548	Salesforce.com Current Liabilities  Currency United States Dollar	0.425531914893617	94	0.610011539865	0	2	0	0	0	1	1	0	1	0	0	0	0	0	1	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	1	1	0	2	0	0	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	1	1	0	1	0	0	0	0	0	1	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	1	1	0	2	0	0	0	1	0	1	0	0	0	0	0	1
+538284665548	Salesforce.com Current Assets  Currency United States Dollar	0.40425531914893614	94	0.607035856072	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	1
+538284665548	Salesforce.com Total Liabilities  Currency United States Dollar	0.40425531914893614	94	0.607035856072	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	1
+538284665548	Salesforce.com Total Assets  Currency United States Dollar	0.3404255319148936	94	0.556455184282	0	2	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	2	0	0	0	1	0	1	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	2	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	2	0	0	0	1	0	1	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1
+538284665548	Salesforce.com Venture Investors  Investor Globespan Capital Partners	0.5263157894736842	95	0.844076639862	0	0	0	0	0	2	0	0	2	0	1	2	0	0	0	0	0	2	0	0	0	0	1	0	2	2	0	0	1	0	2	0	0	0	1	0	0	2	1	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	1	2	0	0	0	0	0	2	0	0	0	0	1	0	2	2	0	0	1	0	2	0	0	0	1	0	0	2	1	1	3	0	0	0	0	0	0	0
+538284665548	Salesforce.com Place founded California	1.6631578947368422	95	1.0916961821	0	0	2	2	2	3	2	0	3	0	2	1	1	3	3	0	2	2	3	2	0	2	2	3	2	3	2	2	2	0	1	3	1	1	0	2	0	3	3	2	0	3	0	3	1	2	2	0	0	2	2	2	3	2	0	3	0	2	1	1	3	3	0	2	2	3	2	0	2	2	3	2	3	2	2	2	0	1	3	1	1	0	2	0	3	3	2	0	3	0	3	1	2	2	2
+538284665548	Salesforce.com Issue SALESFORCE.COM INC Common Stock	0.1411764705882353	85	0.410249312333	0	0	0	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+538284665548	Salesforce.com Operating Income  Currency United States Dollar	0.42105263157894735	95	0.704555811818	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	3	0	0	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	3	0	0	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0
+538284665548	Salesforce.com Net profit  Currency United States Dollar	0.3617021276595745	94	0.598776479977	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+538284665548	Salesforce.com Founders Marc Benioff	0.18947368421052632	95	0.442355818725	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+538284665548	Salesforce.com Headquarters  State/Province/Region California	2.3636363636363638	22	1.14991914915	0	3	3	3	3	3	2	3	3	0	3	0	3	3	3	3	3	2	3	3	0	3
+538284665548	Salesforce.com Revenue  Currency United States Dollar	0.3404255319148936	94	0.593460667276	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	2	0	0	0	1	1	0	1	0	0	0	0	0	2	0	0	2	0	0	0	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+538284665548	Salesforce.com Appears in ranked lists  List Fortune 100 Best Companies to Work For	0.2553191489361702	94	0.482373789309	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	0	1	0	1	1	0	0	0	0	0	0
+538284665548	Salesforce.com Industry Software	0.14736842105263157	95	0.458106424147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+538284665548	Salesforce.com Leadership  Person Marc Benioff	0.1276595744680851	94	0.392321040736	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+538284665548	Salesforce.com Websites Owned Data.com	0.5473684210526316	95	0.764590307256	0	0	0	0	0	2	0	2	1	0	0	2	0	0	0	1	2	2	2	0	0	1	1	0	1	1	0	2	0	1	1	0	0	0	2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	2	1	0	0	2	0	0	0	1	2	2	2	0	0	1	1	0	1	1	0	2	0	1	1	0	0	0	2	0	0	1	0	0	1	0	0	0	0	0	0	0
+538284665548	Salesforce.com Organizations acquired  Organization acquired Buddy Media	0.425531914893617	94	0.736428438293	0	0	0	0	0	2	0	0	1	0	0	1	0	0	0	0	0	2	2	0	0	1	1	0	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	3	0	0	2	0	0	0	0	0	0	0	0	2	0	0	1	0	0	1	0	0	0	0	0	2	2	0	0	1	1	0	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	3	0	0	2	0	0	0
+538284665548	Salesforce.com Board members  Person Marc Benioff	0.19148936170212766	94	0.531489191353	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Sexual orientation  Sexual orientation Heterosexuality	0.0	108	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Hall of fame inductions  Hall of fame International Tennis Hall of Fame	2.2280701754385963	114	0.675837202956	2	2	3	2	2	2	3	1	2	2	2	3	2	2	2	2	2	3	2	2	2	2	2	3	2	3	2	2	2	2	2	3	3	3	0	3	3	3	3	3	2	2	2	3	2	3	2	1	2	2	2	3	2	0	2	3	3	2	2	3	2	2	2	3	1	2	2	2	3	2	2	2	2	2	3	2	2	2	2	2	3	2	3	2	2	2	2	2	3	3	3	0	3	3	3	3	3	2	2	2	3	2	3	2	1	2	2	2	3	2	0	2	3	3
+546675674948	Boris Becker Leader of  Role Owner	0.24561403508771928	114	0.469441689834	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0	0	2	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0	0	2	0	1	0	0	0	0	1	1	0	0	0	0	0
+546675674948	Boris Becker Romantic relationships (with celebrities)  Celebrity Sandy Meyer-Wölden	0.0	114	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker TV regular appearances  Program Piers Morgan's Life Stories	0.017543859649122806	114	0.131286224097	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+546675674948	Boris Becker Matches Lost  Event Wimbledon	2.4695652173913043	115	0.794784511462	3	3	2	3	3	3	3	3	0	1	1	3	3	2	2	3	2	3	3	2	2	3	1	3	1	2	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	2	0	3	3	3	3	2	3	2	2	2	1	2	3	3	3	3	2	3	3	3	3	3	0	1	1	3	3	2	2	3	2	3	3	2	2	3	1	3	1	2	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	2	0	3	3	3	3	2	3	2	2	2	1	2	3	3	2
+546675674948	Boris Becker Starring TV roles  Series They Think It's All Over	0.0	114	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Sports played  Sport Tennis	2.508771929824561	114	0.678564196695	3	3	2	3	3	3	3	3	1	3	2	3	2	3	3	3	3	3	3	3	2	1	2	3	2	3	3	3	3	1	3	3	3	3	3	2	3	3	3	2	2	2	3	3	3	2	2	1	2	2	3	3	1	2	2	3	1	3	3	2	3	3	3	3	3	1	3	2	3	2	3	3	3	3	3	3	3	2	1	2	3	2	3	3	3	3	1	3	3	3	3	3	2	3	3	3	2	2	2	3	3	3	2	2	1	2	2	3	3	1	2	2	3	1
+546675674948	Boris Becker Spouse (or domestic partner)  Type of union Marriage	0.0	114	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Children Amadeus Benedict Edley Luis Becker	0.0	115	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Parents Karl-Heinz	0.0	115	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Places lived  Location London	0.0	114	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Country of nationality Germany	0.06956521739130435	115	0.315449689517	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Place of birth Leimen	0.0	107	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Tennis Titles  Tournament The US Open (Tennis)	2.8596491228070176	114	0.436838582386	3	3	3	2	3	3	3	3	3	3	1	3	3	3	3	3	2	3	3	2	3	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	2	3	3	3	3	3	3	1	3	3	3	3	3	2	3	3	2	3	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3
+546675674948	Boris Becker Gender Male	0.0	115	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Profession Businessperson	0.1391304347826087	115	0.435130295763	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	2	0	0	0	0	0	0
+546675674948	Boris Becker Works written The player	0.41904761904761906	105	0.7142222194	0	1	0	2	0	0	0	0	0	2	0	0	0	1	1	0	0	0	0	1	2	1	2	0	0	0	0	0	0	0	0	2	1	0	0	0	0	1	2	0	2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	2	0	0	0	0	0	2	0	0	0	1	1	0	0	0	0	1	2	1	2	0	0	0	0	0	0	0	0	2	1	0	0	0	0	1	2	0	2	0	0	0	0	0	1	0	0	0	0	0	0
+546675674948	Boris Becker Film performances  Film Coach: Nick Bollettieri	0.017543859649122806	114	0.131286224097	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker Awards Won  Award category BBC Overseas Sports Personality of the Year	2.1228070175438596	114	0.879995523087	2	2	3	3	3	3	3	3	1	2	1	3	2	3	2	3	2	3	3	2	2	0	1	2	1	3	2	3	2	2	2	3	2	2	0	2	3	2	0	2	3	2	2	3	3	3	3	1	2	1	2	2	2	0	3	3	1	2	2	3	3	3	3	3	3	1	2	1	3	2	3	2	3	2	3	3	2	2	0	1	2	1	3	2	3	2	2	2	3	2	2	0	2	3	2	0	2	3	2	2	3	3	3	3	1	2	1	2	2	2	0	3	3	1
+706888504948	Shaquille O'Neal Celebrity rivals  Rival Kobe Bryant	1.3846153846153846	26	1.00295421619	2	2	1	0	2	2	3	0	0	2	0	2	2	2	2	1	0	2	2	3	0	0	2	0	2	2
+706888504948	Shaquille O'Neal Drafted  School/Institution Louisiana State University	1.1538461538461537	26	1.16659622216	2	2	3	0	2	1	0	0	0	3	0	0	2	2	2	3	0	2	1	0	0	0	3	0	0	2
+706888504948	Shaquille O'Neal Events Competed In  Medal Gold medal	1.3076923076923077	26	1.13575562002	2	0	2	0	2	1	3	0	0	2	0	3	2	2	0	2	0	2	1	3	0	0	2	0	3	2
+706888504948	Shaquille O'Neal TV programs Created Love Shaq	0.5384615384615384	26	0.842650088469	2	0	2	0	1	0	0	0	0	2	0	0	0	2	0	2	0	1	0	0	0	0	2	0	0	0
+706888504948	Shaquille O'Neal Position(s) Center	1.9230769230769231	26	1.07141448286	2	2	3	2	3	1	3	0	0	3	1	3	2	2	2	3	2	3	1	3	0	0	3	1	3	2
+706888504948	Shaquille O'Neal Country  Sport Basketball	1.5384615384615385	26	0.929465074892	2	2	3	2	1	1	1	0	0	3	1	2	2	2	2	3	2	1	1	1	0	0	3	1	2	2
+706888504948	Shaquille O'Neal TV programs produced  Program Shaq Vs.	0.46153846153846156	26	0.842650088469	2	0	2	0	0	0	0	0	0	2	0	0	0	2	0	2	0	0	0	0	0	0	2	0	0	0
+706888504948	Shaquille O'Neal Things named after this Shaq Fu	0.46153846153846156	26	0.842650088469	2	0	2	0	0	0	0	0	0	2	0	0	0	2	0	2	0	0	0	0	0	0	2	0	0	0
+706888504948	Shaquille O'Neal Religion Islam	0.6666666666666666	18	0.942809041582	2	0	2	0	2	0	0	0	0	2	0	2	0	2	0	0	0	0
+706888504948	Shaquille O'Neal TV regular appearances  Appearance type Him/Herself	0.46153846153846156	26	0.842650088469	2	0	2	0	0	0	0	0	0	2	0	0	0	2	0	2	0	0	0	0	0	0	2	0	0	0
+706888504948	Shaquille O'Neal Awards  Team Los Angeles Lakers	1.7142857142857142	14	1.16057691495	2	2	0	3	0	3	2	2	2	0	3	0	3	2
+706888504948	Shaquille O'Neal Quotations It's just something to have on my resume for when I go back into reality. Someday I might have to put down a basketball and have a regular 9-to-5 like everybody else.	0.6666666666666666	18	0.816496580928	1	0	2	1	2	0	0	0	0	1	0	2	1	2	0	0	0	0
+706888504948	Shaquille O'Neal Ethnicity African American	0.7142857142857143	28	0.880630571853	2	0	2	0	2	0	0	0	0	2	1	1	0	0	2	0	2	0	2	0	0	0	0	2	1	1	0	0
+706888504948	Shaquille O'Neal Sports played  Sport Basketball	1.875	16	1.16592238164	2	2	3	2	3	0	3	0	2	2	3	2	3	0	3	0
+706888504948	Shaquille O'Neal Starring TV roles  Series NBA on TNT	0.6666666666666666	12	0.942809041582	2	0	0	2	0	0	2	0	0	2	0	0
+706888504948	Shaquille O'Neal Player Statistics  Team Los Angeles Lakers	1.8666666666666667	15	0.95684667296	2	2	0	3	1	3	2	2	2	0	3	1	3	2	2
+706888504948	Shaquille O'Neal Teams  Team Boston Celtics	2.0	12	1.0	2	2	0	3	2	3	2	2	0	3	2	3
+706888504948	Shaquille O'Neal Spouse (or domestic partner)  Type of union Marriage	0.4444444444444444	18	0.831479419283	2	0	2	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0
+706888504948	Shaquille O'Neal Parents Lucille O'Neal	0.5	16	0.866025403784	2	0	2	0	0	0	0	0	2	0	2	0	0	0	0	0
+706888504948	Shaquille O'Neal Siblings  Sibling Jamal O'Neal	0.5714285714285714	28	0.728431359085	2	0	2	0	1	0	0	0	0	1	1	1	0	0	2	0	2	0	1	0	0	0	0	1	1	1	0	0
+57865383535048	Michelle Obama Animals owned  Animal Bo	0.014084507042253521	142	0.117839440357	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Family Family of Barack Obama	0.15384615384615385	143	0.431418092733	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Member of  Organization Alpha Phi Omega	1.4533333333333334	150	0.868613198661	2	0	3	1	2	2	3	0	1	2	2	3	1	1	2	0	0	1	1	1	2	0	1	1	2	1	2	2	1	3	3	2	1	1	1	1	1	2	1	3	1	1	1	0	2	3	1	2	3	1	2	2	2	3	1	2	2	0	2	0	2	1	2	1	1	2	1	1	0	2	2	2	1	0	1	2	0	3	1	2	2	3	0	1	2	2	3	1	1	2	0	0	1	1	1	2	0	1	1	2	1	2	2	1	3	3	2	1	1	1	1	1	2	1	3	1	1	1	0	2	3	1	2	3	1	2	2	2	3	1	2	2	0	2	0	2	1	2	1	1	2	1	1	0	2	2	2	1	0	1
+57865383535048	Michelle Obama Party  Party Democratic Party	0.04225352112676056	142	0.261986975179	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Appears in ranked lists  List Time 100	0.11267605633802817	142	0.395370953454	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	2	0	0	0	0
+57865383535048	Michelle Obama Religion Protestantism	0.1986754966887417	151	0.540049881798	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Government Positions Held  Basic title First Lady	0.22666666666666666	150	0.623395718803	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	3	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	3	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Ethnicity African American	0.039735099337748346	151	0.195336174884	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Employment history  Employer Federal government of the United States	0.32	150	0.569444173442	1	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	2	1	1	0	0	0	1	0	0	2	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	2	1	0	0	2	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	2	1	1	0	0	0	1	0	0	2	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	2	1	0	0	2	0	0	0	0	0	1	1	0	0
+57865383535048	Michelle Obama Spouse (or domestic partner)  Spouse Barack Obama	0.028169014084507043	142	0.165455494711	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Parents Fraser C. Robinson III	0.06578947368421052	152	0.337776254026	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Children Natasha Obama	0.0	152	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Places lived  Location Hyde Park	0.07042253521126761	142	0.349000329391	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Siblings  Sibling Craig Robinson	0.0	142	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Education  Degree Bachelor of Arts	2.973333333333333	150	0.161107279648	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3
+57865383535048	Michelle Obama Place of birth Chicago	0.0	83	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Works Written About This Topic What Death of Osama Bin Laden Indicates About Barack Obama's Leadership	0.2582781456953642	151	0.545463848529	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	2	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	2	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	1
+57865383535048	Michelle Obama Gender Female	0.022988505747126436	87	0.149866721959	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Profession Writer	0.8390804597701149	87	0.957409858527	1	0	2	0	2	0	2	0	0	2	0	0	0	2	0	2	1	0	2	0	1	2	0	2	1	1	1	3	3	0	1	0	0	0	0	2	0	0	0	0	2	0	1	1	0	2	0	2	0	2	0	0	2	0	0	0	2	0	2	1	0	2	0	1	2	0	2	1	1	1	3	3	0	1	0	0	0	0	2	0	0	0	0	2	0	1	1
+57865383535048	Michelle Obama Awards Won  Winning work Let's Move!	0.17218543046357615	151	0.524392924366	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	0	0	0	0	0	2	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	0	0	0	0	0	2	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+767878574948	Family Guy Distributor 20th Television	1.12	100	1.05147515425	1	0	1	2	0	0	1	3	0	2	1	0	0	0	0	0	3	3	2	0	0	2	1	2	2	0	2	0	0	2	3	1	0	0	3	1	2	0	2	1	0	0	3	2	1	1	1	1	2	2	1	0	1	2	0	0	1	3	0	2	1	0	0	0	0	0	3	3	2	0	0	2	1	2	2	0	2	0	0	2	3	1	0	0	3	1	2	0	2	1	0	0	3	2	1	1	1	1	2	2
+767878574948	Family Guy Part of fictional universes Family Guy Universe	0.46	100	0.78	0	2	0	0	0	0	0	1	0	1	0	0	2	0	0	0	1	0	0	0	0	2	0	0	0	0	0	2	0	0	0	1	0	0	1	1	0	0	2	1	1	0	0	0	3	2	0	0	0	0	0	2	0	0	0	0	0	1	0	1	0	0	2	0	0	0	1	0	0	0	0	2	0	0	0	0	0	2	0	0	0	1	0	0	1	1	0	0	2	1	1	0	0	0	3	2	0	0	0	0
+767878574948	Family Guy Adaptations Family Guy Online	0.5	100	0.830662386292	0	2	1	0	0	0	1	2	0	0	1	0	2	0	0	0	1	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	2	1	0	0	2	1	2	0	0	0	3	0	0	0	0	0	0	2	1	0	0	0	1	2	0	0	1	0	2	0	0	0	1	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	2	1	0	0	2	1	2	0	0	0	3	0	0	0	0	0
+767878574948	Family Guy Spin-offs The Cleveland Show	0.5	100	0.728010988928	0	2	1	0	0	0	0	1	0	1	1	0	2	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	1	1	1	0	1	0	3	2	0	0	1	1	0	2	1	0	0	0	0	1	0	1	1	0	2	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	1	1	1	0	1	0	3	2	0	0	1	1
+767878574948	Family Guy Languages English Language	0.38	100	0.66	1	0	1	0	0	0	0	2	0	0	1	1	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	2	1	1	0	1	0	0	0	2	0	0	0	1	0	1	0	0	0	0	2	0	0	1	1	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	2	1	1	0	1	0	0	0	2	0	0	0
+767878574948	Family Guy Theme song Family Guy Theme Song	0.64	100	0.842852300228	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	2	1	1	0	0	0	1	0	2	1	1	1	0	0	3	1	0	2	2	2	0	1	1	0	3	2	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	2	1	1	0	0	0	1	0	2	1	1	1	0	0	3	1	0	2	2	2	0	1	1	0	3	2	0	0	0
+767878574948	Family Guy Program creator Seth MacFarlane	1.96	100	1.21589473229	2	0	3	1	0	0	3	3	0	3	2	1	0	1	0	1	3	3	3	1	3	2	3	3	3	1	3	2	0	3	3	1	3	0	3	3	3	3	3	3	3	0	3	1	0	2	3	2	3	3	2	0	3	1	0	0	3	3	0	3	2	1	0	1	0	1	3	3	3	1	3	2	3	3	3	1	3	2	0	3	3	1	3	0	3	3	3	3	3	3	3	0	3	1	0	2	3	2	3	3
+767878574948	Family Guy Soundtrack Family Guy: Live in Vegas	0.44	100	0.63749509802	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	2	0	1	0	0	0	1	0	2	0	0	1	0	1	2	1	0	2	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	2	0	1	0	0	0	1	0	2	0	0	1	0	1	2	1	0	2	1	1	0	1	1	0	0	0	0	0	0
+767878574948	Family Guy Original network  Network FOX	1.04	100	0.958331884057	2	0	1	2	0	0	1	2	0	1	1	1	0	0	0	0	3	2	3	0	1	2	0	1	2	1	1	0	0	0	3	1	1	0	3	1	2	0	2	1	1	0	2	1	0	1	2	0	2	2	2	0	1	2	0	0	1	2	0	1	1	1	0	0	0	0	3	2	3	0	1	2	0	1	2	1	1	0	0	0	3	1	1	0	3	1	2	0	2	1	1	0	2	1	0	1	2	0	2	2
+767878574948	Family Guy Genre Animation	0.38	100	0.628967407741	0	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	2	0	0	1	1	0	0	1	1	0	0	2	1	1	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	2	0	0	1	1	0	0	1	1	0	0	2	1	1	0	0	0	0	0	2	0	0	0
+767878574948	Family Guy Multipart episodes Stewie Kills Lois and Lois Kills Stewie	0.58	100	0.918477000256	0	2	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	2	0	1	0	0	0	2	2	0	2	2	2	0	0	2	3	2	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	2	0	1	0	0	0	2	2	0	2	2	2	0	0	2	3	2	0	0	0	0
+767878574948	Family Guy Netflix Genres Television	0.4	100	0.692820323028	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	2	1	1	0	2	1	2	1	1	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	2	1	1	0	2	1	2	1	1	0	0	1
+767878574948	Family Guy Recurring writers  Writer Seth MacFarlane	2.1	100	0.877496438739	2	0	2	1	2	0	2	3	2	3	2	1	2	1	0	1	2	3	3	2	3	2	3	3	3	1	2	2	0	3	2	2	2	2	3	3	2	3	3	3	3	2	3	2	2	3	3	2	2	2	2	0	2	1	2	0	2	3	2	3	2	1	2	1	0	1	2	3	3	2	3	2	3	3	3	1	2	2	0	3	2	2	2	2	3	3	2	3	3	3	3	2	3	2	2	3	3	2	2	2
+767878574948	Family Guy TV Producer  Producer Seth MacFarlane	2.74	100	0.626418390535	3	0	3	3	2	3	3	3	2	3	3	3	1	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	2	3	3	2	3	3	3	3	1	3	3	3	3	3	3	0	3	3	2	3	3	3	2	3	3	3	1	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	2	3	3	2	3	3	3	3	1	3	3	3	3	3
+767878574948	Family Guy Seasons Family Guy - Season 10	0.36	100	0.71442284398	0	2	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	2	1	1	0	0	0	3	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	2	1	1	0	0	0	3	0	0	0	0	0
+767878574948	Family Guy Awards Won  Award winner Seth MacFarlane	0.94	100	0.946784030284	0	0	2	0	0	0	2	2	0	1	2	0	0	2	0	0	2	0	2	0	2	2	0	3	1	1	0	0	0	3	2	1	0	0	1	1	0	1	2	1	0	0	2	1	0	1	2	1	2	2	0	0	2	0	0	0	2	2	0	1	2	0	0	2	0	0	2	0	2	0	2	2	0	3	1	1	0	0	0	3	2	1	0	0	1	1	0	1	2	1	0	0	2	1	0	1	2	1	2	2
+767878574948	Family Guy Regular acting performances  Special performance type Voice	1.188118811881188	101	1.04087616641	0	3	1	0	2	0	0	1	2	2	1	1	3	0	0	2	1	3	0	0	1	2	2	2	1	0	1	2	0	3	0	1	0	2	1	2	2	0	2	2	2	0	0	0	3	3	1	0	1	2	0	3	1	0	2	0	0	1	2	2	1	1	3	0	0	2	1	3	0	0	1	2	2	2	1	0	1	2	0	3	0	1	0	2	1	2	2	0	2	2	2	0	0	0	3	3	1	0	1	2	0
+767878574948	Family Guy Award Nominations  Award Nominee Seth MacFarlane	0.86	100	0.894650769854	0	0	2	0	0	0	2	2	0	1	2	0	0	0	0	0	2	0	2	0	2	2	0	3	1	1	0	0	0	1	2	1	0	0	1	1	0	1	2	2	0	0	2	1	0	1	2	1	1	2	0	0	2	0	0	0	2	2	0	1	2	0	0	0	0	0	2	0	2	0	2	2	0	3	1	1	0	0	0	1	2	1	0	0	1	1	0	1	2	2	0	0	2	1	0	1	2	1	1	2
+767878574948	Family Guy Episodes Thanksgiving	0.4752475247524752	101	0.827665922535	0	2	0	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	2	2	0	2	1	1	0	0	1	3	2	0	0	1	0	0	2	0	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	2	2	0	2	1	1	0	0	1	3	2	0	0	1	0	0
+767878574948	Family Guy Adaptations Family Guy Presents: Stewie Griffin: The Untold Story	0.25	16	0.661437827766	0	2	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+9571555448	Pelé Films Executive Produced Pele	0.08275862068965517	145	0.32170769075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Position(s) Midfielder	1.7655172413793103	145	0.886790362067	1	2	2	3	2	2	2	2	3	0	2	2	1	3	2	2	2	2	1	0	3	3	0	3	2	1	2	2	2	3	2	2	2	2	1	3	1	2	0	0	1	0	2	2	0	3	2	2	2	1	1	2	3	2	2	2	1	2	3	2	2	3	2	2	3	0	0	2	2	1	1	2	1	2	2	3	2	2	2	2	3	0	2	2	1	3	2	2	2	2	1	0	3	3	0	3	2	1	2	2	2	3	2	2	2	2	1	3	1	2	0	0	1	0	2	2	0	3	2	2	2	1	1	2	3	2	2	2	1	2	3	2	2	3	2	2	3	0	0	2	2	1	1	2	2
+9571555448	Pelé Government Positions Held  Appointed By (if Position is Appointed) Fernando Henrique Cardoso	0.041666666666666664	144	0.199826313471	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+9571555448	Pelé Sports played  Sport Football - Soccer	1.875	144	0.927024810887	1	3	2	3	3	2	2	3	3	0	1	3	1	3	2	2	2	2	1	0	3	3	2	2	3	2	3	0	0	1	2	2	2	2	1	3	1	2	1	1	1	0	1	2	0	3	2	3	3	2	1	2	3	2	2	2	1	1	2	2	2	3	3	2	3	3	1	1	2	1	1	3	1	3	2	3	3	2	2	3	3	0	1	3	1	3	2	2	2	2	1	0	3	3	2	2	3	2	3	0	0	1	2	2	2	2	1	3	1	2	1	1	1	0	1	2	0	3	2	3	3	2	1	2	3	2	2	2	1	1	2	2	2	3	3	2	3	3	1	1	2	1	1	3
+9571555448	Pelé Spouse (or domestic partner)  Type of union Marriage	0.013888888888888888	144	0.117029857961	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Teams  Position Forward	1.7638888888888888	144	0.873897012041	1	2	2	3	3	2	2	2	3	0	2	2	1	3	2	2	2	2	1	0	3	3	0	2	2	1	2	1	2	1	2	2	1	2	1	3	1	3	0	0	1	0	2	2	0	3	2	2	2	2	1	2	3	1	2	2	1	2	2	2	1	3	3	2	3	3	1	2	2	1	1	2	1	2	2	3	3	2	2	2	3	0	2	2	1	3	2	2	2	2	1	0	3	3	0	2	2	1	2	1	2	1	2	2	1	2	1	3	1	3	0	0	1	0	2	2	0	3	2	2	2	2	1	2	3	1	2	2	1	2	2	2	1	3	3	2	3	3	1	2	2	1	1	2
+9571555448	Pelé Parents João Ramos do Nascimento	0.0273972602739726	146	0.163238017641	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Places lived  Location Minas Gerais	0.013888888888888888	144	0.117029857961	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Children Edson Cholbi Nascimento	0.0	145	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Siblings  Sibling Zeca Nascimento	0.0	144	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Country of nationality Brazil	0.08275862068965517	145	0.362052544784	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+9571555448	Pelé Place of birth Três Corações	0.0	145	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Things named after this Pelé's Soccer	0.7034482758620689	145	0.903053348797	3	0	0	0	3	0	0	0	0	0	0	1	2	0	0	3	1	0	0	1	0	2	2	1	2	0	1	1	2	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	2	2	2	1	0	0	1	2	1	2	1	0	1	0	0	0	1	2	0	1	3	0	0	0	3	0	0	0	0	0	0	1	2	0	0	3	1	0	0	1	0	2	2	1	2	0	1	1	2	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	2	2	2	1	0	0	1	2	1	2	1	0	1	0	0	0	1	2	0	1	0
+9571555448	Pelé Gender Male	0.0	145	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Profession Actor	0.0	145	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Film performances  Special Performance Type Him/Herself	0.05555555555555555	144	0.283278861866	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Films appeared in  Type of Appearance Him/Herself	0.0182648401826484	219	0.133907564371	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9571555448	Pelé Awards Won  Award category BBC Overseas Sports Personality of the Year	2.4305555555555554	144	0.796282837957	3	1	3	3	0	2	3	2	3	1	3	2	3	2	2	3	2	2	2	3	2	3	2	2	3	3	3	3	3	3	3	0	3	3	3	2	2	3	3	3	2	1	2	3	3	3	2	3	3	3	1	3	3	3	3	2	3	3	2	1	2	3	0	3	3	3	2	3	2	3	3	2	3	1	3	3	0	2	3	2	3	1	3	2	3	2	2	3	2	2	2	3	2	3	2	2	3	3	3	3	3	3	3	0	3	3	3	2	2	3	3	3	2	1	2	3	3	3	2	3	3	3	1	3	3	3	3	2	3	3	2	1	2	3	0	3	3	3	2	3	2	3	3	2
+9571555448	Pelé Position(s) Forward	1.8169014084507042	71	0.810318302177	1	2	2	2	3	2	2	0	3	2	2	2	2	0	2	3	2	2	2	1	2	2	2	1	3	3	1	3	2	0	2	2	1	1	2	1	2	2	2	3	2	2	0	3	2	2	2	2	0	2	3	2	2	2	1	2	2	2	1	3	3	1	3	2	0	2	2	1	1	2	1
+9571555448	Pelé Government Positions Held  Office	0.06779661016949153	118	0.251396558885	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+8686545348	Montenegro Belongs To Combatant Group Triple Entente	1.0975609756097562	82	0.957763605662	0	0	1	2	0	2	0	1	1	3	0	2	1	0	1	2	0	1	3	2	2	0	2	0	0	2	0	0	0	2	0	2	2	1	2	1	2	2	1	2	0	0	0	1	2	0	2	0	1	1	3	0	2	1	0	1	2	0	1	3	2	2	0	2	0	0	2	0	0	0	2	0	2	2	1	2	1	2	2	1	2	0
+8686545348	Montenegro National anthem  Anthem Oj, svijetla majska zoro	0.725	80	0.741198354019	0	0	1	1	0	1	0	1	1	0	0	1	0	2	0	1	2	1	2	1	0	1	1	0	0	1	0	2	1	0	1	1	1	1	0	0	1	0	3	0	0	0	1	1	0	1	0	1	1	0	0	1	0	2	0	1	2	1	2	1	0	1	1	0	0	1	0	2	1	0	1	1	1	1	0	0	1	0	3	0
+8686545348	Montenegro Official Language Montenegrin language	0.65	80	0.792148975888	1	0	0	1	0	1	0	1	0	0	0	1	0	1	0	0	1	0	1	2	0	1	2	0	0	2	0	2	1	0	0	1	1	0	0	0	0	2	3	1	1	0	0	1	0	1	0	1	0	0	0	1	0	1	0	0	1	0	1	2	0	1	2	0	0	2	0	2	1	0	0	1	1	0	0	0	0	2	3	1
+8686545348	Montenegro Currency Used Euro	0.7	80	0.92736184955	0	0	0	1	0	2	0	0	1	0	0	1	0	2	0	0	2	0	1	1	0	0	1	0	0	2	0	3	2	0	0	1	2	0	0	1	0	2	3	0	0	0	0	1	0	2	0	0	1	0	0	1	0	2	0	0	2	0	1	1	0	0	1	0	0	2	0	3	2	0	0	1	2	0	0	1	0	2	3	0
+8686545348	Montenegro Capital Podgorica	1.25	80	1.01857743937	2	2	3	2	0	1	0	2	2	0	0	2	0	1	0	1	2	0	2	2	0	2	2	2	0	2	0	3	1	0	1	1	2	1	1	0	0	3	3	2	2	2	3	2	0	1	0	2	2	0	0	2	0	1	0	1	2	0	2	2	0	2	2	2	0	2	0	3	1	0	1	1	2	1	1	0	0	3	3	2
+8686545348	Montenegro Flag  Flag Flag of Montenegro	0.9	80	0.888819441732	0	2	1	2	0	1	0	0	1	0	0	2	0	2	1	0	2	1	1	2	0	1	2	0	0	2	0	3	1	0	1	1	1	0	0	0	2	2	2	0	0	2	1	2	0	1	0	0	1	0	0	2	0	2	1	0	2	1	1	2	0	1	2	0	0	2	0	3	1	0	1	1	1	0	0	0	2	2	2	0
+8686545348	Montenegro Currency Formerly Used Deutsche Mark	0.3902439024390244	82	0.658084759182	0	2	0	1	0	2	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	1	0	0	2	0	1	0	0	0	1	0	0	0	0	0	1	2	0	0	2	0	1	0	2	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	1	0	0	2	0	1	0	0	0	1	0	0	0	0	0	1	2	0
+8686545348	Montenegro GDP (nominal per capita)  Currency United States Dollar	0.6	80	0.943398113206	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	1	0	0	1	0	3	0	0	2	1	0	0	2	2	0	0	1	0	2	3	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	1	0	0	1	0	3	0	0	2	1	0	0	2	2	0	0	1	0	2	3	2
+8686545348	Montenegro Internet TLD me	0.07317073170731707	82	0.260416542732	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+8686545348	Montenegro Form of Government Republic	2.926829268292683	82	0.260416542732	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	2	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	2	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3
+8686545348	Montenegro Government bodies Parliament of Montenegro	2.911111111111111	90	0.354163943345	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+8686545348	Montenegro Government positions President of the Parliament of Montenegro	2.925	80	0.345506874027	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+8686545348	Montenegro Time zone(s) Central European Time Zone	0.11428571428571428	70	0.31815796359	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0
+8686545348	Montenegro Olympics participated in 2008 Summer Olympics	0.021739130434782608	92	0.145830520272	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8686545348	Montenegro Languages spoken Croatian language	0.2222222222222222	18	0.415739709642	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1
+8686545348	Montenegro Member of  Organization United Nations	2.0	6	0.0	2	2	2	2	2	2
+8686545348	Montenegro Adjoins  Adjoins Serbia	0.6666666666666666	6	0.942809041582	0	2	0	0	2	0
+8686545348	Montenegro Internet users as percentage of population  Source Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8686545348	Montenegro Military expenditure as percentage of GDP  Source Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank	0.8888888888888888	18	0.874889763779	0	2	0	0	1	0	1	2	2	0	2	0	0	1	0	1	2	2
+8686545348	Montenegro Teams Montenegro national football team	0.0	28	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5167788848	Charles, Prince of Wales Memberships Presented  Recipient Adele	0.5135135135135135	74	0.641856329029	0	1	1	1	0	0	0	2	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	1	2	0	0	0	1	1	0	1	2	1	1	0	1	1	1	0	0	0	2	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	1	2	0	0	0	1	1	0	1	2	1	1
+5167788848	Charles, Prince of Wales Service  Military Force British Army	1.3513513513513513	74	1.04535565437	1	2	2	2	0	0	2	0	0	0	1	2	2	0	1	1	2	0	3	2	0	2	0	3	3	2	3	2	0	3	0	2	1	1	2	1	2	1	2	2	2	0	0	2	0	0	0	1	2	2	0	1	1	2	0	3	2	0	2	0	3	3	2	3	2	0	3	0	2	1	1	2	1	2
+5167788848	Charles, Prince of Wales Appears in ranked lists  Item Al Gore	0.32432432432432434	74	0.699577248948	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	1	0	2	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	1	0	2	0	0	2	0	0
+5167788848	Charles, Prince of Wales Leader of  Role President	1.0	66	1.07308673998	0	0	0	2	0	0	0	1	2	0	0	0	2	0	2	2	0	1	0	1	2	1	3	3	0	3	0	2	0	2	2	2	0	0	0	0	2	0	0	0	1	2	0	0	0	2	0	2	2	0	1	0	1	2	1	3	3	0	3	0	2	0	2	2	2	0
+5167788848	Charles, Prince of Wales Family House of Windsor	1.7721518987341771	79	0.79475124822	2	0	2	2	1	2	2	3	0	2	2	3	1	2	2	1	2	1	2	1	2	2	0	2	0	3	2	2	2	2	3	2	2	3	2	2	2	2	1	2	0	2	2	1	2	2	3	0	2	2	3	1	2	2	1	2	1	2	1	2	2	0	2	0	3	2	2	2	2	3	2	2	3	2	2	2	2	1	2
+5167788848	Charles, Prince of Wales Representations In Fiction Prince Charles	0.24050632911392406	79	0.578413147281	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	2	1	1	0	0	0	0	0	1
+5167788848	Charles, Prince of Wales Belongs to Order  Order Order of the Thistle	1.2820512820512822	78	0.959399329942	1	1	2	2	0	0	1	1	1	2	0	1	3	1	2	0	1	2	2	0	2	2	0	1	0	0	2	2	3	3	0	3	0	2	1	1	2	2	1	1	1	2	2	0	0	1	1	1	2	0	1	3	1	2	0	1	2	2	0	2	2	0	1	0	0	2	2	3	3	0	3	0	2	1	1	2	2	1
+5167788848	Charles, Prince of Wales Titles  Noble title Prince of Wales	1.4848484848484849	66	1.0186506857	2	1	2	2	0	2	0	2	2	0	2	0	2	0	2	2	0	2	0	2	1	2	3	2	3	3	2	3	0	2	2	0	1	2	1	2	2	0	2	0	2	2	0	2	0	2	0	2	2	0	2	0	2	1	2	3	2	3	3	2	3	0	2	2	0	1
+5167788848	Charles, Prince of Wales TV regular appearances  Appearance type Him/Herself	0.3333333333333333	78	0.613244140672	0	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	2	1	2	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	2	1	2	0	0	0	1	0
+5167788848	Charles, Prince of Wales Employment history  Employer Business in the Community	1.1794871794871795	78	1.10643328258	0	1	0	2	0	2	0	1	0	2	2	0	2	2	2	0	0	2	2	0	2	2	0	2	0	3	3	3	3	0	0	0	0	2	0	0	2	2	2	0	1	0	2	0	2	0	1	0	2	2	0	2	2	2	0	0	2	2	0	2	2	0	2	0	3	3	3	3	0	0	0	0	2	0	0	2	2	2
+5167788848	Charles, Prince of Wales Religion Anglicanism	2.4358974358974357	78	0.7440316989	3	3	3	1	1	3	2	3	3	3	3	3	3	3	2	1	3	3	2	1	2	3	2	3	2	3	2	2	3	3	3	1	3	3	3	1	2	2	3	3	3	3	1	1	3	2	3	3	3	3	3	3	3	2	1	3	3	2	1	2	3	2	3	2	3	2	2	3	3	3	1	3	3	3	1	2	2	3
+5167788848	Charles, Prince of Wales Starring TV roles  Series VC	0.3235294117647059	68	0.526955084328	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	2	0	0	1	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	2	0	0	1	0	1	0	0	0	1	0
+5167788848	Charles, Prince of Wales Spouse (or domestic partner)  Spouse Diana, Princess of Wales	2.58974358974359	78	0.807590551181	3	3	3	1	3	3	3	3	3	3	3	3	3	3	1	3	3	3	2	3	3	3	0	3	0	3	3	2	3	3	3	2	3	3	3	2	2	2	3	3	3	3	1	3	3	3	3	3	3	3	3	3	3	1	3	3	3	2	3	3	3	0	3	0	3	3	2	3	3	3	2	3	3	3	2	2	2	3
+5167788848	Charles, Prince of Wales Organizations founded The Prince's Trust	0.6571428571428571	70	0.859995253902	0	2	0	2	0	1	0	0	0	1	2	0	0	0	2	0	0	0	0	1	1	0	0	1	3	0	0	1	0	2	0	1	2	1	0	0	2	0	2	0	1	0	0	0	1	2	0	0	0	2	0	0	0	0	1	1	0	0	1	3	0	0	1	0	2	0	1	2	1	0
+5167788848	Charles, Prince of Wales Places lived  Location London	2.1470588235294117	68	1.03276763918	3	3	0	1	0	3	2	3	3	3	2	3	2	2	0	2	2	0	3	0	3	3	2	2	3	3	3	2	3	3	3	2	2	2	3	3	0	1	0	3	2	3	3	3	2	3	2	2	0	2	2	0	3	0	3	3	2	2	3	3	3	2	3	3	3	2	2	2
+5167788848	Charles, Prince of Wales Parents Elizabeth II	2.4050632911392404	79	0.893279937437	3	3	3	1	1	3	3	3	3	3	3	3	3	3	1	1	3	3	2	1	3	3	0	3	0	3	3	2	3	3	3	2	2	3	3	2	2	2	3	3	3	3	1	1	3	3	3	3	3	3	3	3	3	1	1	3	3	2	1	3	3	0	3	0	3	3	2	3	3	3	2	2	3	3	2	2	2	3	2
+5167788848	Charles, Prince of Wales Siblings  Sibling Anne, Princess Royal	2.4358974358974357	78	0.841088177788	3	3	3	1	1	3	3	3	3	2	3	3	3	3	1	1	3	3	2	1	3	3	1	3	0	3	3	2	2	3	3	3	3	3	3	2	2	2	3	3	3	3	1	1	3	3	3	3	2	3	3	3	3	1	1	3	3	2	1	3	3	1	3	0	3	3	2	2	3	3	3	3	3	3	2	2	2	3
+5167788848	Charles, Prince of Wales Education  Institution University of Cambridge	2.0833333333333335	24	1.03749163317	3	3	3	2	0	2	2	3	2	3	2	0	3	3	3	2	0	2	2	3	2	3	2	0
+5167788848	Charles, Prince of Wales Children Prince Harry	2.5063291139240507	79	0.744148782618	3	3	3	1	2	3	3	3	3	2	3	3	3	3	1	2	3	3	2	2	3	3	1	3	0	3	3	2	3	3	3	2	3	3	3	2	2	2	3	3	3	3	1	2	3	3	3	3	2	3	3	3	3	1	2	3	3	2	2	3	3	1	3	0	3	3	2	3	3	3	2	3	3	3	2	2	2	3	2
+5167788848	Charles, Prince of Wales Country of nationality United Kingdom	2.272727272727273	22	0.962091385842	3	3	3	1	0	3	2	2	3	3	2	3	3	3	1	0	3	2	2	3	3	2
+518753486848	China Titles  Title Emperor of China	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Contains major portion of Gaotou Township	0.2727272727272727	22	0.445361771415	0	0	1	1	0	1	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0
+518753486848	China Coterminous with  Location Taiwan	0.1111111111111111	18	0.314269680527	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+518753486848	China Belongs To Combatant Group Triple Entente	0.0	28	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Exhibitions created about this subject China Design Now	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China TV shows filmed here The Bride with White Hair	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Government Government of China	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Subject of Great Wall of China	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Periodicals Modern China	0.0	8	0.0	0	0	0	0	0	0	0	0
+518753486848	China Currency Formerly Used Huizi	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Films On This Subject Mao's Last Dancer	0.0	9	0.0	0	0	0	0	0	0	0	0	0
+518753486848	China Currency Used Renminbi	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Casualties  Military Conflict Vietnam War	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Force Deployments  Combatant Soviet Union	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Capital Beijing	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Flag  Flag Flag of China	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Places exported to  Currency United States Dollar	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China GDP (nominal per capita)  Currency United States Dollar	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Internet TLD mo	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China National anthem  Anthem March of the Volunteers	0.0	22	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Celebrity rivals  Rival Camilla, Duchess of Cornwall	0.0	36	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Condition Bulimia nervosa	0.16666666666666666	36	0.5	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Celebrity friends  Friend Elton John	0.0	36	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Romantic relationships (with celebrities)  Celebrity Theodore J. Forstmann	0.1111111111111111	36	0.314269680527	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+5153485448	Diana, Princess of Wales Place of burial Althorp	1.6111111111111112	36	1.11249913303	2	0	2	2	3	3	2	0	0	2	3	2	1	3	2	0	0	2	2	0	2	2	3	3	2	0	0	2	3	2	1	3	2	0	0	2
+5153485448	Diana, Princess of Wales Cause of death Traffic collision	2.8333333333333335	36	0.687184270936	3	3	3	3	3	3	3	0	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	0	3	3	3	3	3	3	3	3	3	3
+5153485448	Diana, Princess of Wales Family House of Windsor	0.0	106	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Titles  Noble title Princess of Wales	0.0	36	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Representations In Fiction Princess Diana	0.07547169811320754	106	0.264150943396	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+5153485448	Diana, Princess of Wales Religion Anglicanism	0.0	106	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Place of death Paris	2.84	100	0.504380808517	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	2	3	3	3	0	3	3	2	3	3	3	2	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	2	3	3	3	0	3	3	2	3	3	3	2	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+5153485448	Diana, Princess of Wales Spouse (or domestic partner)  Spouse Charles, Prince of Wales	0.02	100	0.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Parents John Spencer	0.0	107	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Siblings  Sibling John Spencer	0.0	106	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales TV episode performances  Special performance type Him/Herself	0.022222222222222223	90	0.147405546238	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+5153485448	Diana, Princess of Wales Children Prince Harry	0.0	96	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Education  Institution The New School at West Heath	0.0	96	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Country of nationality United Kingdom	0.0	78	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Films On This Subject Diana	0.0851063829787234	94	0.347010775113	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Place of birth Sandringham	0.0	78	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+72907148	Abraham Lincoln Military Commands  Military Conflict American Civil War	0.2727272727272727	22	0.616575453011	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	2	0	1
+72907148	Abraham Lincoln Appointees  Office	0.06666666666666667	30	0.249443825785	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+72907148	 position	0.13333333333333333	30	0.49888765157	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+72907148	 or title United States Secretary of State	0.2	30	0.541602560309	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0
+72907148	Abraham Lincoln Spouse (or domestic partner)  Location of ceremony Springfield	2.5	12	1.11803398875	0	3	3	3	3	3	0	3	3	3	3	3
+88677448	Albert Einstein Book editions published The World As I See It	1.1111111111111112	18	0.874889763779	2	1	2	0	2	2	0	0	1	2	1	2	0	2	2	0	0	1
+88677448	Albert Einstein Siblings  Sibling Maja Einstein	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Spouse (or domestic partner)  Location of ceremony Bern	0.0	6	0.0	0	0	0	0	0	0
+5249574948	Beijing Works Written About This Topic The Interior	0.0	28	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Quotations I'm King of the World!	0.043010752688172046	93	0.202881314668	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Executive produced by Rae Sanchini	0.0	15	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Screenplay by James Cameron	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Award Nominations  Award Academy Award for Best Documentary Short Subject	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Works Written About This Topic Black History Month Enhanced by International Year for People of African Descent	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Things named after this Kubrick	0.0851063829787234	94	0.347010775113	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+5578775448	Stanley Kubrick Quotations You're free to speculate as you wish about the philosophical and allegorical meaning of the film—and such speculation is one indication that it has succeeded in gripping the audience at a deep level—but I don't want to spell out a verbal road map for 2001 that every viewer will feel obligated to pursue or else fear he's missed the point.	0.6736842105263158	95	0.967276211171	0	1	0	0	0	0	0	2	0	0	0	0	0	1	0	1	0	0	0	2	2	0	0	0	0	2	0	0	3	0	1	0	3	1	0	1	2	2	1	0	3	2	0	0	2	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	1	0	1	0	0	0	2	2	0	0	0	0	2	0	0	3	0	1	0	3	1	0	1	2	2	1	0	3	2	0	0	2	0	0	0
+5578775448	Stanley Kubrick Film Story Credits A.I. Artificial Intelligence	2.127659574468085	94	0.936653646939	3	3	3	3	1	1	1	2	2	2	3	0	3	2	3	2	3	2	1	2	2	2	2	2	3	2	3	3	3	3	1	3	3	2	2	0	2	3	3	0	2	3	1	3	3	0	2	3	3	3	3	1	1	1	2	2	2	3	0	3	2	3	2	3	2	1	2	2	2	2	2	3	2	3	3	3	3	1	3	3	2	2	0	2	3	3	0	2	3	1	3	3	0	2
+7057716748	Richard Burton Films appeared in  Type of Appearance Him/Herself	1.4	80	0.7	1	1	0	1	2	1	2	2	1	1	2	1	1	1	2	1	3	2	2	2	1	2	2	2	2	1	1	2	0	2	2	1	1	2	2	0	2	1	1	0	1	1	0	1	2	1	2	2	1	1	2	1	1	1	2	1	3	2	2	2	1	2	2	2	2	1	1	2	0	2	2	1	1	2	2	0	2	1	1	0
+7176525248	Jacques-Yves Cousteau Things named after this Jacques Cousteau National Estuarine Research Reserve	0.06976744186046512	86	0.452144699889	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Films appeared in  Type of Appearance Him/Herself	0.09302325581395349	86	0.473185812776	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Places lived  Location Aquitaine	0.08108108108108109	74	0.486486486486	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau TV episode performances  Episode EPISODE #328	0.08108108108108109	74	0.486486486486	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7876784948	Cameroon Beers from here 33 Export	0.23076923076923078	26	0.575639597965	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0
+7876784948	Cameroon Agencies Cameroon Ministry of Justice	1.3846153846153846	26	0.835598499323	0	0	1	2	1	2	0	2	2	2	2	2	2	0	0	1	2	1	2	0	2	2	2	2	2	2
+7876784948	Cameroon Events 2008 Cameroonian anti-government protests	0.9	20	1.04403065089	2	0	0	1	0	1	0	2	3	0	2	0	0	1	0	1	0	2	3	0
+7876784948	Cameroon Governing officials  Basic title President	2.0	20	1.0	1	3	1	2	3	2	0	2	3	3	1	3	1	2	3	2	0	2	3	3
+7876784948	Cameroon Works Written About This Topic Cameroon with Egbert	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Organizations with this scope People's Front for Democracy and Justice	0.2962962962962963	54	0.531581484978	0	1	0	1	0	0	0	1	0	0	0	0	1	1	2	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	1	1	2	0	0	0	0	0	1	0	0	0	0	0	0
+8372755048	Eritrea Athletic performances  Medal Bronze medal	0.0	54	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Governing officials  Basic title President	2.1481481481481484	54	0.704677688535	2	2	2	2	1	2	0	3	3	1	2	2	2	2	2	3	3	3	2	3	3	3	2	2	2	2	2	2	2	2	2	1	2	0	3	3	1	2	2	2	2	2	3	3	3	2	3	3	3	2	2	2	2	2
+8448865148	Illinois Organizations with this scope Illinois State Board of Education	0.13953488372093023	86	0.509509355819	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+8448865148	Illinois Events Black Hawk War	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+8478554948	Bill Gates Quotations I believe that if you show people the problems and you show them the solutions they will be moved to act.	0.36585365853658536	82	0.689860274328	0	1	0	1	0	0	0	0	0	0	0	1	0	2	0	0	0	2	3	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	2	0	0	0	2	3	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0
+8478554948	Bill Gates Works Written About This Topic Programmers at work	0.36585365853658536	82	0.689860274328	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	1	0	0	2	0	0	0	1	0	0	0	1	0	2	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	1	0	0	2	0	0	0	1	0	0	0	1	0	2	0	0	2	0	2	0	0
+8478554948	Bill Gates Things named after this Bill & Melinda Gates Foundation	0.7317073170731707	82	0.856094086575	1	1	0	1	0	0	0	1	0	1	1	2	0	1	1	1	1	2	3	0	2	0	0	3	0	0	0	0	1	2	0	1	0	1	0	0	1	0	2	0	0	1	1	0	1	0	0	0	1	0	1	1	2	0	1	1	1	1	2	3	0	2	0	0	3	0	0	0	0	1	2	0	1	0	1	0	0	1	0	2	0	0
+8772815348	Poland Featured In Films The Dead And The Living	0.0	2	0.0	0	0
+8772815348	Poland Organizations founded United Nations	0.0	2	0.0	0	0
+8772815348	Poland Time zone(s) Central European Time Zone	0.0	2	0.0	0	0
+8772815348	Poland Languages spoken Polish Language	0.0	2	0.0	0	0
+9078665448	Russia Military Commanders  Military Commander Dmitry Donskoy	0.0	8	0.0	0	0	0	0	0	0	0	0
+9078665448	Russia Second level divisions Odintsovsky District	1.25	8	0.829156197589	0	2	2	1	0	2	2	1
+9078665448	Russia Religions  Religion Islam	0.5	8	0.866025403784	0	0	0	2	0	0	0	2
+706888504948	Shaquille O'Neal Lyrics Written Biological Didn't Bother	0.68	25	0.835224520713	2	0	1	0	0	0	0	2	2	1	0	0	2	0	1	0	0	0	0	2	2	1	0	0	1
+706888504948	Shaquille O'Neal Musical Genres Hip hop music	0.7272727272727273	22	0.862439361864	2	0	1	0	0	0	0	2	2	1	0	2	0	1	0	0	0	0	2	2	1	0
+706888504948	Shaquille O'Neal Works Composed Biological Didn't Bother	0.7272727272727273	22	1.05234880934	2	0	0	0	0	0	0	2	3	1	0	2	0	0	0	0	0	0	2	3	1	0
+706888504948	Shaquille O'Neal Record Labels A&M Records	0.625	32	0.85695682505	2	0	0	0	0	0	0	2	2	1	0	0	2	0	1	0	2	0	0	0	0	0	0	2	2	1	0	0	2	0	1	0
+57865383535048	Michelle Obama Films appeared in  Type of Appearance Him/Herself	0.0	81	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Award Nominations  Award Nominee Barack Obama	0.05	80	0.217944947177	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0
+9571555448	Pelé Government Positions Held  Office position or title Minister for Sport and the Olympics	0.0	6	0.0	0	0	0	0	0	0
+8686545348	Montenegro Beers from here Trebjesa Niksicko Pivo	0.07142857142857142	84	0.257539376819	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+8686545348	Montenegro Newspapers Dan	0.3783783783783784	74	0.585931983478	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	2	0	1	0	0	2	0	1	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	2	0	1	0	0	2	0	1	0
+8686545348	Montenegro Athletic performances  Olympics The London 2012 Summer Olympics	0.02666666666666667	75	0.161107279648	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8686545348	Montenegro Military Conflicts  Conflict Siege of Dubrovnik	1.3513513513513513	74	1.12023685276	3	0	2	0	3	1	2	2	2	0	0	1	1	1	2	2	3	0	3	0	0	0	0	0	2	2	1	2	3	1	3	0	2	3	1	2	0	3	0	2	0	3	1	2	2	2	0	0	1	1	1	2	2	3	0	3	0	0	0	0	0	2	2	1	2	3	1	3	0	2	3	1	2	0
+8686545348	Montenegro Agencies Montenegro Ministry of Finance	2.119047619047619	84	0.624971654686	2	3	2	2	1	2	2	2	2	3	3	2	2	1	2	2	2	2	2	3	3	2	2	2	3	2	3	1	3	3	1	2	2	2	3	2	2	2	1	1	3	2	2	3	2	2	1	2	2	2	2	3	3	2	2	1	2	2	2	2	2	3	3	2	2	2	3	2	3	1	3	3	1	2	2	2	3	2	2	2	1	1	3	2
+8686545348	Montenegro Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	0.7027027027027027	74	0.982684268254	0	0	0	0	0	0	0	2	0	0	1	1	0	0	2	0	1	0	1	1	0	2	0	0	3	1	0	0	2	3	0	0	0	0	1	3	2	0	0	0	0	0	0	0	2	0	0	1	1	0	0	2	0	1	0	1	1	0	2	0	0	3	1	0	0	2	3	0	0	0	0	1	3	2
+5167788848	Charles, Prince of Wales Things named after this The Prince's Trust	0.2898550724637681	69	0.567257559153	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	1	2	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	1	2	0	0	1	1	1	0	0	0	0	0	0
+5167788848	Charles, Prince of Wales Films appeared in  Type of Appearance Him/Herself	0.37681159420289856	69	0.683160797066	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	3	0	0	1	1	2	0	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	3	0	0	1	1	2	0	0	0	1	0	0
+5167788848	Charles, Prince of Wales TV episode performances  Special performance type Him/Herself	0.09090909090909091	22	0.287479787288	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+5167788848	Charles, Prince of Wales Place of birth Buckingham Palace	2.4615384615384617	13	0.498518515262	2	2	3	3	3	2	2	2	3	3	3	2	2
+518753486848	China Official Language Standard Mandarin	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Second level divisions Yulin	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Tourist attractions Mausoleum of the First Qin Emperor	0.6	10	1.2	0	3	0	0	0	0	3	0	0	0
+518753486848	China Time zone(s) China Time Zone	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Influenced Banksy	0.0	99	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Things named after this Diana, Princess of Wales Memorial Fountain	0.5306122448979592	98	0.702823483989	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	2	2	0	0	0	0	1	1	0	0	1	0	0	0	1	0	1	1	2	2	1	0	1	2	0	0	1	2	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	2	2	0	0	0	0	1	1	0	0	1	0	0	0	1	0	1	1	2	2	1	0	1	2	0	0	1	2	1
+5153485448	Diana, Princess of Wales Works Written About This Topic Diana, Princess of Wales	0.26262626262626265	99	0.561129067165	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	2	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	2	0	0	1	0	0	0	1	1	0	0
+72907148	Abraham Lincoln Things named after this Lincoln	0.07142857142857142	28	0.257539376819	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+72907148	Abraham Lincoln Quotations A woman is the only thing I am afraid of that I know will not hurt me.	0.5	28	0.5	1	0	0	0	0	1	0	0	1	1	1	1	0	1	1	0	0	0	0	1	0	0	1	1	1	1	0	1
+72907148	Abraham Lincoln Works Written About This Topic Abraham Lincoln	0.4444444444444444	18	0.831479419283	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	2	2
+72907148	Abraham Lincoln Works written Abraham Lincoln	0.2	10	0.4	0	1	0	0	0	0	1	0	0	0
+72907148	Abraham Lincoln Organizations founded Republican Party	0.2857142857142857	28	0.699854212224	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0
+72907148	Abraham Lincoln Appointment made  Appointee Salmon P. Chase	0.14285714285714285	28	0.349927106112	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+72907148	Abraham Lincoln Government Positions Held  Jurisdiction of office Illinois	0.5	20	0.80622577483	0	1	2	0	0	0	0	2	0	0	0	1	2	0	0	0	0	2	0	0
+72907148	Abraham Lincoln Influenced Martin Luther King, Jr.	0.21428571428571427	28	0.410325903324	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1
+72907148	Abraham Lincoln Siblings  Sibling Thomas Lincoln	2.2	10	0.748331477355	3	3	2	2	1	3	3	2	2	1
+72907148	Abraham Lincoln Influenced By Thomas Paine	0.8	20	0.871779788708	0	1	2	2	0	0	0	1	0	2	0	1	2	2	0	0	0	1	0	2
+72907148	Abraham Lincoln Profession Politician	1.0	10	1.26491106407	0	3	2	0	0	0	3	2	0	0
+72907148	Abraham Lincoln Children Robert Todd Lincoln	2.0	10	1.09544511501	3	3	2	0	2	3	3	2	0	2
+88677448	Albert Einstein Influenced Karl Popper	0.8571428571428571	56	0.914732033919	0	2	0	1	0	1	0	1	2	1	0	1	0	2	2	3	0	1	0	1	2	2	0	2	0	0	0	0	0	2	0	1	0	1	0	1	2	1	0	1	0	2	2	3	0	1	0	1	2	2	0	2	0	0	0	0
+88677448	Albert Einstein Recordings Einsteins speches and broadcasts: At the Royal Albert Hall, London [1933]	0.6666666666666666	12	0.471404520791	0	1	1	1	1	0	0	1	1	1	1	0
+88677448	Albert Einstein Works Written About This Topic Einstein	0.6923076923076923	52	0.951485913604	0	2	2	2	1	0	0	2	0	1	0	2	2	3	0	0	0	0	1	0	0	0	0	0	0	0	0	2	2	2	1	0	0	2	0	1	0	2	2	3	0	0	0	0	1	0	0	0	0	0	0	0
+88677448	Albert Einstein Works written Isaac Newton	1.3076923076923077	52	0.910166120477	0	2	2	2	1	1	0	2	2	1	1	2	1	3	1	0	1	3	2	0	0	2	2	2	1	0	0	2	2	2	1	1	0	2	2	1	1	2	1	3	1	0	1	3	2	0	0	2	2	2	1	0
+88677448	Albert Einstein Things named after this Albert Einstein College of Medicine	0.6785714285714286	56	0.847415036979	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	1	2	0	0	0	3	0	1	1	2	2	2	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	1	2	0	0	0	3	0	1	1	2	2	2
+88677448	Albert Einstein Influenced By Mahatma Gandhi	0.75	56	0.871165065546	0	1	0	0	0	2	0	2	1	1	0	1	0	2	2	3	0	1	0	1	2	1	0	1	0	0	0	0	0	1	0	0	0	2	0	2	1	1	0	1	0	2	2	3	0	1	0	1	2	1	0	1	0	0	0	0
+88677448	Albert Einstein Quotations Gravitation cannot be held responsible for people falling in love.	0.25	56	0.737999225706	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Films appeared in  Type of Appearance Him/Herself	0.0	52	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Awards Won  Award category Nobel Prize in Physics	1.8333333333333333	12	1.34370962472	0	3	0	2	3	3	0	3	0	2	3	3
+88677448	Albert Einstein Profession Writer	1.5	12	1.25830573921	0	3	3	1	0	2	0	3	3	1	0	2
+88677448	Albert Einstein Films On This Subject Young Einstein	0.0	56	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Education  Degree PhD	2.8333333333333335	12	0.37267799625	3	3	3	2	3	3	3	3	3	2	3	3
+88677448	Albert Einstein Places lived  Location Germany	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Children Hans Albert Einstein	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Gender Male	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+88677448	Albert Einstein Parents Pauline Einstein	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing People born here Faye Wong	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+5249574948	Beijing Contains Peking University	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Award Nominations  Award Nominee Celine Dion	1.8	10	0.979795897113	2	3	2	2	0	2	3	2	2	0
+5295826848	Titanic Awards Won  Award winner Celine Dion	1.5714285714285714	84	0.929486728378	2	3	2	2	0	2	0	2	3	2	3	3	2	0	1	2	1	2	2	2	1	2	1	0	2	2	2	2	2	2	0	2	3	1	0	0	2	1	2	0	2	1	2	3	2	2	0	2	0	2	3	2	3	3	2	0	1	2	1	2	2	2	1	2	1	0	2	2	2	2	2	2	0	2	3	1	0	0	2	1	2	0	2	1
+5295826848	Titanic Performances  Actor Kate Winslet	0.0	6	0.0	0	0	0	0	0	0
+5295826848	Titanic Other crew  Film crew role Special Effects	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Netflix Genres Drama	0.0	7	0.0	0	0	0	0	0	0	0
+5295826848	Titanic Release date(s)  Film release region London	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Genres Drama	0.0	6	0.0	0	0	0	0	0	0
+5295826848	Titanic Languages English Language	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+5295826848	Titanic Produced by James Cameron	0.0	6	0.0	0	0	0	0	0	0
+5295826848	Titanic Directed by James Cameron	0.0	6	0.0	0	0	0	0	0	0
+5295826848	Titanic Edited by James Cameron	0.0	7	0.0	0	0	0	0	0	0	0
+5295826848	Titanic Distributors  Film distribution medium DVD	0.09523809523809523	84	0.293543523951	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5354845548	United Nations Employees and other personnel  Person Kofi Annan	0.4	20	0.663324958071	1	0	0	2	0	1	0	0	0	0	1	0	0	2	0	1	0	0	0	0
+5354845548	United Nations Child  Child World Health Organization	0.0	14	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Works written GEO-2000	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+5354845548	United Nations Members  Member United Kingdom	0.2	20	0.4	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+5578775448	Stanley Kubrick Award Nominations  Award Nominee Arthur C. Clarke	1.6666666666666667	18	0.816496580928	2	0	2	2	1	2	1	3	2	2	0	2	2	1	2	1	3	2
+5578775448	Stanley Kubrick Films appeared in  Type of Appearance Him/Herself	1.1428571428571428	84	1.05945692673	1	0	0	2	0	2	0	0	1	0	1	0	0	0	2	2	0	1	1	3	2	1	0	3	2	0	1	0	2	1	1	2	3	3	0	0	3	1	2	3	1	1	1	0	0	2	0	2	0	0	1	0	1	0	0	0	2	2	0	1	1	3	2	1	0	3	2	0	1	0	2	1	1	2	3	3	0	0	3	1	2	3	1	1
+5578775448	Stanley Kubrick Works written Stanley Kubrick	1.4285714285714286	7	0.494871659305	1	2	1	1	2	1	2
+5578775448	Stanley Kubrick Awards Won  Award winner Arthur C. Clarke	1.619047619047619	84	0.949997016346	2	0	2	2	1	2	1	3	2	2	2	0	1	1	3	1	1	1	1	3	2	1	3	3	2	2	2	3	3	2	0	2	3	1	1	1	2	0	0	2	0	2	2	0	2	2	1	2	1	3	2	2	2	0	1	1	3	1	1	1	1	3	2	1	3	3	2	2	2	3	3	2	0	2	3	1	1	1	2	0	0	2	0	2
+5578775448	Stanley Kubrick Influenced Robin Williams	1.2142857142857142	84	0.802843585718	1	0	1	1	2	2	1	2	1	2	1	0	1	1	2	1	0	0	2	2	2	0	0	3	2	1	1	0	2	2	1	2	2	2	1	2	1	1	1	2	0	0	1	0	1	1	2	2	1	2	1	2	1	0	1	1	2	1	0	0	2	2	2	0	0	3	2	1	1	0	2	2	1	2	2	2	1	2	1	1	1	2	0	0
+5578775448	Stanley Kubrick Film performances  Special Performance Type Voice	0.3333333333333333	6	0.471404520791	0	0	1	0	0	1
+5578775448	Stanley Kubrick Profession Film director	2.3333333333333335	6	0.471404520791	2	2	3	2	2	3
+5578775448	Stanley Kubrick Gender Male	0.0	6	0.0	0	0	0	0	0	0
+7057716748	Richard Burton Recordings Brave New World	0.17647058823529413	17	0.381220041083	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+7057716748	Richard Burton Albums Camelot (1960 original Broadway cast)	0.18181818181818182	11	0.38569460792	0	1	0	0	0	0	1	0	0	0	0
+7057716748	Richard Burton Recording contributions  Recording Brave New World	0.5	16	0.866025403784	0	2	0	0	0	0	0	2	0	2	0	0	0	0	0	2
+7057716748	Richard Burton Awards Won  Award winner Julie Andrews	0.32432432432432434	74	0.572054337527	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	2	0	0	0	0	0	1	1	1	0	0	1	0	0	2	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	2	0	0	0	0	0	1	1	1	0	0	1	0	0	2	0	0	1	0	0	0
+7057716748	Richard Burton Award Nominations  Award Academy Award for Best Actor in a Supporting Role	0.7297297297297297	74	0.793509094914	0	0	0	2	0	0	0	2	0	0	0	2	0	1	0	1	2	0	1	2	1	2	0	1	1	0	1	2	0	1	2	1	0	1	0	1	0	0	0	0	2	0	0	0	2	0	0	0	2	0	1	0	1	2	0	1	2	1	2	0	1	1	0	1	2	0	1	2	1	0	1	0	1	0
+7057716748	Richard Burton TV episode performances  Episode The Gathering Storm	0.8918918918918919	74	0.952487037119	0	2	0	2	0	0	0	1	0	2	0	2	0	3	0	0	2	0	0	2	3	0	0	1	1	1	2	1	0	1	2	0	1	1	1	2	0	0	2	0	2	0	0	0	1	0	2	0	2	0	3	0	0	2	0	0	2	3	0	0	1	1	1	2	1	0	1	2	0	1	1	1	2	0
+7057716748	Richard Burton Film performances  Special Performance Type Narrator	0.875	16	0.927024810887	0	2	0	2	0	1	0	2	0	2	0	2	0	1	0	2
+7057716748	Richard Burton Works written A Christmas story	0.45454545454545453	11	0.782029569731	0	2	0	0	0	0	2	0	0	0	1
+7057716748	Richard Burton Profession Actor	0.2727272727272727	11	0.445361771415	0	0	0	0	1	0	0	0	0	1	1
+7176525248	Jacques-Yves Cousteau Awards Won  Award category Academy Award for Best Documentary Feature	0.075	80	0.46837484988	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Award Nominations  Award Academy Award for Best Documentary Feature	0.08571428571428572	70	0.499795876701	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Works written The Whale	0.08450704225352113	71	0.496366484133	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+7176525248	Jacques-Yves Cousteau Profession Film director	0.08823529411764706	68	0.506873174695	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Film performances  Special Performance Type Narrator	0.08823529411764706	68	0.506873174695	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Gender Male	0.17647058823529413	68	0.567273574176	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	3	0	0
+7176525248	Jacques-Yves Cousteau Children Philippe Cousteau	1.8	80	0.6	2	1	1	2	2	2	2	1	2	1	2	1	2	2	2	2	3	2	3	2	2	1	1	1	2	3	2	2	1	2	2	2	2	2	1	2	1	3	1	2	2	1	1	2	2	2	2	1	2	1	2	1	2	2	2	2	3	2	3	2	2	1	1	1	2	3	2	2	1	2	2	2	2	2	1	2	1	3	1	2
+7176525248	Jacques-Yves Cousteau Education  Institution École Navale	0.08823529411764706	68	0.506873174695	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Place of birth Saint-André-de-Cubzac	0.11764705882352941	68	0.529411764706	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7176525248	Jacques-Yves Cousteau Country of nationality France	0.08823529411764706	68	0.506873174695	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+7876784948	Cameroon Contains Douala	2.4	10	0.8	3	3	1	2	3	3	3	1	2	3
+7876784948	Cameroon People born here Wes Madiko	0.2	10	0.4	0	0	0	0	1	0	0	0	0	1
+7876784948	Cameroon Organizations with this scope Cameroon People's Democratic Movement	1.4	10	0.8	1	0	2	2	2	1	0	2	2	2
+7876784948	Cameroon Athletes  Olympics The London 2012 Summer Olympics	0.0	13	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7876784948	Cameroon Partially contains  Partially contains Congo River	1.7777777777777777	18	1.13311544747	3	3	2	0	3	2	0	2	1	3	3	2	0	3	2	0	2	1
+7876784948	Cameroon Partially contains Congo River	1.7777777777777777	18	1.13311544747	3	3	2	0	3	2	0	2	1	3	3	2	0	3	2	0	2	1
+7876784948	Cameroon GDP (nominal)  Currency United States Dollar	0.6923076923076923	13	0.910166120477	0	0	0	2	0	2	0	0	0	2	0	2	1
+7876784948	Cameroon Athletic performances  Medal Gold medal	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+7876784948	Cameroon Administrative Divisions East Region	2.3333333333333335	12	0.7453559925	3	1	2	3	3	2	3	1	2	3	3	2
+7876784948	Cameroon Electricity consumption per capita  Source Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank	0.8947368421052632	19	1.07089420786	1	0	0	2	3	2	0	0	0	1	0	0	2	3	2	0	0	0	1
+7876784948	Cameroon Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	1.1538461538461537	13	0.863459396948	1	0	0	2	2	2	1	0	0	2	2	2	1
+7876784948	Cameroon GDP growth rate  Source World Bank, World Development Indicators, GDP Growth Rate	1.4615384615384615	13	0.745796901141	1	0	2	2	2	2	1	0	2	2	2	2	1
+8372755048	Eritrea Contains Asmara	0.0	48	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea People born here Dawit Isaak	0.08333333333333333	48	0.276385399196	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+8372755048	Eritrea Athletes  Olympics The London 2012 Summer Olympics	0.0	49	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Events Mahdist War	0.0	48	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Works Written About This Topic Ciao Asmara	0.0	48	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Military Conflicts  Conflict Mahdist War	0.041666666666666664	48	0.199826313471	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+8372755048	Eritrea GDP (nominal)  Currency United States Dollar	0.0	58	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Partially contains Nile	0.0	58	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Partially contains  Partially contains Nile	0.0	58	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Electricity consumption per capita  Source Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank	0.0	69	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Administrative Divisions Gash-Barka Region	0.20408163265306123	49	0.403028931799	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0
+8372755048	Eritrea Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	0.01694915254237288	59	0.129080900099	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+8372755048	Eritrea GDP growth rate  Source World Bank, World Development Indicators, GDP Growth Rate	0.01694915254237288	59	0.129080900099	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+8372755048	Eritrea GDP real  Adjustment currency United States Dollar	0.0	59	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	0.0	59	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8448865148	Illinois Contains Chicago	1.0	6	0.0	1	1	1	1	1	1
+8448865148	Illinois People born here Jonatha Brooke	0.0	6	0.0	0	0	0	0	0	0
+8448865148	Illinois Governing officials  Officeholder Barack Obama	0.025	80	0.15612494996	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8448865148	Illinois Works Written About This Topic Chicago	0.0	6	0.0	0	0	0	0	0	0
+8448865148	Illinois Unemployment Rate  Source Bureau of Labor Statistics, Unemployment in US States	0.0	7	0.0	0	0	0	0	0	0	0
+8448865148	Illinois Population  Source United States Census Bureau, Population	0.0	4	0.0	0	0	0	0
+8448865148	Illinois Representatives  Officeholder Barack Obama	0.025	80	0.15612494996	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8478554948	Bill Gates Films appeared in  Type of Appearance Him/Herself	0.4050632911392405	79	0.626805995096	1	0	0	0	0	1	0	0	1	1	0	2	1	0	0	1	2	0	1	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	1	1	0	2	1	0	0	1	2	0	1	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	1	0	0
+8478554948	Bill Gates Works written The Road Ahead	0.2	10	0.4	1	0	0	0	0	1	0	0	0	0
+8478554948	Bill Gates Profession Entrepreneur	1.2	10	1.16619037897	3	1	0	2	0	3	1	0	2	0
+8478554948	Bill Gates Recording contributions  Role Vocals	0.2	10	0.4	1	0	0	0	0	1	0	0	0	0
+8478554948	Bill Gates Gender Male	2.0	10	0.632455532034	3	2	1	2	2	3	2	1	2	2
+8478554948	Bill Gates Book editions published The Road Ahead	0.0	15	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Contains Warsaw	0.3	20	0.640312423743	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	2
+8772815348	Poland People born here Robert Babicz	1.8	10	0.748331477355	2	1	2	1	3	2	1	2	1	3
+8772815348	Poland Organizations with this scope Democratic Party	0.1	20	0.3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+8772815348	Poland Works Written About This Topic Poland	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Agencies Polish Ministry of Public Security	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Athletes  Olympics The London 2012 Summer Olympics	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Athletic performances  Olympics The London 2012 Summer Olympics	0.0	21	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Governing officials  Basic title President	0.2	10	0.4	0	0	0	0	1	0	0	0	0	1
+8772815348	Poland Events Russian Civil War	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland GDP (nominal)  Currency United States Dollar	0.4	10	0.8	0	0	0	2	0	0	0	0	2	0
+8772815348	Poland Titles Pornography	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Military Conflicts  Combatants United Kingdom	0.1	20	0.3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+8772815348	Poland Teams Poland national football team	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Electricity consumption per capita  Source Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank	1.2	20	1.07703296143	3	0	2	2	1	2	0	0	0	2	3	0	2	2	1	2	0	0	0	2
+8772815348	Poland Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	1.2	20	1.07703296143	3	0	2	2	1	2	0	0	0	2	3	0	2	2	1	2	0	0	0	2
+8772815348	Poland Partially contains  Partially contains Carpathian Mountains	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Partially contains Carpathian Mountains	0.0	20	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Administrative Divisions Warsaw	0.2	10	0.4	0	0	1	0	0	0	0	1	0	0
+8772815348	Poland Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	1.8	10	1.46969384567	3	0	3	3	0	3	0	3	3	0
+8772815348	Poland Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	2.4	10	1.2	3	0	3	3	3	3	0	3	3	3
+9078665448	Russia Contains Moscow	2.4444444444444446	18	0.831479419283	1	3	3	3	3	3	1	3	2	1	3	3	3	3	3	1	3	2
+9078665448	Russia Organizations with this scope Bolsheviks	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia People born here CoH	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Agencies Russian Ministry of the Emergency Situations	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Governing officials  Basic title President	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Athletes  Olympics The London 2012 Summer Olympics	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Partially contains Caspian Sea	2.5555555555555554	18	0.95581391856	3	3	3	3	3	3	0	3	2	3	3	3	3	3	3	0	3	2
+9078665448	Russia Partially contains  Partially contains Caspian Sea	2.5555555555555554	18	0.95581391856	3	3	3	3	3	3	0	3	2	3	3	3	3	3	3	0	3	2
+9078665448	Russia Events World War II	0.0	12	0.0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia GDP (nominal)  Currency United States Dollar	0.3333333333333333	12	0.7453559925	0	0	0	0	0	2	0	0	0	0	0	2
+9078665448	Russia Athletic performances  Olympics The London 2012 Summer Olympics	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Government bodies State Duma	0.2727272727272727	22	0.616575453011	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	2	0	0	1	0	0	0
+9078665448	Russia Works Written About This Topic Belarus	0.3333333333333333	12	0.7453559925	0	0	0	0	0	2	0	0	0	0	0	2
+9078665448	Russia Administrative Divisions Moscow	1.8888888888888888	18	0.874889763779	1	3	2	2	2	3	2	0	2	1	3	2	2	2	3	2	0	2
+9078665448	Russia Teams Russia national football team	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Electricity consumption per capita  Source Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank	0.3333333333333333	12	0.7453559925	0	0	0	0	2	0	0	0	0	0	2	0
+9078665448	Russia Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	0.3333333333333333	12	0.7453559925	0	0	0	0	2	0	0	0	0	0	2	0
+9078665448	Russia Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	0.4444444444444444	18	0.831479419283	0	0	0	0	0	2	2	0	0	0	0	0	0	0	2	2	0	0
+9078665448	Russia Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	0.4444444444444444	18	0.831479419283	0	0	0	0	0	2	2	0	0	0	0	0	0	0	2	2	0	0
+9078665448	Russia Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	0.7777777777777778	18	1.13311544747	0	0	0	0	2	3	2	0	0	0	0	0	0	2	3	2	0	0
+538284665548	Salesforce.com Employees and other personnel  Title Chairman	0.125	80	0.399217985567	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+538284665548	Salesforce.com Child  Child Heroku	0.0	19	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546675674948	Boris Becker TV episode performances  Episode Katherine Jenkins	0.0	24	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+706888504948	Shaquille O'Neal Award Nominations  Award Nominee Chaka Khan	0.7777777777777778	18	0.916245694582	0	2	2	1	0	0	2	0	0	0	2	2	1	0	0	2	0	0
+706888504948	Shaquille O'Neal Awards Won  Award category All-NBA Team	1.4285714285714286	21	1.36526392256	0	3	3	1	0	0	3	0	3	2	0	3	3	1	0	0	3	0	3	2	0
+706888504948	Shaquille O'Neal Recordings Player	1.3333333333333333	18	1.33333333333	0	3	3	1	0	0	3	2	0	0	3	3	1	0	0	3	2	0
+706888504948	Shaquille O'Neal Films appeared in  Type of Appearance Him/Herself	0.7619047619047619	21	0.867660340871	0	2	2	1	0	0	2	1	0	0	0	2	2	1	0	0	2	1	0	0	0
+706888504948	Shaquille O'Neal Albums Steel	1.0	10	0.894427191	0	2	2	1	0	0	2	2	1	0
+706888504948	Shaquille O'Neal TV episode performances  Episode Miami	0.7777777777777778	18	0.916245694582	0	2	2	1	0	0	2	0	0	0	2	2	1	0	0	2	0	0
+706888504948	Shaquille O'Neal Recording contributions  Role Guest	1.0	10	0.894427191	0	2	2	1	0	0	2	2	1	0
+706888504948	Shaquille O'Neal Film performances  Special Performance Type Him/Herself	0.8888888888888888	18	0.874889763779	0	2	2	1	0	0	2	1	0	0	2	2	1	0	0	2	1	0
+706888504948	Shaquille O'Neal Profession Actor	1.0	10	0.894427191	0	2	2	1	0	0	2	2	1	0
+706888504948	Shaquille O'Neal Works written Shaq and the Beanstalk and Other Very Tall Tales	1.0	10	0.894427191	0	2	2	1	0	0	2	2	1	0
+706888504948	Shaquille O'Neal Children Shareef O'Neal	0.6	10	0.489897948557	0	1	1	1	0	0	1	1	1	0
+706888504948	Shaquille O'Neal Gender Male	1.0	10	0.894427191	0	2	2	1	0	0	2	2	1	0
+706888504948	Shaquille O'Neal Places lived  Location San Antonio	0.6	10	0.489897948557	0	1	1	1	0	0	1	1	1	0
+706888504948	Shaquille O'Neal Education  Degree Bachelor of Arts	0.8	10	0.748331477355	0	1	2	1	0	0	1	2	1	0
+57865383535048	Michelle Obama TV episode performances  Episode Michelle Obama	0.0	76	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57865383535048	Michelle Obama Works written American Grown	0.47058823529411764	17	0.696009386247	2	0	1	0	0	1	0	0	2	0	1	0	0	1	0	0	0
+767878574948	Family Guy Episodes Three Kings	0.0	6	0.0	0	0	0	0	0	0
+9571555448	Pelé Awards Won  Award category BBC Sports Personality of the Year Lifetime Achievement Award	2.3333333333333335	12	0.7453559925	2	3	1	3	2	3	2	3	1	3	2	3
+8686545348	Montenegro Contains Podgorica	0.8	10	0.748331477355	0	0	2	1	1	0	0	2	1	1
+8686545348	Montenegro Organizations with this scope People's Party	1.5	12	0.763762615826	0	2	2	2	2	1	0	2	2	2	2	1
+8686545348	Montenegro People born here Milovan Đilas	0.2	10	0.4	0	0	0	1	0	0	0	0	1	0
+8686545348	Montenegro Governing officials  Basic title President	3.0	10	0.0	3	3	3	3	3	3	3	3	3	3
+8686545348	Montenegro Athletes  Olympics The London 2012 Summer Olympics	0.16666666666666666	12	0.37267799625	0	1	0	0	0	0	0	1	0	0	0	0
+8686545348	Montenegro Events Yugoslav Wars	1.2	10	0.748331477355	1	2	1	0	2	1	2	1	0	2
+8686545348	Montenegro Partially contains Tara	0.45454545454545453	22	0.89072354283	0	1	3	0	0	0	1	0	0	0	0	0	1	3	0	0	0	1	0	0	0	0
+8686545348	Montenegro Partially contains  Partially contains Tara	0.8333333333333334	12	1.06718737291	0	1	3	1	0	0	0	1	3	1	0	0
+8686545348	Montenegro GDP (nominal)  Currency United States Dollar	0.8	10	0.748331477355	0	0	2	1	1	0	0	2	1	1
+8686545348	Montenegro Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	0.3076923076923077	13	0.461538461538	1	0	1	0	0	0	1	0	1	0	0	0	0
+8686545348	Montenegro Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	0.23076923076923078	13	0.421325044235	0	1	0	0	0	0	0	1	0	0	0	0	1
+5167788848	Charles, Prince of Wales Gender Male	2.0	5	0.894427191	3	1	3	1	2
+518753486848	China Contains Hong Kong	0.2	10	0.4	0	0	0	0	1	0	0	0	0	1
+518753486848	China People born here Xu Wei	0.0	4	0.0	0	0	0	0
+518753486848	China Organizations with this scope Communist Party of China	0.0	4	0.0	0	0	0	0
+518753486848	China Events Pacific War	0.0	4	0.0	0	0	0	0
+518753486848	China Works Written About This Topic Japan	0.0	4	0.0	0	0	0	0
+518753486848	China Athletes  Olympics The London 2012 Summer Olympics	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Agencies Chinese Ministry of Public Security	0.0	4	0.0	0	0	0	0
+518753486848	China GDP (nominal)  Currency United States Dollar	0.0	11	0.0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Teams Shanghai Sharks	0.2	10	0.4	0	1	0	0	0	0	1	0	0	0
+518753486848	China Partially contains  Partially contains Himalayas	0.4	10	0.489897948557	0	1	0	0	1	0	1	0	0	1
+518753486848	China Governing officials  Basic title President	0.0	4	0.0	0	0	0	0
+518753486848	China Partially contains Himalayas	0.4	10	0.489897948557	0	1	0	0	1	0	1	0	0	1
+518753486848	China Electricity consumption per capita  Source Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Administrative Divisions Hong Kong	0.2	10	0.4	0	0	0	0	1	0	0	0	0	1
+518753486848	China Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	0.0	4	0.0	0	0	0	0
+518753486848	China Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	0.0	4	0.0	0	0	0	0
+518753486848	China Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	0.0	4	0.0	0	0	0	0
+518753486848	China GDP real  Adjustment currency United States Dollar	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China CO2 emissions per capita  Source CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank	0.0	4	0.0	0	0	0	0
+5153485448	Diana, Princess of Wales Films appeared in  Type of Appearance Him/Herself	0.06976744186046512	86	0.254754677909	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Quotations Hugs can do great amounts of good -- especially for children.	0.0	86	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Profession Crown Princess	0.08571428571428572	70	0.499795876701	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+5153485448	Diana, Princess of Wales Gender Female	0.0	70	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+72907148	Abraham Lincoln Artwork on the Subject Abraham Lincoln	0.0	18	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5578775448	Stanley Kubrick Films directed Full Metal Jacket	2.923076923076923	13	0.266469355011	3	3	3	3	3	3	3	3	3	3	3	3	2
+7876784948	Cameroon GDP real  Adjustment currency United States Dollar	2.0	2	0.0	2	2
+7876784948	Cameroon CO2 emissions per capita  Source CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank	1.3333333333333333	3	0.942809041582	2	2	0
+7876784948	Cameroon Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	1.0	3	0.0	1	1	1
+7876784948	Cameroon Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	0.6666666666666666	3	0.471404520791	1	1	0
+7876784948	Cameroon GNI per capita in PPP dollars  Currency United States Dollar	1.0	2	0.0	1	1
+7876784948	Cameroon GNI in PPP dollars  Currency United States Dollar	1.0	2	0.0	1	1
+7876784948	Cameroon Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	1.0	3	0.0	1	1	1
+8372755048	Eritrea Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	0.0	11	0.0	0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	0.09090909090909091	11	0.287479787288	0	0	0	0	0	0	0	0	0	0	1
+8372755048	Eritrea GNI per capita in PPP dollars  Currency United States Dollar	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea GNI in PPP dollars  Currency United States Dollar	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8372755048	Eritrea CO2 emissions per capita  Source CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank	0.0	11	0.0	0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Second level divisions Warsaw	0.8	10	0.748331477355	1	0	0	1	2	1	0	0	1	2
+8772815348	Poland Minimum wage  Currency Euro	0.4	10	0.489897948557	1	0	0	0	1	1	0	0	0	1
+8772815348	Poland Athletic performances  Medal Gold medal	0.11764705882352941	17	0.322189739709	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+8772815348	Poland Government debt as percent of GDP  Source Eurostat, Government Debt, Government Debt as Percentage of GDP	0.125	16	0.330718913883	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+8772815348	Poland Broadband penetration rate  Source Broadband penetration rate, Broadband penetration in Europe, Eurostat	0.75	16	1.08972473589	0	0	3	0	0	0	1	2	0	0	3	0	0	0	1	2
+8772815348	Poland Unemployment Rate  Source Eurostat, Unemployment, Unemployment Rate	1.3636363636363635	11	0.979120874024	3	1	2	0	1	3	1	2	0	1	1
+8772815348	Poland First level divisions Masovian Voivodeship	0.4	10	0.489897948557	1	0	0	0	1	1	0	0	0	1
+8772815348	Poland Beers from here Żywiec	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+8772815348	Poland Olympics participated in 2008 Summer Olympics	0.125	16	0.330718913883	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+8772815348	Poland CO2 emissions per capita  Source CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank	0.8	10	0.979795897113	2	0	0	0	2	2	0	0	0	2
+9078665448	Russia Athletic performances  Medal Gold medal	0.0	17	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Breeds orginating here Siberian Husky	0.0	16	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9078665448	Russia Beers from here Baltika Porter	0.0	6	0.0	0	0	0	0	0	0
+9078665448	Russia Military expenditure as percentage of GDP  Source Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank	0.6666666666666666	6	0.942809041582	2	0	0	2	0	0
+9078665448	Russia Internet users as percentage of population  Source Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank	0.3333333333333333	6	0.471404520791	1	0	0	1	0	0
+9078665448	Russia Military Conflicts  Combatants United Kingdom	0.0	6	0.0	0	0	0	0	0	0
+767878574948	Family Guy Recurring writers  Writer Mike Barker	1.8717948717948718	78	1.01727356025	2	0	0	0	2	2	2	3	2	3	2	3	3	3	1	2	2	0	3	2	2	2	2	2	3	2	0	3	2	3	0	3	2	0	2	2	1	3	2	2	0	0	0	2	2	2	3	2	3	2	3	3	3	1	2	2	0	3	2	2	2	2	2	3	2	0	3	2	3	0	3	2	0	2	2	1	3	2
+9571555448	Pelé Children Sandra Regina Arantes do Nascimento	0.0	9	0.0	0	0	0	0	0	0	0	0	0
+8686545348	Montenegro Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	0.0	3	0.0	0	0	0
+8686545348	Montenegro GNI per capita in PPP dollars  Currency United States Dollar	0.0	2	0.0	0	0
+8686545348	Montenegro GNI in PPP dollars  Currency United States Dollar	0.0	2	0.0	0	0
+8686545348	Montenegro GDP real  Adjustment currency United States Dollar	0.0	3	0.0	0	0	0
+8686545348	Montenegro GDP growth rate  Source World Bank, World Development Indicators, GDP Growth Rate	0.0	3	0.0	0	0	0
+518753486848	China Athletic performances  Olympics The London 2012 Summer Olympics	0.0	6	0.0	0	0	0	0	0	0
+518753486848	China Athletes  Sports Badminton	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Affected by cyclones Typhoon Ketsana	0.3333333333333333	6	0.471404520791	0	0	1	0	0	1
+518753486848	China Military Conflicts  Combatants Soviet Union	0.0	6	0.0	0	0	0	0	0	0
+518753486848	China Breeds orginating here Pug	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Athletic performances  Medal Gold medal	0.0	11	0.0	0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Places imported from  Currency United States Dollar	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China GDP growth rate  Source World Bank, World Development Indicators, GDP Growth Rate	0.0	6	0.0	0	0	0	0	0	0
+8772815348	Poland Breeds orginating here Pomeranian	0.0	6	0.0	0	0	0	0	0	0
+9078665448	Russia Olympics participated in The London 2012 Summer Olympics	0.0	10	0.0	0	0	0	0	0	0	0	0	0	0
+518753486848	China Olympics participated in The London 2012 Summer Olympics	0.0	4	0.0	0	0	0	0
+72907148	Abraham Lincoln Appointees  Office position  or title United States Secretary of State	0.4	10	0.8	0	0	2	0	0	0	0	2	0	0
+72907148	Abraham Lincoln Quotations I know that the LORD is always on the side of the right. But it is my constant anxiety and prayer that I and this nation should be on the LORDS side.	2.0	1	0.0	2
+72907148	Abraham Lincoln Exhibitions created about this subject Abraham Lincoln: A Man of His Time, A Man For All Times	1.0	1	0.0	1
+72907148	Abraham Lincoln Works written President Lincoln's 75,000 Volunteers	0.0	1	0.0	0
+72907148	Abraham Lincoln Works Written About This Topic Lincoln's Sword: The Presidency and the Power of Words	0.0	1	0.0	0
+72907148	Abraham Lincoln Works Written About This Topic Discourse on the aspects of the war	0.0	1	0.0	0
+72907148	Abraham Lincoln Works Written About This Topic Of the People, By the People, For the People	1.0	1	0.0	1
+72907148	Abraham Lincoln Works Written About This Topic This Fiery Trial: The Speeches and Writings of Abraham Lincoln	2.0	1	0.0	2
+72907148	Abraham Lincoln Things named after this Abraham Lincoln	0.0	1	0.0	0
+72907148	Abraham Lincoln Things named after this Abraham Lincoln's Clemency	0.0	1	0.0	0
+72907148	Abraham Lincoln Things named after this Abraham Lincoln: The Man	1.0	1	0.0	1
+72907148	Abraham Lincoln Works Written About This Topic Lincoln on Race and Slavery	1.0	1	0.0	1
+72907148	Abraham Lincoln Works Written About This Topic The Gettysburg Gospel: The Lincoln Speech That Nobody Knows	0.0	1	0.0	0
+72907148	Abraham Lincoln Works Written About This Topic Notes on the 150th Anniversary of the Emancipation Proclamation	1.0	1	0.0	1
+72907148	Abraham Lincoln Films On This Subject Young Mr. Lincoln	0.0	1	0.0	0
+72907148	Abraham Lincoln Works Written About This Topic Reelecting Lincoln: The Battle for the 1864 Presidency	0.0	1	0.0	0
+72907148	Abraham Lincoln Quotations Freedom is not the right to do what we want, but what we ought. Let us have faith that right makes might and in that faith let us	0.0	1	0.0	0
+72907148	 to the end, dare to do our duty as we understand it.	0.0	1	0.0	0
+72907148	Abraham Lincoln Quotations Slavery is founded on the selfishness of man's nature -- opposition to it on his love of justice. These principles are in eternal antagonism	0.0	1	0.0	0
+72907148	 and when brought into collision so fiercely as slavery extension brings them, shocks and throes and convulsions must ceaselessly follow.	0.0	1	0.0	0
+72907148	Abraham Lincoln Quotations I have no purpose, directly or indirectly, to interfere with the institution of slavery in the states where it exists. I believe I have no lawful right to do so, and I have no inclination to do so	0.0	1	0.0	0
+88677448	Albert Einstein Films appeared in  Type of Appearance Archive Footage	1.0	1	0.0	1
+88677448	Albert Einstein Quotations Science can only ascertain what is, but not what should be, and outside of its domain value judgments of all kinds remain necessary.	1.0	1	0.0	1
+88677448	Albert Einstein Things named after this Einstein refrigerator	0.0	1	0.0	0
+88677448	Albert Einstein Influenced Nathan Rosen	1.0	1	0.0	1
+88677448	Albert Einstein Influenced By Riazuddin	1.0	1	0.0	1
+88677448	Albert Einstein Things named after this Einstein's Dreams	1.0	1	0.0	1
+88677448	Albert Einstein Works Written About This Topic Essential Einstein	1.0	1	0.0	1
+88677448	Albert Einstein Quotations God always takes the simplest way.	0.0	1	0.0	0
+88677448	Albert Einstein Quotations Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand.	1.0	1	0.0	1
+88677448	Albert Einstein Quotations If you are out to describe the truth, leave elegance to the tailor.	0.0	1	0.0	0
+88677448	Albert Einstein Quotations All these primary impulses, not easily described in words, are the springs of man's actions.	1.0	1	0.0	1
+88677448	Albert Einstein Works written The Collected Papers of Albert Einstein, Volume 1: The Early Years: 1879-1902	2.0	1	0.0	2
+88677448	Albert Einstein Education  Major/Field Of Study Physics	2.0	1	0.0	2
+88677448	Albert Einstein Profession Teacher	2.0	1	0.0	2
+88677448	Albert Einstein Quotations They come into being not through demonstration but through revelation, through the medium of powerful personalities.	1.0	1	0.0	1
+88677448	Albert Einstein Works written The World as I See It	2.0	1	0.0	2
+88677448	Albert Einstein Quotations The man of science is a poor philosopher.	1.0	1	0.0	1
+88677448	Albert Einstein Quotations I have little patience with scientists who take a board of wood, look for its thinnest part, and drill a great number of holes where drilling is easy.	1.0	1	0.0	1
+88677448	Albert Einstein Quotations Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices, but honestly and courageously uses his intelligence.	0.0	2	0.0	0	0
+5249574948	Beijing People born here Cheng Congfu	0.0	1	0.0	0
+5249574948	Beijing People born here Tian Zhuangzhuang	0.0	3	0.0	0	0	0
+5249574948	Beijing People born here Lai Wang	0.0	1	0.0	0
+5249574948	Beijing People born here John Burdon	0.0	1	0.0	0
+5249574948	Beijing Contains Wangfujing	0.0	1	0.0	0
+5249574948	Beijing People born here Grace Gao	0.0	1	0.0	0
+5249574948	Beijing Contains Prince Gong Mansion	0.0	1	0.0	0
+5249574948	Beijing Contains Yonghe Temple	0.0	1	0.0	0
+5249574948	Beijing Contains Marco Polo Bridge	0.0	1	0.0	0
+5249574948	Beijing Contains Tiananmen Square	0.0	1	0.0	0
+5249574948	Beijing Contains Beijing Zoo	0.0	1	0.0	0
+5249574948	Beijing Contains Old Summer Palace	0.0	1	0.0	0
+5249574948	Beijing Contains Temple of Heaven	0.0	1	0.0	0
+5249574948	Beijing Contains Great Wall of China	0.0	1	0.0	0
+5249574948	Beijing Contains Beijing Capital International Airport	0.0	1	0.0	0
+5249574948	Beijing Contains Beijing Ancient Observatory	0.0	1	0.0	0
+5295826848	Titanic Award Nominations  Ceremony 70th Academy Awards	0.0	1	0.0	0
+5295826848	Titanic Awards Won  Award winner Kate Winslet	0.0	1	0.0	0
+5295826848	Titanic Award Nominations  Ceremony 2nd Golden Satellite Awards	0.0	1	0.0	0
+5295826848	Titanic Awards Won  Award winner Gloria Stuart	0.0	1	0.0	0
+5295826848	Titanic Award Nominations  Ceremony 55th Golden Globe Awards	0.0	1	0.0	0
+5295826848	Titanic Awards Won  Award winner Leonardo DiCaprio	0.0	1	0.0	0
+5295826848	Titanic Awards Won  Ceremony 1998 MTV Movie Awards	0.0	1	0.0	0
+5295826848	Titanic Award Nominations  Ceremony 51st British Academy Film Awards	0.0	1	0.0	0
+5295826848	Titanic Production companies 20th Century Fox	0.0	1	0.0	0
+5295826848	Titanic Netflix Genres 20th Century Period Pieces	0.0	1	0.0	0
+5295826848	Titanic Produced by Jon Landau	0.0	1	0.0	0
+5295826848	Titanic Art direction by Martin Laing	0.0	1	0.0	0
+5295826848	Titanic Rated FSK 12	0.0	1	0.0	0
+5354845548	United Nations Leadership  Role Chief Administrative Officer	0.0	1	0.0	0
+5354845548	United Nations Founders Denmark	0.0	1	0.0	0
+5354845548	United Nations Works Written About This Topic In the Devil's Shadow: UN Special Operations During the Korean War	0.0	1	0.0	0
+5354845548	United Nations Founders Belgium	0.0	1	0.0	0
+5354845548	United Nations Works written General Lexicon Lexique General	0.0	1	0.0	0
+5354845548	United Nations Founders Syria	1.0	1	0.0	1
+5354845548	United Nations Founders Yugoslavia	0.0	1	0.0	0
+5354845548	United Nations Founders Dominican Republic	0.0	1	0.0	0
+5354845548	United Nations Founders Australia	0.0	1	0.0	0
+5354845548	United Nations Works written The Work of the International Law Commission	0.0	1	0.0	0
+5354845548	United Nations Works written Image & Reality	1.0	1	0.0	1
+5354845548	United Nations Founders Egypt	0.0	1	0.0	0
+5354845548	United Nations Sectors Human rights	1.0	1	0.0	1
+5354845548	United Nations Works Written About This Topic Surrender Is Not an Option: Defending America at the United Nations and Abroad	0.0	1	0.0	0
+5354845548	United Nations TV programs Created UN in Action	0.0	1	0.0	0
+5354845548	United Nations Founders Costa Rica	0.0	1	0.0	0
+5354845548	United Nations Works written Statistical Yearbook 1991	0.0	1	0.0	0
+5578775448	Stanley Kubrick Film cinematography credits Killer's Kiss	2.0	1	0.0	2
+5578775448	Stanley Kubrick Film Story Credits 2001: A Space Odyssey	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films Produced Fear and Desire	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films Produced The Seafarers	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films Produced Day of the Fight	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed A Clockwork Orange	2.0	1	0.0	2
+5578775448	Stanley Kubrick Film writing credits Flying Padre: An RKO-Pathe Screenliner	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Eyes Wide Shut	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed The Shining	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Barry Lyndon	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Paths of Glory	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed The Killing	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Lolita	2.0	1	0.0	2
+5578775448	Stanley Kubrick Award Nominations  Award BAFTA Award for Best Film	2.0	1	0.0	2
+5578775448	Stanley Kubrick Influenced Thomas Cummins	1.0	1	0.0	1
+5578775448	Stanley Kubrick Parents Gertrude Kubrick	0.0	1	0.0	0
+7057716748	Richard Burton Recording contributions  Role Vocals	0.0	1	0.0	0
+7057716748	Richard Burton Children Liza Todd Burton	0.0	1	0.0	0
+7057716748	Richard Burton Recordings How to Handle a Woman	1.0	1	0.0	1
+7057716748	Richard Burton Recordings The Eve of the War	1.0	2	0.0	1	1
+7057716748	Richard Burton Recordings Camelot: Camelot	2.0	1	0.0	2
+7057716748	Richard Burton Recordings Camelot	2.0	2	0.0	2	2
+7057716748	Richard Burton Children Jessica Burton	0.0	1	0.0	0
+7057716748	Richard Burton Children Maria Burton	0.0	1	0.0	0
+7057716748	Richard Burton Recordings The Spirit of Man	1.0	1	0.0	1
+7057716748	Richard Burton Recordings The Eve of the War (Cosmos mix)	2.0	1	0.0	2
+7057716748	Richard Burton Recordings Excerpt from Who’s Afraid of Virginia Woolf?	1.0	1	0.0	1
+7176525248	Jacques-Yves Cousteau Film writing credits Rhythm on the Reef	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films Produced La mer rouge	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films Produced Un musee dans la mer	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films Produced Epaves	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Children Pierre-Yves Cousteau	2.0	1	0.0	2
+7176525248	Jacques-Yves Cousteau Works written Marine Life of the Caribbean	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Works written The Cousteau almanac	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Children Jean-Michel Cousteau	2.0	1	0.0	2
+7176525248	Jacques-Yves Cousteau Films directed Autour d'un récif	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Works written Life at the Bottom of the World	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films directed Les phoques du Rio d'Oro	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films Executive Produced Cousteau: Alaska: Outrage at Valdez	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Organizations founded Aqua Lung/La Spirotechnique	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films directed Dauphins et crétacé	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Book editions published Zorba the Greek	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Influenced By Grigol Robakidze	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written Tonta-Rampa	1.0	1	0.0	1
+7474756848	Nikos Kazantzakis Works written Bouddha	1.0	1	0.0	1
+7474756848	Nikos Kazantzakis Works written Ophis kai krino	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written Three plays	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written Journey to Morea	1.0	1	0.0	1
+7474756848	Nikos Kazantzakis Works written Askētikē	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written Rechenschaft vor El Greco	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written phtōchoulēs tou Theou	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Profession Playwright	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written The Last Temptation of Christ	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Book editions published The last temptation of Christ	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written The fratricides	1.0	1	0.0	1
+7474756848	Nikos Kazantzakis Works written Spasmenes psyches	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written Captain Michalis	0.0	1	0.0	0
+7474756848	Nikos Kazantzakis Works written Sta palatia tēs Knōsou	0.0	1	0.0	0
+7876784948	Cameroon People born here Yhyacinthe Mewoli Abdon	0.0	1	0.0	0
+7876784948	Cameroon Languages spoken Naki Language	2.0	1	0.0	2
+7876784948	Cameroon People born here Mathias Chago	0.0	1	0.0	0
+7876784948	Cameroon People born here Yves Ekwalla Herman	0.0	1	0.0	0
+7876784948	Cameroon Population  Source World Bank, World Development Indicators, Population	2.0	1	0.0	2
+7876784948	Cameroon People born here Jean-Emmanuel Effa Owona	0.0	1	0.0	0
+7876784948	Cameroon People born here Augustine Ejangue	0.0	1	0.0	0
+7876784948	Cameroon Athletes  Sport Football - Soccer	0.0	1	0.0	0
+7876784948	Cameroon GDP (nominal)  Source World Bank, World Development Indicators, Gross Domestic Product	1.0	1	0.0	1
+7876784948	Cameroon GDP real  Source World Bank, World Development Indicators	1.0	1	0.0	1
+7876784948	Cameroon People born here Anneleen Koppert	0.0	1	0.0	0
+8372755048	Eritrea Population  Source World Bank, World Development Indicators, Population	0.0	1	0.0	0
+8372755048	Eritrea People born here Surafiel Tesfamicael	0.0	2	0.0	0	0
+8372755048	Eritrea Administrative Divisions Northern Red Sea Region	0.0	1	0.0	0
+8372755048	Eritrea Administrative Divisions Debub Region	1.0	1	0.0	1
+8372755048	Eritrea Contains Southern Red Sea Region	0.0	1	0.0	0
+8372755048	Eritrea Contains Maekel Region	0.0	1	0.0	0
+8372755048	Eritrea Contains Anseba Region	0.0	1	0.0	0
+8372755048	Eritrea GNI in PPP dollars  Source Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank	0.0	1	0.0	0
+8448865148	Illinois People born here Black Beaver	0.0	1	0.0	0
+8448865148	Illinois Military units 137th Illinois Volunteer Infantry Regiment	0.0	2	0.0	0	0
+8448865148	Illinois Contains Cook County	1.0	2	0.0	1	1
+8448865148	Illinois People born here Margaret McWade	0.0	2	0.0	0	0
+8448865148	Illinois Contains Streeterville	1.0	1	0.0	1
+8448865148	Illinois Contains DuPage County	1.0	1	0.0	1
+8448865148	Illinois Governing officials  Basic title Governor	0.0	1	0.0	0
+8448865148	Illinois Governing officials  Office position  or title Governor of Illinois	1.0	1	0.0	1
+8448865148	Illinois Country United States of America	2.0	2	0.0	2	2
+8448865148	Illinois Contains Maple Avenue Maple Lane Historic District	0.0	1	0.0	0
+8448865148	Illinois Contains Scott–Vrooman House	0.0	1	0.0	0
+8448865148	Illinois Contains Downers Grove	1.0	3	0.0	1	1	1
+8478554948	Bill Gates Organizations founded Bill & Melinda Gates Foundation	1.0	1	0.0	1
+8478554948	Bill Gates Films appeared in  Type of Appearance Archive Footage	1.0	1	0.0	1
+8478554948	Bill Gates Things named after this Bill Gates' house	0.0	1	0.0	0
+8478554948	Bill Gates Things named after this Dear Bill Gates	0.0	1	0.0	0
+8478554948	Bill Gates Organizations founded Cascade Investment	2.0	1	0.0	2
+8478554948	Bill Gates Parents Mary Maxwell Gates	2.0	1	0.0	2
+8478554948	Bill Gates Organizations founded Corbis	1.0	1	0.0	1
+8478554948	Bill Gates Works Written About This Topic Creative Capitalism: A Conversation with Bill Gates, Warren Buffett, and Other Economic Leaders	0.0	1	0.0	0
+8478554948	Bill Gates Book editions published Bill Gates speaks	2.0	1	0.0	2
+8478554948	Bill Gates Book editions published Business @ the Speed of Thought	1.0	2	0.0	1	1
+8478554948	Bill Gates Book editions published Business @ the Speed of Thought: Using a Digital Nervous System	2.0	1	0.0	2
+8478554948	Bill Gates Children Rory John Gates	2.0	1	0.0	2
+8772815348	Poland People born here Wiktor Poliszczuk	0.0	1	0.0	0
+8772815348	Poland People born here Marzenka Novak	0.0	1	0.0	0
+8772815348	Poland People born here Magdalena Tulli	0.0	1	0.0	0
+8772815348	Poland People born here Tadeusz Truskolaski	1.0	1	0.0	1
+8772815348	Poland People born here Małgorzata Musierowicz	1.0	1	0.0	1
+8772815348	Poland People born here Jakub Więzik	0.0	1	0.0	0
+8772815348	Poland People born here Grzegorz Zariczny	0.0	2	0.0	0	0
+8772815348	Poland Titles The Mill and the Cross	0.0	1	0.0	0
+8772815348	Poland People born here Zygfryd Szołtysik	0.0	1	0.0	0
+8772815348	Poland Athletic performances  Medal Bronze medal	0.0	1	0.0	0
+8772815348	Poland Titles The Roe's Room	0.0	1	0.0	0
+8772815348	Poland People born here Sebastian Twardosz	0.0	1	0.0	0
+8772815348	Poland People born here Mateusz Matras	2.0	1	0.0	2
+8772815348	Poland People born here Miroslaw Baszak	0.0	1	0.0	0
+8772815348	Poland People born here Tatsyana Tsvikeviç	0.0	1	0.0	0
+9078665448	Russia People born here Nikolay Popovsky	0.0	1	0.0	0
+9078665448	Russia People born here Vitali Makarov	0.0	1	0.0	0
+9078665448	Russia Fictional Characters Born Here Marisol Delko Caine	0.0	1	0.0	0
+9078665448	Russia Titles Starik Khottabych	0.0	1	0.0	0
+9078665448	Russia People born here Artur Ryabokobylenko	0.0	3	0.0	0	0	0
+9078665448	Russia People born here Nariman Gusalov	0.0	1	0.0	0
+9078665448	Russia People born here Alexander Bulygin	0.0	1	0.0	0
+9078665448	Russia People born here Magomed Mitrishev	0.0	1	0.0	0
+9078665448	Russia Athletic performances  Medal Bronze medal	0.0	1	0.0	0
+9078665448	Russia Olympics participated in 2010 Winter Olympics	0.0	1	0.0	0
+9078665448	Russia Athletic performances  Medal Silver medal	0.0	1	0.0	0
+9078665448	Russia People born here Ru Hasanov	0.0	2	0.0	0	0
+9078665448	Russia Olympics participated in 2008 Summer Olympics	0.0	1	0.0	0
+9078665448	Russia Athletes  Olympics 2004 Summer Olympics	0.0	1	0.0	0
+9078665448	Russia Athletes  Olympics 2006 Winter Olympics	0.0	1	0.0	0
+9078665448	Russia Titles The End of St. Petersburg	0.0	1	0.0	0
+538284665548	Salesforce.com Founders Parker Harris	0.0	1	0.0	0
+538284665548	Salesforce.com Websites Owned Data.com Connect	0.0	1	0.0	0
+538284665548	Salesforce.com Industry Prepackaged Software	0.0	1	0.0	0
+538284665548	Salesforce.com Employees and other personnel  Person David Schellhase	0.0	1	0.0	0
+538284665548	Salesforce.com Employees and other personnel  Title President	0.0	1	0.0	0
+538284665548	Salesforce.com Employees and other personnel  Title Chief Executive Officer - Managing Director	0.0	1	0.0	0
+538284665548	Salesforce.com Leadership  Person Veenendaal Frank Van	0.0	1	0.0	0
+538284665548	Salesforce.com Leadership  Person George Hu	0.0	1	0.0	0
+538284665548	Salesforce.com Employees and other personnel  Person Kenneth I. Juster	1.0	1	0.0	1
+538284665548	Salesforce.com Leadership  Person Jim Steele	0.0	1	0.0	0
+538284665548	Salesforce.com Employees and other personnel  Title Executive Vice President	0.0	1	0.0	0
+538284665548	Salesforce.com Child  Child Salesforce.com Information Technology (Shanghai) Co Ltd	1.0	1	0.0	1
+546675674948	Boris Becker Tennis Titles  Event Type Men's singles	1.0	1	0.0	1
+546675674948	Boris Becker Profession Tennis player	2.0	1	0.0	2
+546675674948	Boris Becker Parents Elvira Pisch	0.0	1	0.0	0
+546675674948	Boris Becker Children Noah Gabriel Becker	0.0	2	0.0	0	0
+546675674948	Boris Becker Children Elias Becker	0.0	1	0.0	0
+546675674948	Boris Becker Children Anna Becker	0.0	1	0.0	0
+546675674948	Boris Becker Tennis Titles  Tournament Indian Wells Masters	2.0	1	0.0	2
+546675674948	Boris Becker Tennis Titles  Tournament Queen's Club Championships	1.0	1	0.0	1
+546675674948	Boris Becker Tennis Titles  Tournament ATP World Tour Finals	2.0	1	0.0	2
+546675674948	Boris Becker Country of nationality West Germany	0.0	1	0.0	0
+546675674948	Boris Becker Tennis Titles  Tournament Australian Open Tennis Tournament	2.0	1	0.0	2
+706888504948	Shaquille O'Neal Recordings D.I.V.A. Radio (interlude)	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Recordings Fly Like an Eagle (feat. Trigga)	1.0	1	0.0	1
+706888504948	Shaquille O'Neal Awards Won  Award category Kids' Choice Award for Favorite Male Athlete	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Recordings I Hate 2 Brag	2.0	1	0.0	2
+706888504948	Shaquille O'Neal Recordings Mic Check 1-2	1.0	1	0.0	1
+706888504948	Shaquille O'Neal Award Nominations  Award Best NBA Player ESPY Award	1.0	1	0.0	1
+706888504948	Shaquille O'Neal Awards Won  Award category Bill Russell NBA Finals Most Valuable Player Award	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Recordings No Hook (LP version)	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Awards  Award NBA All-Star Game Most Valuable Player Award	1.0	1	0.0	1
+706888504948	Shaquille O'Neal Recordings Freaky Flow	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Recordings Biological Didn't Bother	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Recordings Got to Let Me Know	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Recordings Let's Wait a While	1.0	1	0.0	1
+706888504948	Shaquille O'Neal Children Taahirah O'Neal	0.0	1	0.0	0
+706888504948	Shaquille O'Neal Albums The Best of Shaquille O'Neal	1.0	1	0.0	1
+706888504948	Shaquille O'Neal Albums Shaq Fu: Da Return	0.0	1	0.0	0
+57865383535048	Michelle Obama Parents Marian Shields Robinson	0.0	1	0.0	0
+57865383535048	Michelle Obama Works Written About This Topic Why Race Mattered in Barack Obama's Re-election	0.0	1	0.0	0
+57865383535048	Michelle Obama Profession Lawyer	2.0	1	0.0	2
+57865383535048	Michelle Obama Children Malia Ann Obama	0.0	1	0.0	0
+57865383535048	Michelle Obama Religion United Church of Christ	0.0	1	0.0	0
+57865383535048	Michelle Obama Employment history  Title First Lady	0.0	1	0.0	0
+767878574948	Family Guy Episodes Lois Comes Out of Her Shell	0.0	1	0.0	0
+767878574948	Family Guy Awards Won  Award category Teen Choice Award for Choice TV: Animated Show	1.0	1	0.0	1
+767878574948	Family Guy Episodes 12 and a Half Angry Men	1.0	1	0.0	1
+767878574948	Family Guy Episodes The Cleveland–Loretta Quagmire	0.0	1	0.0	0
+767878574948	Family Guy Episodes Peter-assment	0.0	1	0.0	0
+767878574948	Family Guy Episodes Airport '07	0.0	1	0.0	0
+767878574948	Family Guy Episodes Deep Throats	1.0	1	0.0	1
+767878574948	Family Guy Episodes Petergeist	0.0	1	0.0	0
+767878574948	Family Guy Episodes Yug Ylimaf	1.0	1	0.0	1
+767878574948	Family Guy Episodes Internal Affairs	0.0	1	0.0	0
+767878574948	Family Guy Episodes Road to Rhode Island	2.0	1	0.0	2
+767878574948	Family Guy Episodes It's a Trap!	1.0	1	0.0	1
+767878574948	Family Guy Episodes No Country Club for Old Men	2.0	1	0.0	2
+767878574948	Family Guy Episodes A Fistful of Meg	1.0	1	0.0	1
+767878574948	Family Guy Episodes The Former Life of Brian	2.0	1	0.0	2
+767878574948	Family Guy Episodes Trading Places	1.0	1	0.0	1
+767878574948	Family Guy Episodes Peter's Got Woods	1.0	1	0.0	1
+767878574948	Family Guy Episodes Family Guy Viewer Mail 1	2.0	1	0.0	2
+9571555448	Pelé Children Jennifer Nascimento	0.0	1	0.0	0
+9571555448	Pelé Children Joshua Nascimento	0.0	1	0.0	0
+9571555448	Pelé Children Flávia Christina Kurtz Nascimento	0.0	1	0.0	0
+9571555448	Pelé Children Celeste Nascimento	0.0	1	0.0	0
+9571555448	Pelé Profession Football player	1.0	1	0.0	1
+9571555448	Pelé Parents Celeste Arantes	0.0	1	0.0	0
+9571555448	Pelé Children Kelly Cristina Nascimento	0.0	1	0.0	0
+8686545348	Montenegro People born here Smail Tulja	0.0	1	0.0	0
+8686545348	Montenegro Population  Source World Bank, World Development Indicators, Population	0.0	1	0.0	0
+8686545348	Montenegro People born here Milos Krkotic	0.0	1	0.0	0
+8686545348	Montenegro Athletes  Sport Handball	0.0	1	0.0	0
+8686545348	Montenegro People born here Marijana Jankovic	0.0	2	0.0	0	0
+8686545348	Montenegro Athletes  Sport Water polo	0.0	1	0.0	0
+8686545348	Montenegro People born here Ljubomir Tadić	0.0	1	0.0	0
+8686545348	Montenegro People born here Dražen Milić	1.0	1	0.0	1
+8686545348	Montenegro Currency Formerly Used Yugoslav dinar	2.0	1	0.0	2
+8686545348	Montenegro Partially contains Lim	0.0	1	0.0	0
+8686545348	Montenegro People born here Danka Kovinić	1.0	1	0.0	1
+8686545348	Montenegro Partially contains Piva	2.0	1	0.0	2
+8686545348	Montenegro Contains Zeta	0.0	1	0.0	0
+5167788848	Charles, Prince of Wales Things named after this The Prince's Regeneration Trust	2.0	1	0.0	2
+5167788848	Charles, Prince of Wales Family Mountbatten-Windsor	0.0	1	0.0	0
+5167788848	Charles, Prince of Wales Organizations founded The Prince's Drawing School	1.0	1	0.0	1
+5167788848	Charles, Prince of Wales Parents Prince Philip, Duke of Edinburgh	2.0	1	0.0	2
+5167788848	Charles, Prince of Wales Organizations founded International Business Leaders Forum	1.0	1	0.0	1
+5167788848	Charles, Prince of Wales Organizations founded Mutton Renaissance Campaign	0.0	1	0.0	0
+5167788848	Charles, Prince of Wales Family British Royal Family	2.0	1	0.0	2
+5167788848	Charles, Prince of Wales Organizations founded Duchy Originals from Waitrose	2.0	1	0.0	2
+5167788848	Charles, Prince of Wales Children Prince William, Duke of Cambridge	2.0	1	0.0	2
+5167788848	Charles, Prince of Wales Organizations founded The Prince's Foundation for Integrated Health	0.0	1	0.0	0
+5167788848	Charles, Prince of Wales Leader of  Role Chancellor	1.0	1	0.0	1
+5167788848	Charles, Prince of Wales Religion Church of Scotland	2.0	1	0.0	2
+518753486848	China People born here Yunhu Xia	0.0	1	0.0	0
+518753486848	China People born here Han Hsieh	0.0	1	0.0	0
+518753486848	China People born here Guo Jia	0.0	1	0.0	0
+518753486848	China Titles Red Scarf	0.0	4	0.0	0	0	0	0
+518753486848	China People born here Yu Jing	0.0	1	0.0	0
+518753486848	China People born here Huang Fu	0.0	1	0.0	0
+518753486848	China People born here Ren Xun	0.0	2	0.0	0	0
+518753486848	China Athletic performances  Medal Silver medal	0.0	1	0.0	0
+518753486848	China Athletic performances  Medal Bronze medal	0.0	1	0.0	0
+518753486848	China People born here Chi-Ngai Lee	0.0	1	0.0	0
+518753486848	China People born here Xiao Jiang	0.0	1	0.0	0
+518753486848	China People born here Os Guinness	0.0	1	0.0	0
+518753486848	China Contains Shanghai International Studies University	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations I remember when I used to sit on hospital beds and hold people?s hands, people used to be shocked because they?d never seen this before. To me it was quite normal.	0.0	2	0.0	0	0
+5153485448	Diana, Princess of Wales Quotations I am all about caring. I have always been like that.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations I've always though that people need to feel good about themselves and I see my role as offering support to them, to provide some light along the way.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations Whoever is in the distress can call me. I will come running wherever they are.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Family Spencer family	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Works Written About This Topic The Diana Chronicles	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations The kindness and affection from the public have carried me through some of the most difficult periods, and always your love and affection have eased the journey.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations It is a weakness that I lead from my heart, and not my head?	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations I like to be a free spirit. Some don't like that, but that's the way I am.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Films On This Subject Princess Diana: The Legend and Legacy of a Princess	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Films On This Subject Princess in Love	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations I wear my heart on my sleeve.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations When you are happy you can forgive a great deal.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Parents Frances Shand Kydd	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations At the age of 19, you always think you are prepared for everything and you think you have the knowledge of what?s coming ahead.	0.0	1	0.0	0
+5153485448	Diana, Princess of Wales Quotations Helping people in need is a good and essential part of my life, a kind of destiny.	1.0	1	0.0	1

@@ -1,0 +1,1244 @@
+query_id	answer_id	final_rating	num_ratings	std_rating	r1	r2	r3	r4	r5	r6	r7	r8	r9	r10	r11	r12	r13	r14	r15	r16	r17	r18	r19	r20	r21	r22	r23	r24	r25	r26	r27
+487680894948	Robert Todd Lincoln Country of nationality United States of America	0.0	1	0.0	0
+487680894948	Robert Todd Lincoln Parents Mary Todd Lincoln	1.75	4	1.29903810568	1	3	0	3
+487680894948	Robert Todd Lincoln Place of birth Springfield	0.0	1	0.0	0
+487680894948	Robert Todd Lincoln Profession Politician	0.5	4	0.866025403784	0	0	0	2
+487680894948	Robert Todd Lincoln Siblings  Sibling Tad Lincoln	0.0	1	0.0	0
+487680894948	Robert Todd Lincoln Profession Lawyer	0.0	1	0.0	0
+487680894948	Robert Todd Lincoln Siblings  Sibling William Wallace Lincoln	0.75	4	0.829156197589	0	0	2	1
+487680894948	Robert Todd Lincoln Siblings  Sibling Edward Baker Lincoln	0.0	1	0.0	0
+487680894948	Abraham Lincoln Works Written About This Topic Of the People, By the People, For the People	1.0	1	0.0	1
+487680894948	Abraham Lincoln Works Written About This Topic This Fiery Trial: The Speeches and Writings of Abraham Lincoln	2.0	1	0.0	2
+487680894948	Abraham Lincoln Things named after this Abraham Lincoln	0.0	1	0.0	0
+487680894948	Abraham Lincoln Things named after this Abraham Lincoln's Clemency	0.0	1	0.0	0
+487680894948	Abraham Lincoln Profession Politician	1.0	1	0.0	1
+487680894948	Abraham Lincoln Children Tad Lincoln	2.0	1	0.0	2
+487680894948	Abraham Lincoln Profession Lawyer	1.0	1	0.0	1
+487680894948	Abraham Lincoln Things named after this Abraham Lincoln: The Man	1.0	1	0.0	1
+487680894948	Abraham Lincoln Children William Wallace Lincoln	2.25	4	0.433012701892	2	3	2	2
+487680894948	Abraham Lincoln Works Written About This Topic Lincoln on Race and Slavery	1.0	1	0.0	1
+487680894948	Abraham Lincoln Works Written About This Topic The Lincolns: Portrait of a Marriage	2.0	1	0.0	2
+487680894948	Abraham Lincoln Children Edward Baker Lincoln	2.0	1	0.0	2
+88677448	Albert Einstein Films appeared in  Type of Appearance Archive Footage	1.0	1	0.0	1
+88677448	Albert Einstein Things named after this Einstein refrigerator	0.0	1	0.0	0
+88677448	Albert Einstein Influenced Nathan Rosen	1.0	1	0.0	1
+88677448	Albert Einstein Profession Physicist	2.0	1	0.0	2
+88677448	Albert Einstein Influenced By Riazuddin	1.0	1	0.0	1
+88677448	Albert Einstein Things named after this Einstein's Dreams	1.0	1	0.0	1
+88677448	Albert Einstein Works Written About This Topic Essential Einstein	1.0	1	0.0	1
+88677448	Heinrich Friedrich Weber Profession Physicist	0.0	1	0.0	0
+88677448	School of Mathematics, Institute for Advanced Study Award categories presented Salem Prize	0.75	4	0.829156197589	0	0	2	1
+88677448	Albert Einstein Education  Major/Field Of Study Physics	2.0	1	0.0	2
+88677448	Albert Einstein Quotations They come into being not through demonstration but through revelation, through the medium of powerful personalities.	1.0	1	0.0	1
+88677448	Albert Einstein Works written The World as I See It	2.0	1	0.0	2
+88677448	Albert Einstein Quotations The man of science is a poor philosopher.	1.0	1	0.0	1
+88677448	Albert Einstein Works written Gelegentliches	1.0	1	0.0	1
+88677448	Albert Einstein Things named after this Higher-dimensional Einstein gravity	0.0	1	0.0	0
+88677448	Albert Einstein Quotations The world is a dangerous place to live  not because of the people who are evil, but because of the people who don't do anything about it.	1.0	1	0.0	1
+88677448	Albert Einstein Quotations I have little patience with scientists who take a board of wood, look for its thinnest part, and drill a great number of holes where drilling is easy.	1.0	1	0.0	1
+88677448	Albert Einstein Quotations You cannot simultaneously prevent and prepare for war.	1.0	1	0.0	1
+88677448	Albert Einstein Quotations The environment is everything that isn't me.	0.0	1	0.0	0
+88677448	Albert Einstein Quotations A person who never made a mistake never tried anything new.	1.0	1	0.0	1
+956886885148	ThinkPad Manufacturer Lenovo	1.75	4	1.08972473589	2	2	0	3
+956886885148	Lenovo Computer Models ThinkPad	1.5	4	1.5	0	3	0	3
+956886885148	Beijing Country China	0.75	4	0.829156197589	0	1	2	0
+956886885148	Beijing Contains Wangfujing	0.0	1	0.0	0
+956886885148	ThinkPad Products Lenovo Thinkpad Edge 11	0.75	4	1.29903810568	0	0	0	3
+956886885148	Beijing Contains Prince Gong Mansion	0.0	1	0.0	0
+956886885148	Beijing Contains Yonghe Temple	0.0	1	0.0	0
+956886885148	Beijing Tourist attractions Beijing National Stadium	0.0	4	0.0	0	0	0	0
+956886885148	Beijing Contains Marco Polo Bridge	0.0	1	0.0	0
+956886885148	Beijing Contains Tiananmen Square	0.0	1	0.0	0
+956886885148	Beijing Contains Beijing Zoo	0.0	1	0.0	0
+956886885148	Beijing Contains Old Summer Palace	0.0	1	0.0	0
+956886885148	Beijing Contains Temple of Heaven	0.0	1	0.0	0
+956886885148	Beijing Contains Great Wall of China	0.0	1	0.0	0
+956886885148	Beijing Contains Beijing Capital International Airport	0.0	1	0.0	0
+956886885148	Beijing Contains Beijing Ancient Observatory	0.0	1	0.0	0
+956886885148	Beijing Contains Mausoleum of Mao Zedong	0.0	1	0.0	0
+956886885148	Beijing Contains Beijing Museum of Natural History	0.0	1	0.0	0
+956886885148	Beijing Contains Jingshan Park	0.0	1	0.0	0
+956886885148	Beijing Contains National Museum of China	0.0	1	0.0	0
+5295826848	Titanic Edited by James Cameron	0.75	4	0.829156197589	0	1	0	2
+5295826848	Titanic Award Nominations  Ceremony 70th Academy Awards	0.0	1	0.0	0
+5295826848	My Heart Will Go On Awards Won  Ceremony 70th Academy Awards	2.0	1	0.0	2
+5295826848	Titanic Music by James Horner	2.0	1	0.0	2
+5295826848	Titanic: Music from the Motion Picture Artist James Horner	1.0	1	0.0	1
+5295826848	My Heart Will Go On Composer James Horner	2.0	1	0.0	2
+5295826848	Titanic Awards Won  Award winner Kate Winslet	0.0	1	0.0	0
+5295826848	Titanic Award Nominations  Ceremony 2nd Golden Satellite Awards	0.0	1	0.0	0
+5295826848	My Heart Will Go On Award Nominations  Ceremony 2nd Golden Satellite Awards	2.0	1	0.0	2
+5295826848	Titanic Netflix Genres Drama	0.5	4	0.5	0	1	1	0
+5295826848	Titanic: Music from the Motion Picture Album content type Soundtrack	2.0	1	0.0	2
+5295826848	My Heart Will Go On Lyricist Will Jennings	2.25	4	0.829156197589	2	3	3	1
+5295826848	Titanic Awards Won  Award winner Gloria Stuart	0.0	1	0.0	0
+5295826848	Titanic Award Nominations  Ceremony 55th Golden Globe Awards	0.0	1	0.0	0
+5295826848	My Heart Will Go On Award Nominations  Ceremony 55th Golden Globe Awards	2.0	1	0.0	2
+5295826848	Titanic Languages English Language	0.0	1	0.0	0
+5295826848	Titanic: Music from the Motion Picture Releases Titanic	2.0	1	0.0	2
+5295826848	My Heart Will Go On Language English Language	2.25	4	0.433012701892	2	2	3	2
+5295826848	Titanic Awards Won  Award winner Leonardo DiCaprio	0.0	1	0.0	0
+5295826848	Titanic Awards Won  Ceremony 1998 MTV Movie Awards	0.0	1	0.0	0
+685776674948	Aki Kaurismäki Films directed Le Havre	1.0	1	0.0	1
+685776674948	Le Havre Directed by Aki Kaurismäki	1.25	4	0.433012701892	1	2	1	1
+685776674948	Aki Kaurismäki Films directed Juha	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Film Story Credits I Hired a Contract Killer	0.0	1	0.0	0
+685776674948	Aki Kaurismäki Films directed The Man Without a Past	2.0	1	0.0	2
+685776674948	2002 Cannes Film Festival Films The Man Without a Past	1.0	1	0.0	1
+685776674948	Le Havre Release date(s)  Film release distribution medium Theatrical	0.0	1	0.0	0
+685776674948	Aki Kaurismäki Films directed Drifting Clouds	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Film writing credits Ten Minutes Older: The Trumpet	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Films directed The Match Factory Girl	2.0	1	0.0	2
+685776674948	Aki Kaurismäki Films directed Historic Centre	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Films directed Leningrad Cowboys Meet Moses	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Films directed Lights in the Dusk	2.0	1	0.0	2
+685776674948	Aki Kaurismäki Films directed Rocky VI	2.0	1	0.0	2
+685776674948	Aki Kaurismäki Film Story Credits Leningrad Cowboys Go America	1.0	4	1.22474487139	0	1	3	0
+685776674948	2002 Cannes Film Festival Films Ten Minutes Older: The Trumpet	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Films directed To Each His Own Cinema	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Films directed Visions of Europe	1.0	1	0.0	1
+685776674948	Aki Kaurismäki Films directed Ariel	1.25	4	0.829156197589	1	2	2	0
+685776674948	Aki Kaurismäki Film writing credits Take Care of Your Scarf, Tatiana	2.0	1	0.0	2
+5578775448	The Shining Release date(s)  Film release distribution medium Theatrical	2.0	1	0.0	2
+5578775448	Full Metal Jacket Release date(s)  Film release distribution medium Theatrical	0.0	1	0.0	0
+5578775448	Stanley Kubrick Country of nationality United States of America	0.0	1	0.0	0
+5578775448	Stanley Kubrick Film cinematography credits Killer's Kiss	2.0	1	0.0	2
+5578775448	Stanley Kubrick Film Story Credits 2001: A Space Odyssey	2.0	4	0.707106781187	2	2	1	3
+5578775448	Stanley Kubrick Films Produced Fear and Desire	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films Produced The Seafarers	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films Produced Day of the Fight	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed A Clockwork Orange	2.0	1	0.0	2
+5578775448	Stanley Kubrick Film writing credits Flying Padre: An RKO-Pathe Screenliner	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Eyes Wide Shut	3.0	1	0.0	3
+5578775448	Stanley Kubrick Films directed Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Barry Lyndon	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed Paths of Glory	2.0	1	0.0	2
+5578775448	Stanley Kubrick Films directed The Killing	2.0	1	0.0	2
+5578775448	Stanley Kubrick Children Vivian Kubrick	0.0	1	0.0	0
+5578775448	Stanley Kubrick Films directed Lolita	2.0	1	0.0	2
+5578775448	The Shining Production companies Hawk Films	2.0	1	0.0	2
+5578775448	The Shining Rated R (USA)	0.0	1	0.0	0
+5578775448	The Shining Netflix Genres Horror	0.0	1	0.0	0
+7057716748	Doctor Faustus Performances  Special Performance Type Uncredited	0.5	4	0.866025403784	0	2	0	0
+7057716748	Richard Burton Film performances  Special Performance Type Uncredited	2.0	1	0.0	2
+7057716748	Elizabeth Taylor Film performances  Special Performance Type Uncredited	2.0	1	0.0	2
+7057716748	Doctor Faustus Netflix Genres United Kingdom	1.25	4	0.829156197589	1	2	2	0
+7057716748	Richard Burton Country of nationality United Kingdom	0.0	1	0.0	0
+7057716748	Elizabeth Taylor Country of nationality United Kingdom	0.0	1	0.0	0
+7057716748	Richard Burton Spouse (or domestic partner)  Type of union Marriage	1.0	1	0.0	1
+7057716748	Elizabeth Taylor Spouse (or domestic partner)  Type of union Marriage	0.0	1	0.0	0
+7057716748	Richard Burton Recording contributions  Role Vocals	0.0	1	0.0	0
+7057716748	Doctor Faustus Directed by Nevill Coghill	0.0	1	0.0	0
+7057716748	Richard Burton Children Liza Todd Burton	0.0	1	0.0	0
+7057716748	Richard Burton Profession Actor	1.25	4	0.433012701892	1	1	2	1
+7057716748	Richard Burton Children Maria Burton	0.0	1	0.0	0
+7057716748	Richard Burton Recordings Excerpt from Who’s Afraid of Virginia Woolf?	1.0	1	0.0	1
+7057716748	Richard Burton Films Produced The Taming of the Shrew	1.25	4	0.829156197589	1	2	2	0
+7057716748	Elizabeth Taylor Children Liza Todd Burton	0.0	1	0.0	0
+7057716748	Elizabeth Taylor Profession Actor	0.0	1	0.0	0
+7057716748	Elizabeth Taylor Children Maria Burton	0.0	1	0.0	0
+7057716748	Elizabeth Taylor Recordings Excerpt from Who’s Afraid of Virginia Woolf?	2.0	1	0.0	2
+7057716748	Elizabeth Taylor Films Produced The Taming of the Shrew	1.0	1	0.0	1
+7176525248	Jacques-Yves Cousteau Organizations founded EarthEcho International	0.25	4	0.433012701892	0	0	0	1
+7176525248	Alexandra Cousteau Organizations founded EarthEcho International	1.0	1	0.0	1
+7176525248	Philippe Cousteau Organizations founded EarthEcho International	1.0	1	0.0	1
+7176525248	Jacques-Yves Cousteau Film writing credits Rhythm on the Reef	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films Produced World Without Sun	0.75	4	0.829156197589	0	0	2	1
+7176525248	Jacques-Yves Cousteau Films Produced La mer rouge	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films directed The Silent World	0.25	4	0.433012701892	0	1	0	0
+7176525248	Jacques-Yves Cousteau Profession Television producer	1.0	1	0.0	1
+7176525248	Jacques-Yves Cousteau Films Produced Un musee dans la mer	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Films Produced Epaves	0.0	1	0.0	0
+7176525248	Philippe Cousteau Profession Television producer	1.0	1	0.0	1
+7176525248	Jacques-Yves Cousteau TV episodes produced  Role Executive Producer	0.25	4	0.433012701892	0	0	1	0
+7176525248	Philippe Cousteau TV programs produced  Producer type Executive Producer	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Country of nationality France	1.0	4	0.707106781187	0	1	2	1
+7176525248	Alexandra Cousteau Country of nationality France	2.0	1	0.0	2
+7176525248	Philippe Cousteau Country of nationality France	2.0	1	0.0	2
+7176525248	Jacques-Yves Cousteau Children Pierre-Yves Cousteau	2.0	1	0.0	2
+7176525248	Jacques-Yves Cousteau Parents Élisabeth Cousteau	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Works written Marine Life of the Caribbean	0.0	1	0.0	0
+7176525248	Jacques-Yves Cousteau Works written The Cousteau almanac	0.0	1	0.0	0
+8387675748	Phobos Star system Solar System	0.25	4	0.433012701892	0	0	1	0
+8387675748	Mars Star system Solar System	1.25	4	0.829156197589	2	0	2	1
+8387675748	Deimos Star system Solar System	0.0	1	0.0	0
+8387675748	Mars Contains Ascraeus Chasmata	0.0	1	0.0	0
+8387675748	Mars Contains Tharsis	2.25	4	0.433012701892	2	2	3	2
+8387675748	Mars Contains Ganges Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Capri Chasma	3.0	1	0.0	3
+8387675748	Mars Contains Planum Boreum	2.0	1	0.0	2
+8387675748	Mars Contains Baetis Chasma	3.0	1	0.0	3
+8387675748	Mars Contains Elysium Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Ceti Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Hyblaeus Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Ophir Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Chasma Boreale	3.0	1	0.0	3
+8387675748	Mars Contains Melas Chasma	3.0	1	0.0	3
+8387675748	Mars Contains Hebes Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Ultimum Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Ius Chasma	2.0	1	0.0	2
+8387675748	Mars Contains Candor Chasma	3.0	1	0.0	3
+8387675748	Mars Contains Eos Chasma	2.0	1	0.0	2
+7876784948	West Africa Time Zone Locations in this time zone Yaoundé	2.0	1	0.0	2
+7876784948	Cameroon GDP (nominal)  Currency United States Dollar	0.75	4	0.433012701892	1	1	0	1
+7876784948	Cameroon Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	0.75	4	0.829156197589	0	2	1	0
+7876784948	Cameroon Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	1.75	4	1.29903810568	1	3	3	0
+7876784948	Cameroon Population  Source World Bank, World Development Indicators, Population	2.0	1	0.0	2
+7876784948	Cameroon Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	2.25	4	0.829156197589	1	3	3	2
+7876784948	Cameroon GDP growth rate  Source World Bank, World Development Indicators, GDP Growth Rate	1.25	4	0.829156197589	1	2	0	2
+7876784948	Cameroon CO2 emissions per capita  Source CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank	0.25	4	0.433012701892	0	1	0	0
+7876784948	Cameroon Athletes  Olympics The London 2012 Summer Olympics	0.0	4	0.0	0	0	0	0
+7876784948	Cameroon Athletes  Sport Football - Soccer	0.0	1	0.0	0
+7876784948	Cameroon GDP (nominal)  Source World Bank, World Development Indicators, Gross Domestic Product	1.0	1	0.0	1
+7876784948	Cameroon Electricity consumption per capita  Source Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank	1.25	4	0.829156197589	1	2	2	0
+7876784948	Cameroon Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	1.5	4	1.11803398875	1	3	2	0
+7876784948	Cameroon GDP real  Source World Bank, World Development Indicators	1.0	1	0.0	1
+7876784948	Cameroon GNI in PPP dollars  Source Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank	1.0	1	0.0	1
+7876784948	Cameroon GNI per capita in PPP dollars  Source GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank	2.0	1	0.0	2
+7876784948	Cameroon Military expenditure as percentage of GDP  Source Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank	1.75	4	1.08972473589	2	0	3	2
+7876784948	West Africa Time Zone Locations in this time zone Africa	1.0	1	0.0	1
+7876784948	Cameroon Contains Littoral Region	1.0	1	0.0	1
+7876784948	Cameroon People born here Wes Madiko	0.0	1	0.0	0
+8372755048	Eritrea GDP real  Adjustment currency United States Dollar	0.75	4	0.829156197589	0	0	2	1
+8372755048	Eritrea Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	1.0	4	0.707106781187	0	1	2	1
+8372755048	Eritrea Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	1.0	4	0.707106781187	1	0	1	2
+8372755048	Eritrea Population  Source World Bank, World Development Indicators, Population	0.25	4	0.433012701892	0	0	1	0
+8372755048	Eritrea Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	0.0	4	0.0	0	0	0	0
+8372755048	Eritrea Capital Asmara	0.5	4	0.5	1	0	1	0
+8372755048	Isaias Afwerki Place of birth Asmara	0.0	1	0.0	0
+8372755048	Eritrea Internet users as percentage of population  Source Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank	0.0	4	0.0	0	0	0	0
+8372755048	Eritrea GDP growth rate  Source World Bank, World Development Indicators, GDP Growth Rate	1.75	4	0.433012701892	1	2	2	2
+8372755048	Eritrea Administrative Divisions Northern Red Sea Region	0.0	1	0.0	0
+8372755048	Eritrea Administrative Divisions Gash-Barka Region	0.75	4	0.829156197589	0	2	1	0
+8372755048	Eritrea Administrative Divisions Debub Region	1.0	1	0.0	1
+8372755048	Eritrea Contains Southern Red Sea Region	0.0	1	0.0	0
+8372755048	Eritrea Contains Maekel Region	0.0	1	0.0	0
+8372755048	Eritrea Contains Anseba Region	0.0	1	0.0	0
+8372755048	Eritrea Electricity consumption per capita  Source Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank	0.0	4	0.0	0	0	0	0
+8372755048	Eritrea Energy use per capita  Source Energy use per capita, World Development Indicators and Global Development Finance, World Bank	0.75	4	0.829156197589	1	2	0	0
+8372755048	Eritrea Athletes  Olympics The London 2012 Summer Olympics	0.0	1	0.0	0
+8372755048	Eritrea CO2 emissions per capita  Source CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank	0.0	4	0.0	0	0	0	0
+8372755048	Eritrea GNI in PPP dollars  Source Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank	0.0	1	0.0	0
+80837248	Neil Armstrong Country of nationality United States of America	0.0	1	0.0	0
+80837248	Apollo 11 Quotations That's one small step for man, one giant leap for mankind.	0.75	4	0.433012701892	0	1	1	1
+80837248	Apollo 11 Space program Apollo program	1.25	4	0.829156197589	1	2	2	0
+80837248	Apollo 11 Works Written About This Topic First on the Moon	0.0	1	0.0	0
+80837248	Neil Armstrong Quotations That's one small step for man, one giant leap for mankind.	0.0	1	0.0	0
+80837248	Neil Armstrong Profession Astronaut	0.0	1	0.0	0
+80837248	Neil Armstrong Space Agency NASA	2.25	4	0.829156197589	1	3	2	3
+80837248	Michael Collins Profession Astronaut	0.0	1	0.0	0
+80837248	Michael Collins Works written First on the Moon	0.0	1	0.0	0
+80837248	Michael Collins Space Agency NASA	1.0	1	0.0	1
+80837248	Neil Armstrong Films appeared in  Type of Appearance Archive Footage	0.0	1	0.0	0
+80837248	Michael Collins Films appeared in  Type of Appearance Archive Footage	0.0	1	0.0	0
+80837248	Apollo 11 Musical compositions about this topic Man on the Moon	0.5	4	0.5	0	0	1	1
+80837248	Apollo 11 Destination Moon	1.25	4	0.829156197589	0	2	1	2
+80837248	Apollo 11 Included in event Space Race	0.0	1	0.0	0
+80837248	Apollo 11 Launch site Cape Canaveral Air Force Station Launch Complex 39A	0.75	4	0.829156197589	0	2	1	0
+80837248	Apollo 11 TV programs British television Apollo 11 coverage	0.5	4	0.5	0	1	1	0
+80837248	Apollo 11 Films On This Subject From the Earth to the Moon	0.0	1	0.0	0
+80837248	Apollo 11 Films On This Subject Fly Me to the Moon	0.0	1	0.0	0
+80837248	Apollo 11 Films On This Subject The Dish	0.0	1	0.0	0
+8478554948	Bill Gates Country of nationality United States of America	2.0	1	0.0	2
+8478554948	Seattle People born here Perry Askam	0.0	1	0.0	0
+8478554948	Seattle People born here Jo Baer	0.0	1	0.0	0
+8478554948	Bill Gates Children Phoebe Adele Gates	3.0	1	0.0	3
+8478554948	William H. Gates, Sr. Parents Lillian Elizabeth Rice	1.0	1	0.0	1
+8478554948	Bill Gates Parents William H. Gates, Sr.	3.0	1	0.0	3
+8478554948	Bill Gates Profession Businessperson	2.0	1	0.0	2
+8478554948	William H. Gates, Sr. Participated in conflicts World War II	1.25	4	0.829156197589	1	2	2	0
+8478554948	Seattle People born here Pat Silver-Lasky	0.0	1	0.0	0
+8478554948	Seattle People born here Jack Endino	0.0	1	0.0	0
+8478554948	William H. Gates, Sr. Gender Male	1.0	1	0.0	1
+8478554948	Seattle Contains Pike Place Market	0.0	1	0.0	0
+8478554948	Bill Gates Influenced Daniel Podgaichenko	1.0	1	0.0	1
+8478554948	Bill Gates Films appeared in  Type of Appearance Him/Herself	0.0	1	0.0	0
+8478554948	William H. Gates, Sr. Films appeared in  Type of Appearance Him/Herself	0.0	1	0.0	0
+8478554948	Seattle People born here Mary Maxwell Gates	0.0	1	0.0	0
+8478554948	Seattle Contained by King County	0.0	1	0.0	0
+8478554948	Bill Gates Parents Mary Maxwell Gates	2.5	4	0.5	2	3	2	3
+8478554948	William H. Gates, Sr. Spouse (or domestic partner)  Spouse Mary Maxwell Gates	3.0	1	0.0	3
+8478554948	Seattle Population  Source United States Census Bureau, Population	0.0	4	0.0	0	0	0	0
+877070565548	J. K. Rowling Awards Won  Award category Kids’ Choice Award for Favorite Book	2.0	1	0.0	2
+877070565548	Harry Potter literary series Awards Won  Award category Kids’ Choice Award for Favorite Book	1.0	1	0.0	1
+877070565548	J. K. Rowling Fictional universes created Harry Potter	2.0	4	0.707106781187	2	1	3	2
+877070565548	Harry Potter and the Deathly Hallows Part of fictional universes Harry Potter	1.0	1	0.0	1
+877070565548	Harry Potter literary series Fictional universe Harry Potter	1.25	4	0.829156197589	1	2	0	2
+877070565548	J. K. Rowling Works written Harry Potter and the Half-Blood Prince	3.0	1	0.0	3
+877070565548	J. K. Rowling Film Story Credits Harry Potter and the Deathly Hallows - Part I	2.0	1	0.0	2
+877070565548	J. K. Rowling Film Story Credits Harry Potter and the Deathly Hallows – Part 2	2.0	1	0.0	2
+877070565548	Harry Potter and the Deathly Hallows Previous in series Harry Potter and the Half-Blood Prince	1.75	4	1.08972473589	2	0	2	3
+877070565548	Harry Potter and the Deathly Hallows Adaptations Harry Potter and the Deathly Hallows - Part I	2.0	1	0.0	2
+877070565548	Harry Potter and the Deathly Hallows Adaptations Harry Potter and the Deathly Hallows – Part 2	1.5	4	0.866025403784	2	2	0	2
+877070565548	Harry Potter literary series Works in this series Harry Potter and the Half-Blood Prince	3.0	1	0.0	3
+877070565548	J. K. Rowling Fictional Characters Created Remus Lupin	1.0	1	0.0	1
+877070565548	J. K. Rowling Fictional Characters Created Dolores Umbridge	2.0	1	0.0	2
+877070565548	J. K. Rowling Book editions published Harry Potter and the Deathly Hallows	2.0	5	0.632455532034	2	2	2	3	1
+877070565548	J. K. Rowling Fictional Characters Created Hedwig	2.0	1	0.0	2
+877070565548	J. K. Rowling Fictional Characters Created George Weasley	2.0	1	0.0	2
+877070565548	J. K. Rowling Fictional Characters Created Argus Filch	2.0	1	0.0	2
+877070565548	J. K. Rowling Fictional Characters Created Pius Thicknesse	2.0	1	0.0	2
+77848153825048	Jim Parsons Country of nationality United States of America	2.0	1	0.0	2
+77848153825048	Jim Parsons Starring TV roles  Seasons The Big Bang Theory - Season 4	3.0	1	0.0	3
+77848153825048	Jim Parsons Starring TV roles  Seasons The Big Bang Theory - Season 6	2.0	1	0.0	2
+77848153825048	Jim Parsons Starring TV roles  Seasons The Big Bang Theory - Season 5	2.0	1	0.0	2
+77848153825048	Jim Parsons Starring TV roles  Seasons The Big Bang Theory - Season 1	2.0	1	0.0	2
+77848153825048	Jim Parsons Starring TV roles  Seasons The Big Bang Theory - Season 3	2.0	1	0.0	2
+77848153825048	Jim Parsons Starring TV roles  Seasons The Big Bang Theory - Season 7	2.0	1	0.0	2
+77848153825048	Jim Parsons Starring TV roles  Seasons The Big Bang Theory - Season 2	2.0	1	0.0	2
+77848153825048	The Big Bang Theory Seasons The Big Bang Theory - Season 4	1.0	1	0.0	1
+77848153825048	The Big Bang Theory Seasons The Big Bang Theory - Season 6	2.0	1	0.0	2
+77848153825048	The Big Bang Theory Seasons The Big Bang Theory - Season 5	1.0	1	0.0	1
+77848153825048	The Big Bang Theory Seasons The Big Bang Theory - Season 1	1.25	4	0.433012701892	1	1	1	2
+77848153825048	The Big Bang Theory Seasons The Big Bang Theory - Season 3	2.0	1	0.0	2
+77848153825048	The Big Bang Theory Seasons The Big Bang Theory - Season 7	2.0	1	0.0	2
+77848153825048	The Big Bang Theory Seasons The Big Bang Theory - Season 2	1.0	1	0.0	1
+77848153825048	Leonard Hofstadter Programs in which this was a regular character  Seasons The Big Bang Theory - Season 4	2.0	1	0.0	2
+77848153825048	Leonard Hofstadter Programs in which this was a regular character  Seasons The Big Bang Theory - Season 6	2.0	1	0.0	2
+77848153825048	Leonard Hofstadter Programs in which this was a regular character  Seasons The Big Bang Theory - Season 5	2.0	1	0.0	2
+77848153825048	Leonard Hofstadter Programs in which this was a regular character  Seasons The Big Bang Theory - Season 1	2.0	1	0.0	2
+77848153825048	Leonard Hofstadter Programs in which this was a regular character  Seasons The Big Bang Theory - Season 3	2.0	1	0.0	2
+546675674948	The US Open (Tennis) Match Results  Match Format Women's singles	0.0	1	0.0	0
+546675674948	Wimbledon Match Results  Match Format Women's singles	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Match Results  Match Format Men's doubles	0.0	1	0.0	0
+546675674948	Boris Becker Tennis Titles  Event Type Men's doubles	2.0	1	0.0	2
+546675674948	Stefan Edberg Tennis Titles  Event Type Men's doubles	0.0	1	0.0	0
+546675674948	Wimbledon Match Results  Match Format Men's doubles	1.0	1	0.0	1
+546675674948	The US Open (Tennis) Match Results  Match Format Women's doubles	0.0	1	0.0	0
+546675674948	Wimbledon Match Results  Match Format Women's doubles	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Champions  Event Type Mixed doubles	0.0	1	0.0	0
+546675674948	Wimbledon Champions  Event Type Mixed doubles	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Instances 1941 U.S. National Championships	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Instances 1884 U.S. National Championship	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Champions  Winner Martina Navratilova	0.0	1	0.0	0
+546675674948	Wimbledon Champions  Winner Martina Navratilova	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Instances 2004 US Open	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Champions  Winner Billie Jean King	0.0	1	0.0	0
+546675674948	Wimbledon Champions  Winner Billie Jean King	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Champions  Winner Serena Williams	0.5	4	0.866025403784	0	2	0	0
+546675674948	Wimbledon Champions  Winner Serena Williams	0.0	1	0.0	0
+546675674948	The US Open (Tennis) Champions  Winner Margaret Osborne duPont	0.0	1	0.0	0
+57865383535048	Michelle Obama Country of nationality United States of America	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study Economics	0.0	1	0.0	0
+57865383535048	Juris Doctor People with this degree  Major/Field Of Study Economics	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Institution Harvard University	1.0	1	0.0	1
+57865383535048	Juris Doctor People with this degree  Institution Harvard University	1.0	1	0.0	1
+57865383535048	Bachelor of Arts People with this degree  Institution Yale University	0.0	1	0.0	0
+57865383535048	Juris Doctor People with this degree  Institution Yale University	2.0	1	0.0	2
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study History	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study Political Science	1.0	1	0.0	1
+57865383535048	Bachelor of Arts People with this degree  Institution Stanford University	0.0	1	0.0	0
+57865383535048	Juris Doctor People with this degree  Institution Stanford University	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Institution University of California, Berkeley	0.0	1	0.0	0
+57865383535048	Juris Doctor People with this degree  Institution University of California, Berkeley	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study English Literature	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Institution Harvard College	2.0	1	0.0	2
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study Mathematics	0.0	1	0.0	0
+57865383535048	Michelle Obama Works Written About This Topic Why Race Mattered in Barack Obama's Re-election	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study Philosophy	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study Psychology	0.0	1	0.0	0
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study Law	0.0	1	0.0	0
+9078665448	Europe People born here Jordanus de Nemore	0.0	1	0.0	0
+9078665448	Poland People born here Wiktor Poliszczuk	0.0	1	0.0	0
+9078665448	Russia People born here Nikolay Popovsky	0.0	1	0.0	0
+9078665448	Russia Partially contained by Europe	2.0	1	0.0	2
+9078665448	Europe Contains Poland	0.0	1	0.0	0
+9078665448	Poland People born here Marzenka Novak	0.0	1	0.0	0
+9078665448	Russia People born here Vitali Makarov	0.0	1	0.0	0
+9078665448	Europe People born here Maryline Blackburn	0.0	1	0.0	0
+9078665448	Russia Fictional Characters Born Here Marisol Delko Caine	0.0	1	0.0	0
+9078665448	Poland People born here Magdalena Tulli	0.0	1	0.0	0
+9078665448	Europe Partially contains Russia	2.0	1	0.0	2
+9078665448	Poland Works Written About This Topic The forgotten Holocaust	0.0	1	0.0	0
+9078665448	Russia People born here Artur Ryabokobylenko	0.0	1	0.0	0
+9078665448	Russia Olympics participated in 2008 Summer Olympics	0.0	1	0.0	0
+9078665448	Russia Titles The Fall of Berlin	0.0	1	0.0	0
+9078665448	Europe Works Written About This Topic The European Dream	0.0	1	0.0	0
+9078665448	Russia People born here Ru Hasanov	0.0	1	0.0	0
+9078665448	Poland People born here Grzegorz Zariczny	0.0	1	0.0	0
+9078665448	Russia Titles How I Ended This Summer	0.0	1	0.0	0
+9078665448	Europe Time zone(s) Greenwich Mean Time Zone	0.0	1	0.0	0
+75787048705148	Lou Reed Albums Animal Serenade	3.0	1	0.0	3
+75787048705148	Rock music Albums A Reality Tour	1.0	1	0.0	1
+75787048705148	Piano Albums Song Cinema	0.0	1	0.0	0
+75787048705148	Lou Reed Member of  Roles Vocals	2.0	1	0.0	2
+75787048705148	Rock music Artists Annie Lennox	0.0	1	0.0	0
+75787048705148	Piano Instrumentalists Pepper McGowan	0.0	1	0.0	0
+75787048705148	Rock music Albums Head Games	0.0	1	0.0	0
+75787048705148	Lou Reed Profession Musician	2.0	1	0.0	2
+75787048705148	Lou Reed Albums Walk on the Wild Side & Other Hits	3.0	1	0.0	3
+75787048705148	Piano Recording performances  Role Solo	1.0	1	0.0	1
+75787048705148	Lou Reed Instruments Played Keyboard	2.0	1	0.0	2
+75787048705148	Lou Reed Profession Actor	0.0	1	0.0	0
+75787048705148	Piano Recording performances  Contributor Jenő Jandó	1.0	1	0.0	1
+75787048705148	Lou Reed Albums Set the Twilight Reeling	2.0	1	0.0	2
+75787048705148	Piano Albums From the Yellow Room	0.0	1	0.0	0
+75787048705148	Lou Reed Musical Genres Hard rock	2.0	4	0.707106781187	2	2	3	1
+75787048705148	Rock music Artists Lars Løberg Tofte	0.0	1	0.0	0
+75787048705148	Lou Reed Instruments Played Synthesizer	2.0	1	0.0	2
+75787048705148	Rock music Artists Ian Stewart	0.0	1	0.0	0
+75787048705148	Piano Regular Performances  Roles Electronic keyboard	0.0	1	0.0	0
+5788825148	Isaac Asimov Award Nominations  Award Locus Award for Best Anthology	0.0	1	0.0	0
+5788825148	Foundation and Empire Part of series The Foundation Trilogy	1.0	1	0.0	1
+5788825148	Foundation and Empire Part of series The Foundation Series	1.0	1	0.0	1
+5788825148	Foundation and Empire Part of fictional universes The Foundation Universe	2.0	1	0.0	2
+5788825148	Isaac Asimov Series Written (or Contributed To) The Foundation Trilogy	2.0	1	0.0	2
+5788825148	Isaac Asimov Series Written (or Contributed To) The Foundation Series	2.0	1	0.0	2
+5788825148	Isaac Asimov Fictional universes created The Foundation Universe	2.25	4	0.433012701892	2	3	2	2
+5788825148	Foundation Part of series The Foundation Trilogy	1.25	4	1.08972473589	1	3	0	1
+5788825148	Foundation Part of series The Foundation Series	1.0	1	0.0	1
+5788825148	Foundation Part of fictional universes The Foundation Universe	1.2727272727272727	22	1.28564869307	0	0	0	0	2	1	0	3	3	3	1	0	0	2	3	3	0	2	0	3	0	2
+5788825148	Foundation and Empire Genre Novel	2.0	1	0.0	2
+5788825148	Foundation and Empire Editions Foundation and Empire	1.0	1	0.0	1
+5788825148	Foundation and Empire Editions Foundation and Empire (Foundation Novels)	1.0	1	0.0	1
+5788825148	Foundation and Empire Editions FOUNDATION AND EMPIRE (Foundation Novels (Paperback))	2.0	2	0.0	2	2
+5788825148	Foundation and Empire Genre Fiction	3.0	1	0.0	3
+5788825148	Foundation and Empire Genre Science Fiction	2.0	1	0.0	2
+5788825148	Foundation and Empire Genre Speculative fiction	1.0	1	0.0	1
+5788825148	Foundation and Empire Editions Foundation and Empire (Foundation Novels (Audio))	0.0	1	0.0	0
+5788825148	Foundation and Empire Editions Foundation and empire	1.0	1	0.0	1
+487680894948	Abraham Lincoln Appointment made  Appointee Salmon P. Chase	0.7142857142857143	14	0.699854212224	0	1	0	1	1	2	1	1	0	0	0	2	1	0
+5295826848	Titanic Genres Drama	0.3333333333333333	3	0.471404520791	0	1	0
+685776674948	Le Havre Production design by Wouter Zoon	0.3333333333333333	3	0.471404520791	0	0	1
+5578775448	Stanley Kubrick Gender Male	0.3333333333333333	3	0.471404520791	0	1	0
+5578775448	The Shining Cinematography John Alcott	0.3333333333333333	3	0.471404520791	1	0	0
+7057716748	Doctor Faustus Languages English Language	0.3333333333333333	3	0.471404520791	0	0	1
+8478554948	Seattle Structures Owned  Structure Benaroya Hall	0.0	3	0.0	0	0	0
+877070565548	J. K. Rowling Employment history  Employer Amnesty International	0.3333333333333333	3	0.471404520791	0	1	0
+75787048705148	Rock music Subject of Helmet	0.3333333333333333	3	0.471404520791	0	0	1
+80837248	NASA Art Forms Photography	0.5	18	0.763762615826	0	0	0	0	0	2	0	0	0	0	1	2	0	0	1	1	2	0
+546675674948	Boris Becker TV regular appearances  Seasons Piers Morgan's Life Stories - Season 2	0.8333333333333334	24	0.849836585599	1	0	2	1	0	0	0	1	1	0	2	0	0	1	3	1	1	0	2	2	1	0	1	0
+7057716748	Elizabeth Taylor Cause of death Heart failure	0.2	25	0.4	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1
+88677448	Albert Einstein Artwork on the Subject Albert Einstein Memorial	0.6666666666666666	27	0.76980035892	1	0	2	0	0	1	1	2	0	1	2	0	0	0	0	1	0	1	0	0	2	0	2	1	1	0	0
+8478554948	Seattle Tourist attractions Seattle Art Museum	0.038461538461538464	26	0.192307692308	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7057716748	Richard Burton Awards Won  Award winner Julie Andrews	0.631578947368421	19	0.80854165767	0	1	0	0	0	0	1	1	1	0	2	3	0	1	0	0	1	0	1
+8478554948	Seattle Tour operators San Juan Safaris	0.0	21	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5788825148	Foundation Previous in series Foundation's Triumph	1.5	22	1.07661084385	0	3	0	2	2	3	0	1	1	2	1	2	2	3	0	0	2	2	2	2	3	0
+5295826848	Titanic Soundtrack Titanic Reflections (Non Original Versions)	2.0	21	0.925820099773	3	3	2	1	2	3	3	3	2	2	1	2	3	2	1	0	0	2	3	2	2
+88677448	Albert Einstein Ethnicity Jewish people	0.43478260869565216	23	0.576804311366	0	0	1	0	1	0	0	1	0	1	0	0	1	1	2	0	0	1	1	0	0	0	0
+9078665448	Europe Contains (Fictional Places) Eurasia	0.8076923076923077	26	1.0748606625	0	2	0	0	0	0	1	0	2	0	1	1	0	2	0	1	0	0	3	0	0	0	2	3	0	3
+487680894948	Mary Todd Lincoln Siblings  Sibling Elizabeth Edwards	0.8	5	0.979795897113	0	0	2	0	2
+487680894948	Abraham Lincoln Speeches or presentations  Speech subject American Civil War	1.0	3	0.816496580928	1	2	0
+487680894948	Robert Todd Lincoln Gender Male	0.6666666666666666	3	0.471404520791	1	0	1
+487680894948	Mary Todd Lincoln Spouse (or domestic partner)  Location of ceremony Springfield	2.3333333333333335	3	0.471404520791	3	2	2
+487680894948	Abraham Lincoln Quotations About This Subject \The Emancipation Proclamation...can remind us in 2013 of all the mistakes we never want to commit again but it can also motivate us to fulfill to an ever greater degree the definitive freedom-sustaining and life-enhancing principles of democracy in living action.	1.0	3	0.0	1	1	1
+487680894948	Abraham Lincoln Exhibitions created about this subject Abraham Lincoln: Self-Made in America	1.0	3	0.0	1	1	1
+487680894948	Abraham Lincoln Films On This Subject Lincoln	0.6666666666666666	3	0.471404520791	1	1	0
+487680894948	Abraham Lincoln Things named after this Lincoln	0.6666666666666666	3	0.942809041582	0	2	0
+487680894948	Abraham Lincoln Influenced By Thomas Paine	1.5217391304347827	23	0.972203468478	1	0	0	2	3	2	1	0	0	1	2	2	2	2	2	2	2	0	1	3	2	3	2
+487680894948	Abraham Lincoln Places lived  Location Illinois	2.3333333333333335	3	0.471404520791	2	2	3
+487680894948	Abraham Lincoln Vice president Hannibal Hamlin	0.6666666666666666	3	0.471404520791	1	0	1
+487680894948	Abraham Lincoln Romantic relationships (with celebrities)  Relationship type Dated	2.0	3	0.0	2	2	2
+487680894948	Abraham Lincoln Cause of death Assassination	1.6666666666666667	3	1.24721912892	3	2	0
+487680894948	Abraham Lincoln Employment history  Title President	0.6666666666666666	3	0.471404520791	1	1	0
+487680894948	Abraham Lincoln Artwork on the Subject Abraham Lincoln	0.6666666666666666	3	0.942809041582	0	0	2
+487680894948	Abraham Lincoln Works Written About This Topic Abraham Lincoln	0.6666666666666666	3	0.471404520791	1	1	0
+487680894948	Abraham Lincoln Dedications  Dedicated By United States Congress	0.3333333333333333	3	0.471404520791	0	1	0
+487680894948	Abraham Lincoln Employment history  Employer Federal government of the United States	1.6666666666666667	3	1.24721912892	2	0	3
+487680894948	Abraham Lincoln Election campaigns Abraham Lincoln Presidential Campaign, 1864	1.6666666666666667	3	0.471404520791	2	2	1
+487680894948	Abraham Lincoln Spouse (or domestic partner)  Location of ceremony Springfield	2.6666666666666665	3	0.471404520791	3	2	3
+487680894948	Abraham Lincoln Representations In Fiction Abraham Lincoln	0.3333333333333333	3	0.471404520791	1	0	0
+487680894948	Mary Todd Lincoln Condition Bipolar disorder	1.6666666666666667	3	0.942809041582	1	1	3
+487680894948	Robert Todd Lincoln Structures Owned  Structure Hildene	0.3333333333333333	3	0.471404520791	1	0	0
+487680894948	Abraham Lincoln Organizations founded Republican Party	0.3333333333333333	3	0.471404520791	1	0	0
+487680894948	Abraham Lincoln Appointees  Office position or title United States Secretary of State	0.3333333333333333	3	0.471404520791	0	0	1
+487680894948	Mary Todd Lincoln Place of birth Lexington	2.0	3	0.816496580928	3	2	1
+487680894948	Abraham Lincoln Speeches or presentations  Type or format of presentation Debate	1.3333333333333333	3	1.24721912892	1	0	3
+487680894948	Abraham Lincoln Organizations founded United States Department of Agriculture	0.3333333333333333	3	0.471404520791	0	1	0
+487680894948	Robert Todd Lincoln Service  Military Force Union Army	1.3333333333333333	3	0.942809041582	0	2	2
+487680894948	Ann Rutledge Romantic relationships (with celebrities)  Celebrity Abraham Lincoln	2.0	3	0.0	2	2	2
+487680894948	Robert Todd Lincoln Member of  Organization Delta Kappa Epsilon	0.6666666666666666	3	0.942809041582	0	0	2
+487680894948	Robert Todd Lincoln Place of burial Arlington National Cemetery	1.0	3	0.816496580928	0	2	1
+487680894948	Abraham Lincoln Exhibitions created about this subject Abraham Lincoln: A Man of His Time, A Man For All Times	1.0	3	0.816496580928	1	2	0
+487680894948	Abraham Lincoln Works written Abraham Lincoln	0.3333333333333333	3	0.471404520791	1	0	0
+487680894948	Abraham Lincoln Quotations A woman is the only thing I am afraid of that I know will not hurt me.	1.3333333333333333	3	0.471404520791	1	2	1
+487680894948	Mary Todd Lincoln Religion Catholicism	1.3333333333333333	3	1.24721912892	3	0	1
+487680894948	Abraham Lincoln Military Commands  Military Conflict American Civil War	0.3333333333333333	3	0.471404520791	1	0	0
+487680894948	Abraham Lincoln Dedications  Dedicated To Thomas Jefferson	1.3333333333333333	3	0.942809041582	2	2	0
+487680894948	Robert Todd Lincoln Participated in conflicts American Civil War	0.3333333333333333	3	0.471404520791	1	0	0
+487680894948	Abraham Lincoln Ethnicity Americans	1.0	3	0.816496580928	2	1	0
+487680894948	Abraham Lincoln Named after Abraham	1.3333333333333333	3	1.24721912892	0	3	1
+487680894948	Robert Todd Lincoln Education  Institution Harvard University	1.6666666666666667	3	0.471404520791	1	2	2
+487680894948	Abraham Lincoln Vice president Andrew Johnson	0.3333333333333333	3	0.471404520791	1	0	0
+487680894948	Abraham Lincoln Children Robert Todd Lincoln	2.6666666666666665	3	0.471404520791	3	3	2
+487680894948	Abraham Lincoln Election campaigns Abraham Lincoln Presidential Campaign, 1860	0.6666666666666666	3	0.471404520791	1	1	0
+487680894948	Abraham Lincoln Influenced Martin Luther King, Jr.	0.6666666666666666	3	0.942809041582	2	0	0
+487680894948	Abraham Lincoln Condition Smallpox	1.3333333333333333	3	0.942809041582	2	2	0
+487680894948	Mary Todd Lincoln Religion Presbyterianism	0.0	3	0.0	0	0	0
+88677448	Albert Einstein Appears in ranked lists  List Time 100: The Most Important People of the Century	0.3333333333333333	3	0.471404520791	0	1	0
+88677448	Albert Einstein Series Written (or Contributed To) The Collected Papers of Albert Einstein	1.3333333333333333	3	0.471404520791	2	1	1
+88677448	Albert Einstein Profession Writer	1.3333333333333333	3	0.471404520791	1	2	1
+88677448	Albert Einstein Inventions Einstein refrigerator	1.0	3	0.816496580928	0	2	1
+88677448	Heinrich Friedrich Weber Academic advisors Ernst Abbe	0.3333333333333333	3	0.471404520791	1	0	0
+88677448	Albert Einstein Recordings Einsteins speches and broadcasts: At the Royal Albert Hall, London [1933]	1.3333333333333333	3	0.942809041582	2	2	0
+88677448	Albert Einstein Influenced By Mahatma Gandhi	1.3333333333333333	3	0.471404520791	1	2	1
+88677448	Albert Einstein Films appeared in  Type of Appearance Him/Herself	0.3333333333333333	3	0.471404520791	1	0	0
+88677448	School of Mathematics, Institute for Advanced Study Academics Albert Einstein	1.0	3	0.816496580928	1	2	0
+88677448	Albert Einstein Quotations Gravitation cannot be held responsible for people falling in love.	0.6666666666666666	3	0.471404520791	1	1	0
+88677448	Albert Einstein Things named after this Albert Einstein College of Medicine	1.3333333333333333	3	0.942809041582	2	2	0
+88677448	Albert Einstein Awards Won  Award category Nobel Prize in Physics	1.3333333333333333	3	0.942809041582	2	2	0
+88677448	Albert Einstein Cause of death Abdominal aortic aneurysm	0.0	3	0.0	0	0	0
+88677448	Albert Einstein Works written Isaac Newton	1.6666666666666667	3	0.471404520791	2	1	2
+88677448	Albert Einstein Country of nationality Germany	0.3333333333333333	3	0.471404520791	1	0	0
+88677448	School of Mathematics, Institute for Advanced Study Parent  Parent Institute for Advanced Study	0.3333333333333333	3	0.471404520791	0	0	1
+88677448	School of Mathematics, Institute for Advanced Study Field Mathematics	1.6666666666666667	3	1.24721912892	3	2	0
+88677448	Albert Einstein Book editions published The World As I See It	1.0	3	0.816496580928	0	2	1
+88677448	Heinrich Friedrich Weber Academic advisees Albert Einstein	2.3333333333333335	3	0.471404520791	2	2	3
+88677448	Albert Einstein Place of birth Ulm	0.0	3	0.0	0	0	0
+88677448	Albert Einstein Family Einstein family	0.0	3	0.0	0	0	0
+88677448	Albert Einstein Follows diet Veganism	0.3333333333333333	3	0.471404520791	0	1	0
+88677448	Albert Einstein Siblings  Sibling Maja Einstein	0.0	3	0.0	0	0	0
+88677448	Albert Einstein Employment history  Employer Leiden University	0.3333333333333333	3	0.471404520791	0	1	0
+88677448	Albert Einstein Governance of  Organization Black Mountain College	1.6666666666666667	3	0.942809041582	1	3	1
+88677448	School of Mathematics, Institute for Advanced Study Visiting scholars fellows etc.  Person Paul Dirac	0.0	3	0.0	0	0	0
+88677448	Albert Einstein Places lived  Location Germany	0.6666666666666666	3	0.471404520791	1	1	0
+88677448	Albert Einstein Education  Degree PhD	3.0	3	0.0	3	3	3
+88677448	Heinrich Friedrich Weber Place of death Zürich	0.0	3	0.0	0	0	0
+88677448	Albert Einstein Departments Humboldt University of Berlin Department of Physics	1.8571428571428572	21	1.12485826772	0	0	3	3	2	2	3	2	3	2	2	2	0	3	2	3	0	2	2	0	3
+88677448	Albert Einstein Gender Male	1.0	3	1.41421356237	0	0	3
+88677448	Albert Einstein Films On This Subject Young Einstein	1.0	3	0.816496580928	2	1	0
+88677448	Albert Einstein Hall of fame inductions  Hall of fame The Walhalla	0.3333333333333333	3	0.471404520791	0	0	1
+88677448	School of Mathematics, Institute for Advanced Study Institution Institute for Advanced Study	1.0	3	0.816496580928	1	0	2
+88677448	Albert Einstein Organizations founded Hebrew University of Jerusalem	1.0	3	0.816496580928	1	0	2
+88677448	Albert Einstein Influenced Karl Popper	0.6666666666666666	3	0.942809041582	0	0	2
+88677448	School of Mathematics, Institute for Advanced Study Awards presented Salem Prize	0.6666666666666666	3	0.942809041582	0	0	2
+88677448	Albert Einstein Representations In Fiction Albert Einstein	0.6666666666666666	3	0.471404520791	1	0	1
+88677448	Albert Einstein Religion Judaism	0.6538461538461539	26	0.730769230769	0	0	0	1	1	1	0	1	1	1	0	3	0	1	1	0	0	1	0	0	0	1	2	1	0	1
+88677448	Albert Einstein Peers  Peers Werner Heisenberg	1.3333333333333333	3	0.942809041582	2	2	0
+88677448	Albert Einstein Member of  Organization Royal Society	1.6666666666666667	3	0.471404520791	1	2	2
+956886885148	Beijing Local transportation Beijing Subway	0.3333333333333333	3	0.471404520791	0	0	1
+956886885148	Lenovo Founders Liu Chuanzhi	1.6666666666666667	3	1.24721912892	0	2	3
+956886885148	Beijing How to get here  Transport operator United Airlines	0.0	3	0.0	0	0	0
+956886885148	Lenovo Board members  Role Chairman	1.3333333333333333	3	0.942809041582	2	2	0
+956886885148	Beijing Travel destinations served  Mode of transportation Air travel	0.0	3	0.0	0	0	0
+956886885148	Beijing Travel destinations served  Travel destination xibei-person0925	0.0	3	0.0	0	0	0
+956886885148	ThinkPad Owner(s)  Company Lenovo	1.3333333333333333	3	1.24721912892	3	1	0
+956886885148	Beijing How to get here  Mode of transportation Bus	0.0	3	0.0	0	0	0
+956886885148	ThinkPad Manufacturer IBM	1.3333333333333333	3	0.942809041582	2	0	2
+956886885148	Beijing Olympics bid on  Olympic games 2008 Summer Olympics	0.0	3	0.0	0	0	0
+956886885148	Beijing Events 2008 Summer Olympics	0.0	3	0.0	0	0	0
+956886885148	ThinkPad Includes Models ThinkPad 755 CE	1.3333333333333333	3	0.942809041582	0	2	2
+956886885148	Beijing Climate  Month February	0.0	3	0.0	0	0	0
+956886885148	Lenovo Headquarters  Country China	2.0	3	1.41421356237	3	3	0
+956886885148	Beijing Tour operators TravelChinaGuide	0.3333333333333333	3	0.471404520791	1	0	0
+956886885148	Beijing Exhibitions created about this subject Beijing 2008: A Photographic Journey	0.0	3	0.0	0	0	0
+956886885148	Beijing Accommodation Beijing Hotel	0.3333333333333333	3	0.471404520791	1	0	0
+956886885148	Beijing Olympics bid on  Bidding city Paris	0.0	3	0.0	0	0	0
+956886885148	Beijing Contains Peking University	0.4444444444444444	18	0.496903995	0	1	0	1	0	0	1	1	1	0	0	0	0	0	1	1	0	1
+956886885148	Lenovo Employees and other personnel  Person Liu Chuanzhi	2.0	3	0.0	2	2	2
+956886885148	Lenovo Supplier CompuCom	0.6666666666666666	3	0.942809041582	2	0	0
+956886885148	ThinkPad Includes product lines ThinkPad T Series	0.6666666666666666	3	0.942809041582	0	2	0
+956886885148	Lenovo Sponsorship  Sponsored Recipient Korean Olympic Committee	1.3333333333333333	3	1.24721912892	0	3	1
+956886885148	Beijing Contains Renmin University of China	0.6666666666666666	3	0.942809041582	0	0	2
+956886885148	Lenovo Leadership  Role Chief Executive Officer - Managing Director	1.6666666666666667	3	0.942809041582	3	1	1
+956886885148	Lenovo Industry Software	1.6666666666666667	3	1.24721912892	3	2	0
+956886885148	Beijing Events Tiananmen Square protests of 1989	0.0	3	0.0	0	0	0
+956886885148	Beijing Newspapers People's Daily	0.0	3	0.0	0	0	0
+956886885148	Beijing Governing officials  Basic title Mayor	0.3333333333333333	3	0.471404520791	1	0	0
+956886885148	Beijing Nearby airports Beijing Capital International Airport	0.6666666666666666	3	0.471404520791	1	1	0
+956886885148	Lenovo Competitive space  Space Personal computer	1.9411764705882353	17	0.872493939658	2	2	2	3	2	2	1	3	3	0	2	2	3	2	0	2	2
+956886885148	Beijing People born here Faye Wong	0.0	3	0.0	0	0	0
+956886885148	Beijing Accommodation Shangri-La Hotel, Beijing	0.25	20	0.433012701892	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1
+956886885148	ThinkPad Includes Models ThinkPad 340 CSE	0.0	3	0.0	0	0	0
+956886885148	Beijing Featured In Films Hero	0.3333333333333333	3	0.471404520791	1	0	0
+956886885148	ThinkPad Includes product lines ThinkPad W Series	0.3333333333333333	3	0.471404520791	0	1	0
+956886885148	Lenovo Child  Child Motorola	0.6666666666666666	3	0.471404520791	0	1	1
+956886885148	Beijing Organizations with this scope Beijing Ultrasonic Co., Ltd	2.0	3	0.0	2	2	2
+956886885148	ThinkPad Producer(s)  Company Lenovo	1.6666666666666667	3	1.24721912892	2	0	3
+956886885148	Lenovo Product lines  Product line ThinkPad	1.0	3	0.816496580928	2	0	1
+956886885148	Beijing Time zone(s) China Time Zone	0.0	3	0.0	0	0	0
+956886885148	Beijing Local transportation Beijing Suburban Railway	0.0	3	0.0	0	0	0
+956886885148	Lenovo Child  Child Motorola Mobility Holdings, Inc.	1.3333333333333333	3	1.24721912892	1	0	3
+956886885148	Beijing Olympics hosted 2008 Summer Olympics	0.0	3	0.0	0	0	0
+956886885148	Beijing People born here Ai Weiwei	0.0	3	0.0	0	0	0
+5295826848	Titanic Art direction by Charles Lee	0.6666666666666666	3	0.942809041582	0	0	2
+5295826848	Titanic Estimated budget  Currency United States Dollar	0.3333333333333333	3	0.471404520791	0	1	0
+5295826848	My Heart Will Go On Featured in film Titanic	2.3333333333333335	3	0.471404520791	2	2	3
+5295826848	Titanic Awards Won  Award winner Celine Dion	1.0	3	0.816496580928	1	2	0
+5295826848	Titanic Performances  Actor Kate Winslet	0.3333333333333333	3	0.471404520791	1	0	0
+5295826848	Titanic Production companies Paramount Pictures	0.6666666666666666	3	0.471404520791	1	0	1
+5295826848	Titanic Executive produced by Rae Sanchini	1.0	3	0.816496580928	0	1	2
+5295826848	Titanic Casting director Mali Finn	0.3333333333333333	3	0.471404520791	1	0	0
+5295826848	Titanic Film Collections AFI's 100 Years...100 Movies	0.6666666666666666	3	0.471404520791	0	1	1
+5295826848	Titanic Distributors  Film distribution medium DVD	0.6666666666666666	3	0.471404520791	1	1	0
+5295826848	Titanic Things named after this Titanic Barbie Doll	0.3333333333333333	3	0.471404520791	1	0	0
+5295826848	Titanic Other crew  Film crew role Special Effects	0.3333333333333333	3	0.471404520791	1	0	0
+5295826848	Titanic Costume design by Deborah Lynn Scott	0.3333333333333333	3	0.471404520791	0	1	0
+5295826848	Titanic Gross revenue  Currency United States Dollar	0.13333333333333333	15	0.33993463424	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+5295826848	Titanic: Music from the Motion Picture Awards Won  Award winner Celine Dion	2.24	25	0.763151361134	1	2	3	2	3	3	2	2	2	2	3	2	0	3	3	3	3	2	2	2	1	2	2	3	3
+5295826848	My Heart Will Go On Key E major	2.0	3	0.816496580928	2	1	3
+5295826848	Titanic: Music from the Motion Picture Film Titanic	1.3333333333333333	3	0.942809041582	2	0	2
+5295826848	Titanic Primary language English Language	0.3333333333333333	3	0.471404520791	1	0	0
+5295826848	Titanic Quotations I'm King of the World!	0.5769230769230769	26	0.566573840871	0	0	0	0	1	1	0	0	1	0	0	1	1	1	1	0	1	0	1	0	2	1	1	0	1	1
+5295826848	My Heart Will Go On Performed by Celine Dion	2.0	3	1.41421356237	3	0	3
+5295826848	Titanic Appears in ranked lists  List The Movie List: the first 9200	0.3333333333333333	3	0.471404520791	0	1	0
+5295826848	Titanic: Music from the Motion Picture Buy or download Web page .	2.0	3	0.816496580928	2	1	3
+5295826848	My Heart Will Go On Films  Film Celine Dion: Live In Las Vegas: A New Day	1.3333333333333333	3	0.942809041582	2	2	0
+5295826848	Titanic Production design by Peter Lamont	0.3333333333333333	3	0.471404520791	0	0	1
+5295826848	Titanic Produced by James Cameron	1.0454545454545454	22	0.975950479708	0	2	2	0	1	1	1	2	3	1	0	0	1	0	3	2	1	0	0	1	2	0
+5295826848	My Heart Will Go On Recorded as album Era uma vez	0.6666666666666666	3	0.942809041582	2	0	0
+5295826848	Titanic Release date(s)  Film release region London	0.0	3	0.0	0	0	0
+5295826848	My Heart Will Go On Arrangements My Heart Will Go On	0.6666666666666666	3	0.942809041582	0	2	0
+5295826848	Titanic Performances  Actor Leonardo DiCaprio	0.0	3	0.0	0	0	0
+5295826848	My Heart Will Go On Films  Performers Celine Dion	3.0	3	0.0	3	3	3
+5295826848	Titanic Dubbing performances  Language German Language	0.0	3	0.0	0	0	0
+5295826848	Titanic Set Decoration by Michael D. Ford	0.3333333333333333	3	0.471404520791	0	1	0
+5295826848	Titanic Subjects Tragedy	0.0	3	0.0	0	0	0
+5295826848	Titanic Rated PG-13 (USA)	0.3333333333333333	3	0.471404520791	1	0	0
+5295826848	Titanic Film format Super 35	0.6666666666666666	3	0.471404520791	1	1	0
+5295826848	My Heart Will Go On Recorded versions My Heart Will Go On	1.3333333333333333	3	0.942809041582	2	0	2
+5295826848	Titanic Screenplay by James Cameron	0.3333333333333333	3	0.471404520791	0	0	1
+5295826848	My Heart Will Go On Award Nominations  Award Nominee Celine Dion	1.6666666666666667	3	1.24721912892	3	2	0
+685776674948	Le Havre Edited by Timo Linnasalo	0.3333333333333333	3	0.471404520791	1	0	0
+685776674948	Aki Kaurismäki Film music credits Juha	1.0	3	0.816496580928	0	2	1
+685776674948	Le Havre Rated G	0.6666666666666666	3	0.942809041582	0	2	0
+685776674948	Aki Kaurismäki Country of nationality Finland	0.3333333333333333	3	0.471404520791	1	0	0
+685776674948	Aki Kaurismäki Film performances  Special Performance Type Uncredited	1.0	3	0.816496580928	0	2	1
+685776674948	Le Havre Languages French	0.6666666666666666	3	0.942809041582	0	2	0
+685776674948	Aki Kaurismäki Award Nominations  Award Academy Award for Best Foreign Language Film	2.6666666666666665	3	0.471404520791	3	3	2
+685776674948	2002 Cannes Film Festival Festival Cannes Film Festival	1.0	3	0.816496580928	0	2	1
+685776674948	2002 Cannes Film Festival Films Spider	0.6666666666666666	3	0.471404520791	1	1	0
+685776674948	Le Havre Executive produced by Hanna Hemilä	1.0	3	0.816496580928	2	1	0
+685776674948	Le Havre Screenplay by Aki Kaurismäki	1.3333333333333333	3	0.471404520791	2	1	1
+685776674948	Le Havre Cinematography Timo Salminen	1.3333333333333333	3	0.942809041582	2	2	0
+685776674948	2002 Cannes Film Festival Instance of recurring event Cannes Film Festival	0.3333333333333333	3	0.471404520791	0	1	0
+685776674948	Aki Kaurismäki Awards Won  Award category Louis Delluc Prize	1.3333333333333333	3	0.942809041582	2	2	0
+685776674948	Le Havre Film festivals 2011 Cannes Film Festival	1.3333333333333333	3	0.942809041582	2	0	2
+685776674948	Le Havre Genres Drama	1.0	3	1.41421356237	0	0	3
+685776674948	Aki Kaurismäki Spouse (or domestic partner)  Type of union Marriage	0.3333333333333333	3	0.471404520791	0	1	0
+685776674948	Aki Kaurismäki Award Nominations  Nominated work Le Havre	1.6666666666666667	3	1.24721912892	2	3	0
+685776674948	Aki Kaurismäki Education  Major/Field Of Study Media studies	0.3333333333333333	3	0.471404520791	1	0	0
+685776674948	Aki Kaurismäki Place of birth Orimattila	0.4	25	0.632455532034	0	0	1	0	0	0	2	0	1	0	0	0	2	1	0	1	0	0	0	0	1	1	0	0	0
+685776674948	Le Havre Produced by Aki Kaurismäki	1.0	3	0.816496580928	2	1	0
+685776674948	Aki Kaurismäki Films Produced Ariel	1.0	3	0.816496580928	2	1	0
+685776674948	Le Havre Release date(s)  Film release region United Kingdom	1.0	3	0.816496580928	0	1	2
+685776674948	Le Havre Set Decoration by Wouter Zoon	0.0	3	0.0	0	0	0
+685776674948	2002 Cannes Film Festival Awards presented  Award winner Aki Kaurismäki	2.6666666666666665	3	0.471404520791	3	3	2
+685776674948	Aki Kaurismäki Film writing credits Ariel	0.3333333333333333	3	0.471404520791	0	0	1
+685776674948	Le Havre Other crew  Film crew role Sound Editor	0.0	3	0.0	0	0	0
+685776674948	Aki Kaurismäki Siblings  Sibling Mika Kaurismäki	0.0	3	0.0	0	0	0
+685776674948	Aki Kaurismäki Profession Actor	1.0	3	0.816496580928	0	1	2
+685776674948	Le Havre Estimated budget  Currency Euro	1.0	3	0.816496580928	2	1	0
+685776674948	2002 Cannes Film Festival Awards presented  Award category Cannes Grand Prix	2.0	3	0.0	2	2	2
+685776674948	Aki Kaurismäki Influenced By Jean-Pierre Melville	0.6666666666666666	3	0.942809041582	2	0	0
+685776674948	Le Havre Casting director Elsa Pharaon	0.3333333333333333	3	0.471404520791	1	0	0
+685776674948	Le Havre Award Nominations  Award Nominee Aki Kaurismäki	1.0	3	0.816496580928	0	2	1
+685776674948	Aki Kaurismäki Films appeared in  Type of Appearance Him/Herself	0.3333333333333333	3	0.471404520791	0	0	1
+685776674948	Le Havre Awards Won  Award winner Aki Kaurismäki	2.0	3	0.816496580928	2	1	3
+685776674948	Aki Kaurismäki Films edited Historic Centre	0.6666666666666666	3	0.471404520791	1	1	0
+685776674948	Le Havre Netflix Genres Foreign Movies	0.6666666666666666	3	0.942809041582	2	0	0
+685776674948	Le Havre Performances  Actor Jean-Pierre Darroussin	1.0	3	0.816496580928	1	0	2
+685776674948	Le Havre Film format 35 mm film	0.6666666666666666	3	0.942809041582	0	0	2
+685776674948	Aki Kaurismäki Gender Male	0.3333333333333333	3	0.471404520791	1	0	0
+685776674948	Le Havre Costume design by Frédéric Cambier	0.0	3	0.0	0	0	0
+685776674948	Le Havre Awards Won  Award category Louis Delluc Prize	0.0	3	0.0	0	0	0
+5578775448	Stanley Kubrick Films appeared in  Type of Appearance Him/Herself	1.3333333333333333	3	0.942809041582	2	2	0
+5578775448	Stanley Kubrick Film cinematography credits Fear and Desire	1.3333333333333333	3	0.942809041582	2	0	2
+5578775448	Full Metal Jacket Art direction by Keith Pain	1.0	3	0.816496580928	0	2	1
+5578775448	The Shining Setting Overlook Hotel	1.0	3	0.816496580928	2	0	1
+5578775448	Stanley Kubrick Cause of death Myocardial infarction	0.3333333333333333	3	0.471404520791	0	1	0
+5578775448	Full Metal Jacket Genres Drama	1.6666666666666667	24	0.897527467856	2	1	2	2	1	0	2	2	1	3	1	1	0	3	2	3	2	2	2	1	2	2	0	3
+5578775448	Stanley Kubrick Films directed Spartacus	2.3333333333333335	3	0.471404520791	3	2	2
+5578775448	Stanley Kubrick Film Story Credits A.I. Artificial Intelligence	1.6666666666666667	3	1.24721912892	0	3	2
+5578775448	The Shining Music by Wendy Carlos	0.0	3	0.0	0	0	0
+5578775448	Full Metal Jacket Distributors  Distributor Warner Bros. Entertainment	1.3333333333333333	3	0.942809041582	0	2	2
+5578775448	The Shining Quotations Here's Johnny!	0.3333333333333333	3	0.471404520791	0	0	1
+5578775448	Full Metal Jacket Produced by Stanley Kubrick	1.6666666666666667	3	1.24721912892	0	2	3
+5578775448	The Shining Other crew  Film crew role Makeup Artist	0.6666666666666666	3	0.942809041582	2	0	0
+5578775448	Full Metal Jacket Subjects Vietnam War	1.3333333333333333	3	0.942809041582	0	2	2
+5578775448	Full Metal Jacket Production design by Anton Furst	0.6666666666666666	3	0.471404520791	1	1	0
+5578775448	Full Metal Jacket Songs  Performers The Rolling Stones	1.3333333333333333	3	0.942809041582	0	2	2
+5578775448	The Shining Films On This Subject Making 'The Shining'	2.3333333333333335	3	0.471404520791	2	2	3
+5578775448	Full Metal Jacket Production companies Warner Bros. Entertainment	1.3333333333333333	3	0.942809041582	2	0	2
+5578775448	Full Metal Jacket Languages English Language	1.6666666666666667	3	0.471404520791	1	2	2
+5578775448	Stanley Kubrick Films Produced Full Metal Jacket	2.0	3	1.41421356237	3	0	3
+5578775448	Stanley Kubrick Quotations You're free to speculate as you wish about the philosophical and allegorical meaning of the film—and such speculation is one indication that it has succeeded in gripping the audience at a deep level—but I don't want to spell out a verbal road map for 2001 that every viewer will feel obligated to pursue or else fear he's missed the point.	2.0	3	0.0	2	2	2
+5578775448	Stanley Kubrick Things named after this Kubrick	1.0	3	0.0	1	1	1
+5578775448	Stanley Kubrick Place of burial Childwickbury Manor	1.0	3	0.816496580928	1	2	0
+5578775448	Stanley Kubrick Place of death St Albans	0.0	3	0.0	0	0	0
+5578775448	Full Metal Jacket Executive produced by Jan Harlan	1.0	3	0.816496580928	2	1	0
+5578775448	Stanley Kubrick Place of birth The Bronx	0.3333333333333333	3	0.471404520791	1	0	0
+5578775448	Stanley Kubrick Profession Film director	2.0	3	0.816496580928	3	1	2
+5578775448	Full Metal Jacket Appears in ranked lists  List The Movie List: the first 9200	1.6666666666666667	3	0.471404520791	1	2	2
+5578775448	Full Metal Jacket Soundtrack Full Metal Jacket	1.6666666666666667	3	0.471404520791	2	1	2
+5578775448	Stanley Kubrick Structures Owned  Structure Childwickbury Manor	0.3333333333333333	3	0.471404520791	1	0	0
+5578775448	Stanley Kubrick Film writing credits Full Metal Jacket	1.3333333333333333	3	0.942809041582	2	0	2
+5578775448	Full Metal Jacket Edited by Martin Hunter	0.6666666666666666	3	0.942809041582	2	0	0
+5578775448	Full Metal Jacket Directed by Stanley Kubrick	2.6666666666666665	3	0.471404520791	2	3	3
+5578775448	Full Metal Jacket Screenplay by Stanley Kubrick	1.0	3	1.41421356237	3	0	0
+5578775448	Stanley Kubrick Influenced By H. P. Lovecraft	1.3333333333333333	3	0.471404520791	2	1	1
+5578775448	Full Metal Jacket Netflix Genres United Kingdom	0.9565217391304348	23	1.08259996504	1	0	0	0	2	0	0	0	2	0	3	0	2	0	0	0	0	2	2	2	3	2	1
+5578775448	The Shining Adapted From The Shining	1.3333333333333333	3	1.24721912892	1	3	0
+5578775448	Stanley Kubrick Awards Won  Award winner Arthur C. Clarke	1.6666666666666667	3	1.24721912892	3	0	2
+5578775448	Full Metal Jacket Set Decoration by Barbara Drake	1.6666666666666667	3	0.471404520791	1	2	2
+5578775448	The Shining Costume design by Milena Canonero	1.0	3	0.816496580928	1	0	2
+5578775448	Stanley Kubrick Fictional Characters Created HAL 9000	0.3333333333333333	3	0.471404520791	1	0	0
+5578775448	The Shining Story by Stephen King	0.6666666666666666	3	0.942809041582	0	2	0
+5578775448	Stanley Kubrick Award Nominations  Award Nominee Arthur C. Clarke	2.0	3	0.816496580928	3	1	2
+5578775448	Stanley Kubrick Film performances  Special Performance Type Voice	1.3333333333333333	3	1.24721912892	3	0	1
+5578775448	Full Metal Jacket Estimated budget  Currency United States Dollar	1.3333333333333333	3	0.942809041582	2	2	0
+5578775448	Stanley Kubrick Works written Stanley Kubrick	1.0	3	0.816496580928	1	0	2
+5578775448	Full Metal Jacket Casting director Leon Vitali	1.3333333333333333	3	0.942809041582	0	2	2
+5578775448	The Shining Notable filming locations London	0.6666666666666666	3	0.942809041582	0	2	0
+5578775448	Full Metal Jacket Release date(s)  Film release region United Kingdom	1.0	3	0.816496580928	2	0	1
+5578775448	The Shining Personal appearances  Type of Appearance Him/Herself	1.3333333333333333	3	0.471404520791	1	1	2
+5578775448	Full Metal Jacket Rated R (USA)	1.3333333333333333	3	0.942809041582	2	2	0
+5578775448	Full Metal Jacket Performances  Special Performance Type Voice	1.0	3	0.816496580928	1	0	2
+5578775448	Stanley Kubrick Influenced Robin Williams	0.6666666666666666	3	0.471404520791	0	1	1
+7057716748	Doctor Faustus Release date(s)  Film release distribution medium DVD	1.3333333333333333	3	0.942809041582	0	2	2
+7057716748	Richard Burton Gender Male	0.3333333333333333	3	0.471404520791	0	1	0
+7057716748	Richard Burton Films appeared in  Type of Appearance Him/Herself	2.0	3	0.0	2	2	2
+7057716748	Elizabeth Taylor Film performances  Special Performance Type Narrator	1.3333333333333333	3	0.471404520791	1	2	1
+7057716748	Richard Burton Award Nominations  Award Academy Award for Best Actor in a Supporting Role	0.6666666666666666	3	0.471404520791	0	1	1
+7057716748	Doctor Faustus Music by Mario Nascimbene	0.6666666666666666	3	0.942809041582	2	0	0
+7057716748	Elizabeth Taylor Sexual orientation  Sexual orientation Heterosexuality	0.3333333333333333	3	0.471404520791	1	0	0
+7057716748	Elizabeth Taylor Appears in ranked lists  List AFI's 100 Years...100 Stars	0.6666666666666666	3	0.471404520791	1	0	1
+7057716748	Richard Burton Film performances  Special Performance Type Narrator	0.3333333333333333	3	0.471404520791	0	1	0
+7057716748	Elizabeth Taylor Things named after this Elizabeth Taylor in Father of the Bride Barbie	0.3333333333333333	3	0.471404520791	0	0	1
+7057716748	Doctor Faustus Set Decoration by Dario Simoni	0.6666666666666666	3	0.942809041582	0	0	2
+7057716748	Elizabeth Taylor Concerts  Concert The Freddie Mercury Tribute Concert	0.3333333333333333	3	0.471404520791	0	1	0
+7057716748	Richard Burton Theater Roles  Play Camelot	1.0	3	0.816496580928	0	2	1
+7057716748	Elizabeth Taylor Place of burial Forest Lawn Memorial Park	0.6666666666666666	3	0.471404520791	1	1	0
+7057716748	Doctor Faustus Art direction by Boris Juraga	1.6666666666666667	3	1.24721912892	0	2	3
+7057716748	Elizabeth Taylor Celebrity friends  Friend Elton John	0.0	3	0.0	0	0	0
+7057716748	Richard Burton Dedications  Work Dedicated Nineteen Eighty-Four	0.0	3	0.0	0	0	0
+7057716748	Elizabeth Taylor Religion Judaism	0.16666666666666666	18	0.5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+7057716748	Doctor Faustus Screenplay by Nevill Coghill	2.3333333333333335	3	0.471404520791	2	2	3
+7057716748	Elizabeth Taylor TV episode performances  Episode Elizabeth Taylor	1.0	3	0.816496580928	2	1	0
+7057716748	Doctor Faustus Distributors  Distributor Columbia Pictures	0.6666666666666666	3	0.942809041582	0	2	0
+7057716748	Doctor Faustus Appears in ranked lists  List The Movie List: the first 9200	2.6666666666666665	3	0.471404520791	2	3	3
+7057716748	Elizabeth Taylor TV episodes Elizabeth Taylor	0.6666666666666666	3	0.471404520791	1	1	0
+7057716748	Doctor Faustus Production design by John DeCuir	0.3333333333333333	3	0.471404520791	1	0	0
+7057716748	Elizabeth Taylor Celebrity friends  Friend Michael Jackson	0.0	3	0.0	0	0	0
+7057716748	Elizabeth Taylor Languages English Language	0.6666666666666666	3	0.471404520791	1	1	0
+7057716748	Richard Burton Service  Military Force Royal Air Force	1.0	3	0.816496580928	1	2	0
+7057716748	Richard Burton Recordings Brave New World	1.3333333333333333	3	0.471404520791	1	1	2
+7057716748	Doctor Faustus Produced by Richard Burton	0.6666666666666666	3	0.942809041582	0	0	2
+7057716748	Elizabeth Taylor Representations In Fiction Elizabeth Taylor	0.3333333333333333	3	0.471404520791	0	1	0
+7057716748	Elizabeth Taylor Organizations founded amfAR, The Foundation for AIDS Research	0.19230769230769232	26	0.394113490998	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	1	0
+7057716748	Doctor Faustus Edited by John Shirley	0.0	3	0.0	0	0	0
+7057716748	Elizabeth Taylor Works Written About This Topic That Book ...of Perfectly Useless Information	0.6666666666666666	3	0.471404520791	1	1	0
+7057716748	Doctor Faustus Genres Drama	1.3333333333333333	3	0.942809041582	2	2	0
+7057716748	Doctor Faustus Directed by Richard Burton	2.0	3	1.41421356237	3	3	0
+7057716748	Richard Burton Cause of death Cerebral hemorrhage	0.3333333333333333	3	0.471404520791	1	0	0
+7057716748	Richard Burton Spouse (or domestic partner)  Location of ceremony Montreal	1.0	3	1.41421356237	0	0	3
+7057716748	Richard Burton Ethnicity Welsh people	0.3333333333333333	3	0.471404520791	1	0	0
+7176525248	Alexandra Cousteau Places lived  Location Washington, D.C.	2.0	3	0.816496580928	3	1	2
+7176525248	Alexandra Cousteau Parents Philippe Cousteau	2.6666666666666665	3	0.471404520791	3	3	2
+7176525248	Jacques-Yves Cousteau Hall of fame inductions  Hall of fame Television Hall of Fame	0.3333333333333333	3	0.471404520791	0	0	1
+7176525248	Jacques-Yves Cousteau Governance of  Organization National Association of Underwater Instructors	0.6666666666666666	3	0.942809041582	2	0	0
+7176525248	Jacques-Yves Cousteau Participated in conflicts World War II	0.3333333333333333	3	0.471404520791	0	1	0
+7176525248	Jacques-Yves Cousteau Works written The Whale	0.3333333333333333	3	0.471404520791	0	0	1
+7176525248	Alexandra Cousteau Education  Institution Georgetown University	0.6666666666666666	3	0.942809041582	0	0	2
+7176525248	Jacques-Yves Cousteau Dedications  Work Dedicated The Life Aquatic with Steve Zissou	1.0	3	0.816496580928	2	1	0
+7176525248	Jacques-Yves Cousteau Film performances  Special Performance Type Narrator	0.0	3	0.0	0	0	0
+7176525248	Jacques-Yves Cousteau Belongs to Order  Order Legion of Honour	1.0	3	0.816496580928	2	1	0
+7176525248	Jacques-Yves Cousteau Awards Won  Award category Academy Award for Best Documentary Feature	0.0	3	0.0	0	0	0
+7176525248	Jacques-Yves Cousteau Gender Male	0.3333333333333333	3	0.471404520791	0	0	1
+7176525248	Jacques-Yves Cousteau Spouse (or domestic partner)  Location of ceremony Paris	1.3333333333333333	3	1.24721912892	3	1	0
+7176525248	Jacques-Yves Cousteau Inventions Aqua-lung	0.3333333333333333	3	0.471404520791	1	0	0
+7176525248	Jacques-Yves Cousteau Things named after this Jacques Cousteau National Estuarine Research Reserve	0.6666666666666666	3	0.942809041582	2	0	0
+7176525248	Philippe Cousteau Place of death Lisbon	2.0	3	0.816496580928	2	1	3
+7176525248	Philippe Cousteau Siblings  Sibling Jean-Michel Cousteau	2.0	3	0.0	2	2	2
+7176525248	Jacques-Yves Cousteau TV episode performances  Episode EPISODE #328	0.0	3	0.0	0	0	0
+7176525248	Jacques-Yves Cousteau TV regular appearances  Appearance type Him/Herself	0.3333333333333333	3	0.471404520791	1	0	0
+7176525248	Jacques-Yves Cousteau Films appeared in  Type of Appearance Him/Herself	0.6666666666666666	3	0.471404520791	1	0	1
+7176525248	Jacques-Yves Cousteau Film writing credits The Silent World	0.0	3	0.0	0	0	0
+7176525248	Jacques-Yves Cousteau Award Nominations  Award Academy Award for Best Documentary Feature	0.3333333333333333	3	0.471404520791	0	1	0
+7176525248	Jacques-Yves Cousteau Ships owned  Ship RV Calypso	0.0	3	0.0	0	0	0
+7176525248	Philippe Cousteau Cause of death Aviation accident or incident	1.3333333333333333	3	0.942809041582	2	2	0
+7176525248	Jacques-Yves Cousteau Ethnicity French people	0.6666666666666666	3	0.471404520791	1	1	0
+7176525248	Jacques-Yves Cousteau TV programs produced  Producer type Executive Producer	0.3333333333333333	3	0.471404520791	0	0	1
+7176525248	Jacques-Yves Cousteau Children Jean-Michel Cousteau	2.6666666666666665	3	0.471404520791	3	2	3
+7176525248	Jacques-Yves Cousteau Films Executive Produced Cousteau: My First 85 Years	0.6666666666666666	3	0.471404520791	1	1	0
+7176525248	Alexandra Cousteau Place of birth Los Angeles County	2.3333333333333335	3	0.471404520791	2	2	3
+7176525248	Jacques-Yves Cousteau Profession Film director	1.3333333333333333	3	1.24721912892	1	0	3
+8387675748	Mars Orbits Sun	2.0	3	1.41421356237	3	3	0
+8387675748	Mars Missions sent here Mars Exploration Rover	2.0	3	0.816496580928	2	3	1
+8387675748	Mars Works Written About This Topic Stranger in a Strange Land	0.0	3	0.0	0	0	0
+8387675748	Mars Orbit Type Heliocentric orbit	2.3333333333333335	3	0.471404520791	2	3	2
+8387675748	Deimos Category Natural satellite	1.6666666666666667	3	1.24721912892	3	0	2
+8387675748	Mars Works Written About This Topic Mars	1.0	3	0.816496580928	2	0	1
+8387675748	Deimos Discoverer Asaph Hall	0.6666666666666666	3	0.942809041582	0	0	2
+8387675748	Mars Fictional Characters Born Here Jeffrey Sinclair	0.0	3	0.0	0	0	0
+8387675748	Mars Locations Beagle	1.6666666666666667	3	0.471404520791	2	1	2
+8387675748	Mars Artwork on the Subject Twenty-eight Views of Mars	0.3333333333333333	3	0.471404520791	1	0	0
+8387675748	Mars Planetographic coordinate system Areographic coordinate system	2.3333333333333335	3	0.471404520791	2	3	2
+8387675748	Phobos Named after Phobos	1.3333333333333333	3	0.942809041582	2	0	2
+8387675748	Mars Fictional Works Set Here Mission to Mars	1.0	3	0.0	1	1	1
+8387675748	Mars Fictional Characters Born Here Michael Garibaldi	0.3333333333333333	3	0.471404520791	0	1	0
+8387675748	Mars Meteorites Black Beauty	2.0	3	0.0	2	2	2
+8387675748	Mars Missions sent here Mars Science Laboratory	1.6666666666666667	3	0.942809041582	1	1	3
+8387675748	Mars Fictional Works Set Here Doom	0.3333333333333333	3	0.471404520791	1	0	0
+8387675748	Phobos Category Natural satellite	0.0	3	0.0	0	0	0
+8387675748	Mars Locations Gold	1.0	3	0.816496580928	2	1	0
+8387675748	Mars Named after Mars	1.1333333333333333	15	1.02415276638	1	0	0	2	2	1	1	0	0	1	3	2	3	0	1
+8387675748	Phobos Discoverer Asaph Hall	1.0	3	0.816496580928	1	0	2
+8387675748	Phobos Orbits Mars	2.6666666666666665	3	0.471404520791	3	2	3
+7876784948	Cameroon Agencies Cameroon Ministry of Justice	1.0	3	0.816496580928	1	0	2
+7876784948	Cameroon Currency Used Central African CFA franc	0.6666666666666666	3	0.471404520791	1	1	0
+7876784948	Yaoundé Nearby airports Yaoundé Nsimalen International Airport	1.3333333333333333	3	0.942809041582	2	0	2
+7876784948	Cameroon Government bodies Senate	2.0	3	0.816496580928	2	1	3
+7876784948	Cameroon Athletic performances  Medal Gold medal	0.2222222222222222	27	0.415739709642	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	1	1	0	0	1	0
+7876784948	Cameroon GDP real  Adjustment currency United States Dollar	0.3333333333333333	3	0.471404520791	0	1	0
+7876784948	Cameroon Partially contains Congo River	1.0	3	0.0	1	1	1
+7876784948	Cameroon GNI in PPP dollars  Currency United States Dollar	2.0	3	0.816496580928	3	1	2
+7876784948	Yaoundé Tourist attractions Cameroon Art Museum	0.6666666666666666	3	0.471404520791	0	1	1
+7876784948	Cameroon Olympics participated in 2008 Summer Olympics	0.3333333333333333	3	0.471404520791	1	0	0
+7876784948	Cameroon Languages spoken English Language	2.3333333333333335	3	0.471404520791	2	2	3
+7876784948	Cameroon Internet TLD cm	0.0	3	0.0	0	0	0
+7876784948	Cameroon Administrative Divisions East Region	1.3333333333333333	3	1.24721912892	0	3	1
+7876784948	Cameroon Official Language French	1.0	3	0.816496580928	0	1	2
+7876784948	Cameroon Internet users as percentage of population  Source Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank	1.3333333333333333	3	1.24721912892	0	3	1
+7876784948	Cameroon Teams Cameroon national football team	0.6666666666666666	3	0.942809041582	2	0	0
+7876784948	Cameroon Form of Government Republic	2.0	3	0.0	2	2	2
+7876784948	Cameroon GDP (nominal per capita)  Currency United States Dollar	1.3333333333333333	3	1.24721912892	1	3	0
+7876784948	Cameroon Subject of Jail Verse: Poems from Kondengui Prison	0.3333333333333333	3	0.471404520791	1	0	0
+7876784948	Cameroon Organizations with this scope Cameroon People's Democratic Movement	0.6666666666666666	3	0.471404520791	1	1	0
+7876784948	Cameroon GNI per capita in PPP dollars  Currency United States Dollar	1.0	3	0.0	1	1	1
+7876784948	Cameroon National anthem  Anthem O Cameroon, Cradle of Our Forefathers	1.3333333333333333	3	0.471404520791	1	2	1
+7876784948	West Africa Time Zone Day DST ends First Sunday in April	0.0	3	0.0	0	0	0
+7876784948	Yaoundé Nearby airports Yaoundé Airport	0.0	3	0.0	0	0	0
+7876784948	Cameroon Official Language English Language	0.6666666666666666	3	0.471404520791	1	1	0
+7876784948	West Africa Time Zone Locations in this time zone Nigeria	0.0	3	0.0	0	0	0
+7876784948	Cameroon Multi-event tournaments participated in 2010 Commonwealth Games	0.0	3	0.0	0	0	0
+7876784948	Cameroon Subject of Poets of the Past and Present in 2014 Spotlight	0.3333333333333333	3	0.471404520791	1	0	0
+7876784948	Cameroon Adjoins  Adjoins Nigeria	1.6666666666666667	3	0.471404520791	1	2	2
+7876784948	Cameroon Events 2008 Cameroonian anti-government protests	1.3333333333333333	3	1.24721912892	1	0	3
+7876784948	Cameroon Flag  Flag Flag of Cameroon	0.6666666666666666	3	0.942809041582	2	0	0
+7876784948	West Africa Time Zone Day DST begins First Sunday in September	0.0	3	0.0	0	0	0
+7876784948	Cameroon Partially contains  Partially contains Congo River	2.6666666666666665	3	0.471404520791	3	3	2
+7876784948	Cameroon Beers from here 33 Export	0.0	3	0.0	0	0	0
+7876784948	Yaoundé Featured In Films North-South.com	0.0	3	0.0	0	0	0
+8372755048	Eritrea Military expenditure as percentage of GDP  Source Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank	0.6666666666666666	3	0.942809041582	2	0	0
+8372755048	Eritrea People born here Yonas Kifle	0.0	3	0.0	0	0	0
+8372755048	Eritrea National anthem  Anthem Ertra, Ertra, Ertra	1.3333333333333333	3	0.471404520791	1	2	1
+8372755048	Eritrea Military Conflicts  Conflict Mahdist War	1.0	3	0.816496580928	0	2	1
+8372755048	Isaias Afwerki Government Positions Held  Basic title President	1.0	3	0.816496580928	1	0	2
+8372755048	Eritrea Time zone(s) East Africa Time Zone	0.3333333333333333	3	0.471404520791	0	1	0
+8372755048	Eritrea Government bodies National Assembly	2.3333333333333335	3	0.942809041582	3	1	3
+8372755048	Eritrea Contains Asmara	0.6666666666666666	3	0.471404520791	1	1	0
+8372755048	Isaias Afwerki Religion Eritrean Orthodox Tewahedo Church	1.3333333333333333	3	0.942809041582	2	2	0
+8372755048	Eritrea Partially contains  Partially contains Nile	0.3333333333333333	3	0.471404520791	1	0	0
+8372755048	Eritrea Partially contains Nile	0.3333333333333333	3	0.471404520791	0	0	1
+8372755048	Eritrea Form of Government Presidential system	1.6666666666666667	3	1.24721912892	2	0	3
+8372755048	Eritrea Athletic performances  Tournament 2009 World Championships in Athletics	0.0	3	0.0	0	0	0
+8372755048	Isaias Afwerki Government Positions Held  Jurisdiction of office Eritrea	2.3333333333333335	3	0.471404520791	2	2	3
+8372755048	Eritrea Languages spoken Hejazi Arabic	0.6666666666666666	3	0.471404520791	1	1	0
+8372755048	Eritrea Multi-event tournaments participated in 2012 World Mountain Running Championships	0.0	3	0.0	0	0	0
+8372755048	Eritrea Flag  Flag Flag of Eritrea	0.6666666666666666	3	0.471404520791	1	1	0
+8372755048	President of Eritrea Office Holders  Officeholder Isaias Afwerki	2.6666666666666665	3	0.471404520791	2	3	3
+8372755048	Eritrea Athletic performances  Medal Bronze medal	0.3333333333333333	3	0.471404520791	1	0	0
+8372755048	Eritrea Teams Eritrea national football team	1.0	3	0.0	1	1	1
+8372755048	Eritrea Official Language Arabic Language	0.3333333333333333	3	0.471404520791	0	0	1
+8372755048	Eritrea Athletic performances  Medal Silver medal	0.3333333333333333	3	0.471404520791	0	1	0
+8372755048	Eritrea GDP (nominal)  Currency United States Dollar	0.6666666666666666	3	0.471404520791	1	1	0
+8372755048	Eritrea Governing officials  Basic title President	2.0	3	0.816496580928	2	3	1
+8372755048	Eritrea Contains Massawa	0.3333333333333333	3	0.471404520791	0	1	0
+8372755048	Eritrea People born here Dawit Isaak	0.6666666666666666	3	0.942809041582	2	0	0
+8372755048	Eritrea Internet TLD er	0.0	3	0.0	0	0	0
+8372755048	Eritrea GNI per capita in PPP dollars  Currency United States Dollar	0.3333333333333333	3	0.471404520791	0	1	0
+8372755048	Eritrea GDP (nominal per capita)  Currency United States Dollar	1.6666666666666667	3	0.471404520791	2	1	2
+8372755048	Eritrea Olympics participated in 2008 Summer Olympics	0.0	3	0.0	0	0	0
+8372755048	Eritrea Official Language English Language	0.3333333333333333	3	0.471404520791	1	0	0
+8372755048	Eritrea Governing officials  Office position or title President of Eritrea	2.4583333333333335	24	0.865022478834	3	2	0	2	3	3	2	2	3	3	3	3	0	3	3	3	3	2	3	3	3	2	2	3
+8372755048	Eritrea Member of  Organization United Nations	1.3333333333333333	3	0.942809041582	0	2	2
+8372755048	Eritrea Athletic performances  Competitors Zersenay Tadese	0.6666666666666666	3	0.471404520791	1	1	0
+8372755048	Eritrea Currency Used Eritrean nakfa	0.3333333333333333	3	0.471404520791	1	0	0
+8372755048	President of Eritrea Office Holders  Jurisdiction of office Eritrea	3.0	3	0.0	3	3	3
+8372755048	President of Eritrea Office Holders  Basic title President	1.6666666666666667	3	1.24721912892	3	2	0
+8372755048	Eritrea GNI in PPP dollars  Currency United States Dollar	0.3333333333333333	3	0.471404520791	1	0	0
+8372755048	President of Eritrea Jurisdiction Eritrea	2.6666666666666665	3	0.471404520791	3	2	3
+80837248	NASA Predecessor agency National Advisory Committee for Aeronautics	0.3333333333333333	3	0.471404520791	1	0	0
+80837248	Neil Armstrong Music video performances  Music video character Astronaut	0.6666666666666666	3	0.942809041582	2	0	0
+80837248	Neil Armstrong Representations In Fiction Neil Armstrong	1.0	3	0.816496580928	1	0	2
+80837248	Neil Armstrong Hall of fame inductions  Hall of fame Aerospace Walk of Honor	1.0	3	0.816496580928	0	2	1
+80837248	NASA Astronauts Buzz Aldrin	1.3333333333333333	3	1.24721912892	1	0	3
+80837248	Neil Armstrong Place of birth Auglaize County	1.0	3	0.816496580928	2	1	0
+80837248	NASA Industry Aerospace	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Place of death Cincinnati	2.0	3	0.0	2	2	2
+80837248	Neil Armstrong Space Missions Apollo 11	2.0	3	1.41421356237	0	3	3
+80837248	NASA Spacecraft manufactured 2001 Mars Odyssey	0.0	3	0.0	0	0	0
+80837248	NASA Spaceports Marshall Space Flight Center	0.3333333333333333	3	0.471404520791	0	1	0
+80837248	NASA Astronauts Neil Armstrong	1.6666666666666667	3	1.24721912892	0	2	3
+80837248	Neil Armstrong Profession Professor	1.6666666666666667	3	1.24721912892	0	2	3
+80837248	NASA Projects  Role Sponsor	0.0	3	0.0	0	0	0
+80837248	NASA Space programs sponsored Apollo program	1.0	3	0.816496580928	1	0	2
+80837248	Neil Armstrong Places lived  Location Ohio	1.3333333333333333	3	0.942809041582	2	0	2
+80837248	NASA Members Connolly	0.6666666666666666	3	0.942809041582	0	2	0
+80837248	Neil Armstrong Peers  Peers Buzz Aldrin	1.6666666666666667	3	0.471404520791	1	2	2
+80837248	Neil Armstrong Religion Deism	1.3333333333333333	3	0.471404520791	1	2	1
+80837248	NASA Websites owned new  Website Astronomy Picture of the Day	0.0	3	0.0	0	0	0
+80837248	NASA Spaceports Kennedy Space Center Launch Complex 39	1.0	3	0.0	1	1	1
+80837248	Neil Armstrong Cause of death Complications from cardiac surgery	1.0	3	0.816496580928	2	0	1
+80837248	NASA Award categories presented NASA Earth System Science Fellowship	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Education  Institution University of Southern California	1.3333333333333333	3	0.942809041582	0	2	2
+80837248	Neil Armstrong Gender Male	1.6666666666666667	3	0.471404520791	2	1	2
+80837248	NASA Produces NASACast: Universe Video	0.0	3	0.0	0	0	0
+80837248	NASA Aircraft Models Manufactured KQ-X	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Music video performances  Music video Apollo 9	1.3333333333333333	3	0.942809041582	2	0	2
+80837248	NASA Committees Space Exploration Council	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Member of  Organization American Philosophical Society	1.6666666666666667	3	0.471404520791	1	2	2
+80837248	Neil Armstrong Ethnicity German American	1.6666666666666667	3	1.24721912892	2	0	3
+80837248	Neil Armstrong Employment history  Employer NASA	2.3333333333333335	3	0.471404520791	2	3	2
+80837248	NASA Software Java Pathfinder	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Films appeared in  Type of Appearance Him/Herself	2.3333333333333335	3	0.471404520791	2	3	2
+80837248	NASA TV programs Spaceflight	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Participated in conflicts Korean War	1.0	3	0.816496580928	1	0	2
+80837248	Apollo 11 Astronauts (if manned) Buzz Aldrin	2.3333333333333335	3	0.471404520791	3	2	2
+80837248	Neil Armstrong Subject of Arthur S. Flemming Award	1.6666666666666667	3	0.471404520791	2	2	1
+80837248	NASA Aircraft Fleet Composition  Aircraft Model Lockheed SR-71 Blackbird	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Spouse (or domestic partner)  Location of ceremony Ohio	1.3333333333333333	3	0.942809041582	2	0	2
+80837248	NASA Leadership  Person Charles Bolden	0.3333333333333333	3	0.471404520791	1	0	0
+80837248	NASA Websites Owned International Space Station	0.0	3	0.0	0	0	0
+80837248	Neil Armstrong Influenced Steve Fossett	1.2608695652173914	23	0.987636234052	2	0	2	0	1	0	1	2	2	0	0	3	2	1	3	1	1	1	3	1	1	2	0
+80837248	Apollo 11 Included in event Apollo program	0.3333333333333333	3	0.471404520791	0	1	0
+80837248	NASA Airports operated Shuttle Landing Facility	0.0	3	0.0	0	0	0
+80837248	NASA Employees and other personnel  Person Buzz Aldrin	1.3333333333333333	3	0.942809041582	2	0	2
+8478554948	Bill Gates Profession Entrepreneur	1.6666666666666667	3	1.24721912892	0	2	3
+8478554948	Seattle Works Written About This Topic Microserfs	0.0	3	0.0	0	0	0
+8478554948	Bill Gates Siblings  Sibling Kristi Gates	1.3333333333333333	3	1.24721912892	0	3	1
+8478554948	Seattle Contains University of Washington	0.6666666666666666	3	0.942809041582	0	0	2
+8478554948	Seattle Government bodies Seattle City Council	0.0	3	0.0	0	0	0
+8478554948	Bill Gates Belongs to Order  Order Order of the Aztec Eagle	1.3333333333333333	3	0.942809041582	2	2	0
+8478554948	Seattle Climate  Month November	0.0	3	0.0	0	0	0
+8478554948	Seattle 90-Day Vacant Residential Addresses  Source United States Department of Housing and Urban Development	0.0	3	0.0	0	0	0
+8478554948	Seattle Nearby airports Seattle–Tacoma International Airport	0.0	3	0.0	0	0	0
+8478554948	Seattle People born here Jimi Hendrix	0.0	3	0.0	0	0	0
+8478554948	Seattle Governing officials  Basic title Mayor	0.0	3	0.0	0	0	0
+8478554948	Seattle TV shows filmed here The Night Strangler	0.0	3	0.0	0	0	0
+8478554948	Seattle Place Seattle	0.0	3	0.0	0	0	0
+8478554948	Seattle Estimated Number of Foreclosures  Source United States Department of Housing and Urban Development	0.0	3	0.0	0	0	0
+8478554948	Seattle Contains (Fictional Places) Seattle Grace Mercy West Hospital	0.0	3	0.0	0	0	0
+8478554948	Seattle Fictional Works Set Here Frasier	0.3333333333333333	3	0.471404520791	0	1	0
+8478554948	Bill Gates Subjects Jiba	0.6666666666666666	3	0.471404520791	1	1	0
+8478554948	Seattle Featured In Films Sleepless in Seattle	0.0	3	0.0	0	0	0
+8478554948	Seattle Postal codes 98104	0.0	3	0.0	0	0	0
+8478554948	Seattle Contained by Washington	0.0	3	0.0	0	0	0
+8478554948	Seattle Partially contains Elliott Bay Marina	0.0	3	0.0	0	0	0
+8478554948	Seattle Named after Chief Seattle	0.0	3	0.0	0	0	0
+8478554948	Seattle Government Government and politics of Seattle	0.0	3	0.0	0	0	0
+8478554948	William H. Gates, Sr. Place of birth Bremerton	1.3333333333333333	3	1.24721912892	0	1	3
+8478554948	Seattle Fictional Characters Born Here Cody Martin	0.3333333333333333	3	0.471404520791	1	0	0
+8478554948	Bill Gates Works written The Road Ahead	1.3333333333333333	3	0.942809041582	2	2	0
+8478554948	Seattle Time zone(s) Pacific Time Zone	0.0	3	0.0	0	0	0
+8478554948	Seattle Newspapers The Seattle Times	0.0	3	0.0	0	0	0
+8478554948	Seattle Teams Seattle Seahawks	0.0	3	0.0	0	0	0
+8478554948	Seattle Local transportation Sound Transit	0.0	3	0.0	0	0	0
+8478554948	Seattle Neighborhoods Brighton	0.0	3	0.0	0	0	0
+8478554948	Seattle Organizations with this scope One Brick	0.0	3	0.0	0	0	0
+8478554948	Seattle County King County	0.0	3	0.0	0	0	0
+8478554948	Seattle Household Count  Source United States Department of Housing and Urban Development	0.038461538461538464	26	0.192307692308	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8478554948	Seattle Characters that have lived here Niles Crane	0.0	3	0.0	0	0	0
+8478554948	Bill Gates Episode appearances  Appearance type Him/Herself	1.0	3	0.0	1	1	1
+8478554948	William H. Gates, Sr. Children Bill Gates	2.6666666666666665	3	0.471404520791	3	2	3
+8478554948	Seattle Total Residential Addresses  Source United States Department of Housing and Urban Development	0.0	3	0.0	0	0	0
+8478554948	Seattle Adjoins  Adjoins Mercer Island	0.0	3	0.0	0	0	0
+8478554948	Seattle How to get here  Mode of transportation Bus	0.0	3	0.0	0	0	0
+8478554948	Seattle Metropolitan area Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area	0.3333333333333333	3	0.471404520791	0	1	0
+8478554948	Seattle Partially contains  Partially contains Elliott Bay Marina	0.0	3	0.0	0	0	0
+8478554948	Seattle Capital of  Administrative division King County	0.0	3	0.0	0	0	0
+8478554948	Seattle Events 2012 Seattle International Film Festival	0.0	3	0.0	0	0	0
+8478554948	Bill Gates Gender Male	2.3333333333333335	3	0.471404520791	2	2	3
+877070565548	J. K. Rowling Places lived  Location London	0.3333333333333333	3	0.471404520791	0	1	0
+877070565548	J. K. Rowling Influenced Emma Maree Urquhart	1.3333333333333333	3	0.942809041582	2	2	0
+877070565548	J. K. Rowling Books illustrated The Tales of Beedle the Bard	2.3333333333333335	3	0.471404520791	2	2	3
+877070565548	Harry Potter and the Deathly Hallows Original language English Language	1.3333333333333333	3	0.471404520791	2	1	1
+877070565548	J. K. Rowling Film Story Credits Harry Potter and the Order of the Phoenix	2.0	3	0.816496580928	2	3	1
+877070565548	Harry Potter and the Deathly Hallows Editions Harry Potter and the Deathly Hallows	1.6666666666666667	3	1.24721912892	2	3	0
+877070565548	Harry Potter and the Deathly Hallows Interior illustrations by Jason Cockcroft	1.6666666666666667	3	1.24721912892	3	0	2
+877070565548	Harry Potter literary series Awards Won  Award winner J. K. Rowling	1.3333333333333333	3	0.942809041582	2	2	0
+877070565548	J. K. Rowling Awards Won  Winning work Harry Potter literary series	2.3333333333333335	3	0.942809041582	3	3	1
+877070565548	Harry Potter and the Deathly Hallows Author J. K. Rowling	2.375	24	0.992156741649	2	3	3	3	3	2	3	3	2	3	2	3	2	3	3	0	3	3	0	3	2	3	0	3
+877070565548	J. K. Rowling Influenced By Stephen King	1.0	3	0.816496580928	1	2	0
+877070565548	Harry Potter and the Deathly Hallows Quotations Where your treasure is, there will your heart be also.	2.0	3	0.0	2	2	2
+877070565548	J. K. Rowling Profession Writer	1.6666666666666667	3	0.942809041582	1	3	1
+877070565548	Harry Potter literary series Award Nominations  Award Nominee J. K. Rowling	2.6666666666666665	3	0.471404520791	2	3	3
+877070565548	J. K. Rowling Siblings  Sibling Dianne Rowling	0.3333333333333333	3	0.471404520791	0	1	0
+877070565548	J. K. Rowling Series Written (or Contributed To) Harry Potter (Associational)	2.3333333333333335	3	0.942809041582	3	1	3
+877070565548	Harry Potter literary series Part of fictional universes Harry Potter	1.6666666666666667	3	1.24721912892	2	3	0
+877070565548	J. K. Rowling Place of birth Yate	0.0	3	0.0	0	0	0
+877070565548	J. K. Rowling Languages English Language	0.3333333333333333	3	0.471404520791	1	0	0
+877070565548	Harry Potter and the Deathly Hallows Setting Wizarding world	2.6666666666666665	3	0.471404520791	2	3	3
+877070565548	J. K. Rowling Fictional Characters Created Harry Potter	2.3333333333333335	3	0.942809041582	1	3	3
+877070565548	Harry Potter literary series Works in this series Harry Potter and the Order of the Phoenix	2.6666666666666665	3	0.471404520791	2	3	3
+877070565548	J. K. Rowling Education  Major/Field Of Study French	0.3333333333333333	3	0.471404520791	0	1	0
+877070565548	J. K. Rowling Films appeared in  Type of Appearance Him/Herself	0.6666666666666666	3	0.471404520791	1	1	0
+877070565548	J. K. Rowling Blog jk_rowling	0.6666666666666666	3	0.942809041582	2	0	0
+877070565548	Harry Potter and the Deathly Hallows Interior illustrations by Mary GrandPré	1.3333333333333333	3	0.942809041582	2	2	0
+877070565548	Harry Potter and the Deathly Hallows Genre Fiction	1.6666666666666667	3	1.24721912892	3	0	2
+877070565548	Harry Potter and the Deathly Hallows Translations  Target language Swedish Language	2.6666666666666665	3	0.471404520791	3	2	3
+877070565548	J. K. Rowling Things named after this 43844 Rowling	0.5833333333333334	24	0.759202798262	0	2	0	0	2	0	1	2	1	0	1	0	0	0	0	0	0	1	0	2	1	0	0	1
+877070565548	Harry Potter and the Deathly Hallows Characters Harry Potter	2.0	3	1.41421356237	3	0	3
+877070565548	Harry Potter literary series Works Written About This Topic The Magical Worlds of Harry Potter	2.0	3	0.0	2	2	2
+877070565548	Harry Potter and the Deathly Hallows Part of series Harry Potter literary series	2.3333333333333335	3	0.471404520791	2	3	2
+877070565548	J. K. Rowling TV programs produced  Producer type Consulting Producer	1.3333333333333333	3	1.24721912892	0	3	1
+877070565548	J. K. Rowling Country of nationality United Kingdom	0.0	3	0.0	0	0	0
+877070565548	J. K. Rowling Spouse (or domestic partner)  Type of union Marriage	0.3333333333333333	3	0.471404520791	1	0	0
+877070565548	J. K. Rowling Award Nominations  Nominated work Harry Potter literary series	2.090909090909091	11	0.668042657123	1	3	2	2	2	2	3	3	2	2	1
+877070565548	J. K. Rowling Works written Harry Potter and the Deathly Hallows	2.6666666666666665	3	0.471404520791	2	3	3
+877070565548	Harry Potter literary series Works in this series Harry Potter and the Goblet of Fire	1.6666666666666667	3	1.24721912892	0	3	2
+877070565548	J. K. Rowling Children David Murray	0.6666666666666666	3	0.942809041582	0	2	0
+877070565548	J. K. Rowling Appears in ranked lists  List The 50 greatest British writers since 1945	1.0	3	0.0	1	1	1
+877070565548	J. K. Rowling Parents Peter Rowling	0.3333333333333333	3	0.471404520791	1	0	0
+877070565548	J. K. Rowling Quotations If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.	0.6666666666666666	3	0.471404520791	1	1	0
+877070565548	Harry Potter literary series Exhibitions created about this subject Harry Potter: The Exhibition	1.0	3	0.816496580928	2	1	0
+877070565548	J. K. Rowling Gender Female	0.3333333333333333	3	0.471404520791	0	1	0
+877070565548	J. K. Rowling TV episode performances  Special performance type Voice	0.8	25	0.894427191	0	0	2	1	1	2	0	0	1	0	1	0	0	2	0	1	3	0	0	0	0	1	2	2	1
+877070565548	J. K. Rowling Organizations founded Lumos	0.6666666666666666	21	0.776643163348	1	0	1	0	1	1	0	0	1	1	0	2	0	3	0	0	1	1	0	0	1
+77848153825048	The Big Bang Theory Genre Sitcom	1.3333333333333333	3	1.24721912892	1	3	0
+77848153825048	The Big Bang Theory Award Nominations  Award Nominee CBS	0.3333333333333333	3	0.471404520791	0	1	0
+77848153825048	The Big Bang Theory Episodes Pilot	0.6666666666666666	3	0.471404520791	1	1	0
+77848153825048	Leonard Hofstadter Gender Male	2.0	3	0.0	2	2	2
+77848153825048	The Big Bang Theory Awards Won  Award winner Bob Newhart	0.6666666666666666	3	0.471404520791	1	1	0
+77848153825048	Leonard Hofstadter Character Created By Chuck Lorre	0.6666666666666666	3	0.942809041582	0	2	0
+77848153825048	Jim Parsons Starring TV roles  Series The Big Bang Theory	3.0	3	0.0	3	3	3
+77848153825048	The Big Bang Theory Theme song Big Bang Theory Theme	0.6666666666666666	3	0.942809041582	2	0	0
+77848153825048	Jim Parsons Theater Roles  Play Harvey	2.0	3	0.0	2	2	2
+77848153825048	Johnny Galecki Romantic relationships (with celebrities)  Celebrity Laura Harris	1.6666666666666667	3	0.471404520791	1	2	2
+77848153825048	Jim Parsons Profession Actor	1.3333333333333333	3	0.942809041582	0	2	2
+77848153825048	Jim Parsons Film performances  Special Performance Type Voice	1.0	3	0.816496580928	1	2	0
+77848153825048	The Big Bang Theory Languages English Language	1.0	3	1.41421356237	0	0	3
+77848153825048	Leonard Hofstadter Programs in which this was a regular character  Actor Johnny Galecki	1.0	3	0.816496580928	0	2	1
+77848153825048	Jim Parsons Award Nominations  Nominated work The Big Bang Theory	2.3333333333333335	3	0.471404520791	2	2	3
+77848153825048	Leonard Hofstadter Character Created By Bill Prady	2.0	3	0.816496580928	2	3	1
+77848153825048	The Big Bang Theory Languages Hindi Language	1.0	3	0.0	1	1	1
+77848153825048	Jim Parsons Place of birth Houston	2.3333333333333335	3	0.471404520791	2	3	2
+77848153825048	Johnny Galecki Ethnicity Irish people	1.6666666666666667	3	0.471404520791	2	2	1
+77848153825048	The Big Bang Theory TV Producer  Producer Chuck Lorre	0.3333333333333333	3	0.471404520791	0	1	0
+77848153825048	Jim Parsons Places lived  Location Los Angeles	1.6666666666666667	3	0.471404520791	2	2	1
+77848153825048	Jim Parsons Influenced Johnny Carson	0.6666666666666666	3	0.471404520791	1	1	0
+77848153825048	Leonard Hofstadter Named after Sheldon Leonard	1.0	3	0.816496580928	1	0	2
+77848153825048	Johnny Galecki Romantic relationships (with celebrities)  Celebrity Kaley Cuoco	2.0	3	0.816496580928	2	3	1
+77848153825048	Johnny Galecki Starring TV roles  Series The Big Bang Theory	2.6666666666666665	3	0.471404520791	2	3	3
+77848153825048	The Big Bang Theory Regular acting performances  Actor Kaley Cuoco	2.6666666666666665	3	0.471404520791	3	2	3
+77848153825048	Jim Parsons TV episode performances  Episode The Road	1.0	3	0.816496580928	1	2	0
+77848153825048	Jim Parsons Sexual orientation  Sexual orientation Gay	1.3333333333333333	3	0.942809041582	2	2	0
+77848153825048	The Big Bang Theory Genre Comedy	0.3333333333333333	3	0.471404520791	0	0	1
+77848153825048	Jim Parsons Awards Won  Winning work The Big Bang Theory	2.0	3	0.816496580928	1	3	2
+77848153825048	Jim Parsons Education  Institution University of Houston	1.3333333333333333	3	1.24721912892	1	0	3
+77848153825048	Leonard Hofstadter Romantically involved with  Partner Penny	1.0	3	0.816496580928	1	2	0
+77848153825048	Jim Parsons Episode appearances  Appearance type Host	1.3333333333333333	3	0.942809041582	2	2	0
+77848153825048	Jim Parsons Gender Male	1.3333333333333333	3	0.942809041582	0	2	2
+77848153825048	The Big Bang Theory Regular acting performances  Special performance type Voice	0.6666666666666666	3	0.471404520791	1	1	0
+77848153825048	Jim Parsons Spouse (or domestic partner)  Type of union Domestic partnership	1.0	3	0.816496580928	0	1	2
+77848153825048	Jim Parsons Episode appearances  Episode Jim Parsons/Beck	2.6666666666666665	3	0.471404520791	3	2	3
+77848153825048	The Big Bang Theory Program creator Bill Prady	1.6666666666666667	3	1.24721912892	2	0	3
+77848153825048	The Big Bang Theory Program creator Chuck Lorre	1.0	3	0.816496580928	1	2	0
+77848153825048	Johnny Galecki Celebrity friends  Friend Sara Gilbert	1.0	3	0.816496580928	2	1	0
+77848153825048	The Big Bang Theory Original network  Network CBS	1.0	3	0.816496580928	2	0	1
+77848153825048	The Big Bang Theory Recurring writers  Writer Bill Prady	2.0	3	1.41421356237	0	3	3
+77848153825048	Leonard Hofstadter Programs in which this was a regular character  Series The Big Bang Theory	1.6666666666666667	3	0.471404520791	1	2	2
+77848153825048	The Big Bang Theory Recurring writers  Writer Chuck Lorre	0.6666666666666666	3	0.942809041582	0	2	0
+546675674948	Boris Becker Leader of  Role Owner	1.173913043478261	23	1.04889896364	2	0	3	2	0	2	2	0	3	0	2	1	2	2	0	0	1	0	2	0	2	0	1
+546675674948	Boris Becker Sports played  Sport Tennis	2.0	3	0.816496580928	1	3	2
+546675674948	Stefan Edberg Hall of fame inductions  Hall of fame International Tennis Hall of Fame	0.0	3	0.0	0	0	0
+546675674948	Boris Becker TV regular appearances  Program Piers Morgan's Life Stories	0.6666666666666666	3	0.471404520791	1	0	1
+546675674948	Stefan Edberg Children Emilie	0.15	20	0.476969600708	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+546675674948	Stefan Edberg Handed Right-handed	0.0	3	0.0	0	0	0
+546675674948	The US Open (Tennis) Instances 2009 US Open	0.3333333333333333	3	0.471404520791	1	0	0
+546675674948	Boris Becker Awards Won  Ceremony 1985 BBC Sports Personality of the Year Award	0.6666666666666666	3	0.942809041582	2	0	0
+546675674948	Boris Becker Spouse (or domestic partner)  Type of union Marriage	0.3333333333333333	3	0.471404520791	0	1	0
+546675674948	Boris Becker Starring TV roles  Series They Think It's All Over	0.3333333333333333	3	0.471404520791	0	1	0
+546675674948	Wimbledon Current frequency Yearly	0.6666666666666666	3	0.942809041582	2	0	0
+546675674948	Boris Becker Leader of  Organization Völkl Tennis	2.0	3	0.0	2	2	2
+546675674948	Boris Becker Parents Karl-Heinz	0.0	3	0.0	0	0	0
+546675674948	Boris Becker Matches Lost  Event Monte-Carlo Masters	2.3333333333333335	3	0.471404520791	2	2	3
+546675674948	Boris Becker TV regular appearances  Appearance type Celebrity guest	1.0	3	0.816496580928	1	2	0
+546675674948	Stefan Edberg Events Competed In  Country Sweden	0.3	20	0.640312423743	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	1	0
+546675674948	Stefan Edberg Sports played  Sport Tennis	0.3333333333333333	3	0.471404520791	1	0	0
+546675674948	Stefan Edberg Events Competed In  Olympics 1988 Summer Olympics	0.0	3	0.0	0	0	0
+546675674948	Stefan Edberg Children Christopher	0.0	3	0.0	0	0	0
+546675674948	Boris Becker TV episode performances  Episode Katherine Jenkins	0.0	3	0.0	0	0	0
+546675674948	Boris Becker Romantic relationships (with celebrities)  Relationship type Engaged to	0.0	3	0.0	0	0	0
+546675674948	The US Open (Tennis) Match Results  Winner Serena Williams	0.0	3	0.0	0	0	0
+546675674948	The US Open (Tennis) Instances 2008 US Open	0.3333333333333333	3	0.471404520791	0	0	1
+546675674948	Stefan Edberg Places lived  Location London	0.3333333333333333	3	0.471404520791	1	0	0
+546675674948	Stefan Edberg Events Competed In  Medal Bronze medal	0.4074074074074074	27	0.828173325	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	3	0	0	2	2	0	0	0
+546675674948	Stefan Edberg Matches Won  Loser Boris Becker	1.8148148148148149	27	0.862255313098	2	3	2	3	3	2	1	1	1	2	2	2	2	2	2	0	3	2	2	1	2	2	2	0	0	3	2
+546675674948	Wimbledon Match Results Wimbledon Championship Match	0.6666666666666666	3	0.942809041582	2	0	0
+546675674948	Stefan Edberg Matches Won  Event Wimbledon	0.0	3	0.0	0	0	0
+546675674948	Boris Becker Tennis Titles  Tournament Wimbledon	2.0	3	1.41421356237	3	3	0
+546675674948	Boris Becker Hall of fame inductions  Hall of fame International Tennis Hall of Fame	1.3333333333333333	3	0.942809041582	2	2	0
+546675674948	Boris Becker Places lived  Location London	0.3333333333333333	3	0.471404520791	0	0	1
+546675674948	Boris Becker Awards Won  Award category BBC Overseas Sports Personality of the Year	2.3333333333333335	3	0.471404520791	2	2	3
+546675674948	The US Open (Tennis) Current frequency Yearly	0.0	3	0.0	0	0	0
+546675674948	Boris Becker Sexual orientation  Sexual orientation Heterosexuality	0.10526315789473684	19	0.306892204992	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+546675674948	Boris Becker Romantic relationships (with celebrities)  Celebrity Sandy Meyer-Wölden	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Michelle Obama Spouse (or domestic partner)  Spouse Barack Obama	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Appears in ranked lists  List Time 100	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Bachelor of Arts Honorary degree recipients  Institution University of South Africa	0.3333333333333333	3	0.471404520791	0	0	1
+57865383535048	Michelle Obama Spouse (or domestic partner)  Type of union Marriage	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Michelle Obama Parents Fraser C. Robinson III	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Michelle Obama Religion Protestantism	0.6666666666666666	3	0.471404520791	1	1	0
+57865383535048	Michelle Obama Government Positions Held  Office position or title First Lady of the United States	0.3333333333333333	3	0.471404520791	0	1	0
+57865383535048	Bachelor of Arts People with this degree  Major/Field Of Study Piano	0.0	3	0.0	0	0	0
+57865383535048	Bachelor of Arts People with this degree  Specialization England	1.3333333333333333	3	1.24721912892	0	1	3
+57865383535048	Michelle Obama Profession Writer	1.6666666666666667	3	1.24721912892	2	0	3
+57865383535048	Michelle Obama Animals owned  Animal Bo	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Children Natasha Obama	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Siblings  Sibling Craig Robinson	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Employment history  Employer Federal government of the United States	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Michelle Obama Ethnicity African American	0.3333333333333333	3	0.471404520791	0	0	1
+57865383535048	Michelle Obama Party  Party Democratic Party	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Works Written About This Topic What Death of Osama Bin Laden Indicates About Barack Obama's Leadership	1.3333333333333333	3	0.942809041582	2	2	0
+57865383535048	Michelle Obama Animals owned  Animal Sunny	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Appears in ranked lists  List Maxim Hot 100	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Michelle Obama Government Positions Held  Basic title First Lady	0.3333333333333333	3	0.471404520791	0	0	1
+57865383535048	Michelle Obama Award Nominations  Award Nominee Barack Obama	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Michelle Obama Gender Female	0.3333333333333333	3	0.471404520791	0	1	0
+57865383535048	Bachelor of Arts Honorary degree recipients  Recipient Nelson Mandela	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Education  Institution Harvard Law School	1.6666666666666667	3	1.24721912892	3	0	2
+57865383535048	Michelle Obama Family Family of Barack Obama	1.0	3	0.816496580928	2	1	0
+57865383535048	Michelle Obama TV episode performances  Episode Michelle Obama	0.6666666666666666	3	0.942809041582	0	2	0
+57865383535048	Michelle Obama Employment history  Title First Lady	1.0	3	0.816496580928	0	1	2
+57865383535048	Michelle Obama Awards Won  Winning work Let's Move!	0.6666666666666666	3	0.471404520791	1	1	0
+57865383535048	Michelle Obama Films appeared in  Type of Appearance Him/Herself	0.0	3	0.0	0	0	0
+57865383535048	Michelle Obama Works written American Grown	0.3333333333333333	3	0.471404520791	1	0	0
+57865383535048	Michelle Obama Member of  Organization Alpha Phi Omega	2.0	3	0.0	2	2	2
+57865383535048	Michelle Obama Places lived  Location Hyde Park	0.6666666666666666	3	0.471404520791	1	1	0
+57865383535048	Michelle Obama Education  Institution Princeton University	2.6666666666666665	3	0.471404520791	3	2	3
+57865383535048	Michelle Obama Place of birth Chicago	0.3181818181818182	22	0.554843437079	1	0	0	0	1	0	0	0	1	0	0	0	0	1	2	1	0	0	0	0	0	0
+9078665448	Russia GDP growth rate  Source World Bank, World Development Indicators, GDP Growth Rate	0.6666666666666666	3	0.471404520791	1	1	0
+9078665448	Europe Versions released in this region The Legend of Zelda	0.0	3	0.0	0	0	0
+9078665448	Poland Form of Government Democracy	0.0	3	0.0	0	0	0
+9078665448	Russia GDP (nominal)  Currency United States Dollar	1.0	3	0.816496580928	0	1	2
+9078665448	Europe Universe Mortal Engines	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Russia Belongs To Combatant Group Allies of World War II	0.6666666666666666	3	0.942809041582	2	0	0
+9078665448	Russia Coat of Arms used  Coat of Arms Coat of arms of Russia	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Russia Olympics participated in The London 2012 Summer Olympics	0.0	3	0.0	0	0	0
+9078665448	Poland Beers from here Żywiec	0.0	3	0.0	0	0	0
+9078665448	Russia GDP real  Adjustment currency United States Dollar	0.6666666666666666	3	0.942809041582	2	0	0
+9078665448	Poland Broadband penetration rate  Source Broadband penetration rate, Broadband penetration in Europe, Eurostat	0.3333333333333333	3	0.471404520791	0	0	1
+9078665448	Poland Festivals with this focus Polish Film Festival in America	0.0	3	0.0	0	0	0
+9078665448	Poland Teams Poland national football team	0.0	3	0.0	0	0	0
+9078665448	Russia CO2 emissions per capita  Source CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank	0.6666666666666666	3	0.471404520791	0	1	1
+9078665448	Russia Places imported from  Imported from Uzbekistan	1.2777777777777777	18	0.989138545265	3	1	2	2	0	2	0	2	3	1	2	1	1	0	1	0	0	2
+9078665448	Europe Organizations with this scope UEFA	0.0	3	0.0	0	0	0
+9078665448	Russia Multi-event tournaments participated in 2012 World Mountain Running Championships	0.0	3	0.0	0	0	0
+9078665448	Russia Adjoins  Adjoins China	1.3333333333333333	3	0.942809041582	0	2	2
+9078665448	Europe Contains United Kingdom	0.0	3	0.0	0	0	0
+9078665448	Poland Athletes  Sports Figure skating	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Europe Partially contains France	0.6666666666666666	3	0.942809041582	2	0	0
+9078665448	Russia People born here CoH	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Europe Contains major portion of Spain	0.0	3	0.0	0	0	0
+9078665448	Russia Fictional Characters Born Here Zangief	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Russia GNI in PPP dollars  Currency United States Dollar	0.3333333333333333	3	0.471404520791	0	1	0
+9078665448	Russia Events World War II	0.6666666666666666	3	0.942809041582	2	0	0
+9078665448	Russia Administrative Divisions Moscow	1.0	3	0.816496580928	2	0	1
+9078665448	Russia Official Language Russian Language	0.6666666666666666	24	0.7453559925	1	0	0	3	0	1	1	2	1	1	1	1	0	0	1	0	0	1	1	0	0	0	0	1
+9078665448	Poland Government debt as percent of GDP  Source Eurostat, Government Debt, Government Debt as Percentage of GDP	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Russia Athletic performances  Olympics The London 2012 Summer Olympics	0.0	3	0.0	0	0	0
+9078665448	Russia Population growth rate  Source Population Growth Rate, World Development Indicators and Global Development Finance, World Bank	1.0	3	1.41421356237	3	0	0
+9078665448	Russia GDP (nominal per capita)  Currency United States Dollar	0.0	3	0.0	0	0	0
+9078665448	Russia Languages spoken Russian Language	0.6666666666666666	3	0.471404520791	1	1	0
+9078665448	Europe Weather Service 3BMeteo	0.0	3	0.0	0	0	0
+9078665448	Russia Capital Moscow	1.6666666666666667	3	1.24721912892	3	0	2
+9078665448	Russia Athletes  Olympics The London 2012 Summer Olympics	0.20833333333333334	24	0.406116431034	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0
+9078665448	Poland Second level divisions Warsaw	0.0	3	0.0	0	0	0
+9078665448	Russia Life expectancy  Source World Bank, World Development Indicators, Life Expectancy	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Russia Athletic performances  Medal Gold medal	0.0	3	0.0	0	0	0
+9078665448	Poland Flag  Flag Flag of Poland	0.0	3	0.0	0	0	0
+9078665448	Poland First level divisions Masovian Voivodeship	0.0	3	0.0	0	0	0
+9078665448	Russia Military expenditure as percentage of GDP  Source Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank	0.3333333333333333	3	0.471404520791	1	0	0
+9078665448	Poland Government positions Marshal of the Sejm	0.0	3	0.0	0	0	0
+9078665448	Poland Minimum wage  Currency Euro	0.05	20	0.217944947177	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+9078665448	Russia Fertility rate  Source World Bank, World Development Indicators, Fertility Rate	0.6666666666666666	3	0.471404520791	1	1	0
+9078665448	Europe Named after Europa	0.3333333333333333	3	0.471404520791	0	0	1
+9078665448	Russia Religions  Religion Islam	0.72	25	0.775628777187	1	0	2	1	1	1	0	0	1	0	0	0	1	3	0	2	1	0	0	1	1	1	0	0	1
+9078665448	Russia Breeds orginating here Siberian Husky	0.0	3	0.0	0	0	0
+9078665448	Poland Featured In Films The Dead And The Living	0.0	3	0.0	0	0	0
+9078665448	Russia National anthem  Anthem National Anthem of Russia	1.0	3	0.816496580928	2	0	1
+9078665448	Russia Places exported to  Exported to Uzbekistan	0.6666666666666666	3	0.942809041582	0	2	0
+9078665448	Russia Casualties  Military Conflict Battle of Kulikovo	0.3333333333333333	3	0.471404520791	0	1	0
+9078665448	Russia Subject of TelecomConsulting	0.3333333333333333	3	0.471404520791	0	0	1
+9078665448	Russia Partially contained by Asia	3.0	3	0.0	3	3	3
+9078665448	Russia Internet TLD ru	0.0	3	0.0	0	0	0
+9078665448	Poland Currency Used Polish złoty	0.0	3	0.0	0	0	0
+9078665448	Poland Coat of Arms used  Coat of Arms Coat of arms of Poland	0.0	3	0.0	0	0	0
+9078665448	Europe Partially contains  Partially contains France	0.0	3	0.0	0	0	0
+9078665448	Russia Partially contained by  Partially contained by Europe	2.6666666666666665	3	0.471404520791	2	3	3
+9078665448	Europe Works Written About This Topic Italy	0.3333333333333333	3	0.471404520791	0	0	1
+9078665448	Russia GNI per capita in PPP dollars  Currency United States Dollar	0.0	3	0.0	0	0	0
+9078665448	Russia Force Deployments  Resource Infantry	0.0	3	0.0	0	0	0
+75787048705148	Lou Reed Appears in ranked lists  List Rolling Stone's 100 greatest guitarists of all time	1.3333333333333333	3	0.942809041582	2	2	0
+75787048705148	Rock music Subgenres Pop music	0.0	3	0.0	0	0	0
+75787048705148	Lou Reed Member of  Roles Guitar	1.0	3	0.816496580928	2	1	0
+75787048705148	Piano Students majoring in this field  Institution Columbia University	0.0	3	0.0	0	0	0
+75787048705148	Piano Variations Grand piano	1.0	3	0.816496580928	1	2	0
+75787048705148	Lou Reed Influenced William Gibson	1.6666666666666667	3	0.471404520791	2	2	1
+75787048705148	Piano Recording performances  Role Guitar	0.3333333333333333	3	0.471404520791	0	1	0
+75787048705148	Lou Reed Works Composed New Age	1.6666666666666667	3	0.471404520791	1	2	2
+75787048705148	Lou Reed Place Musical Career Began Brooklyn	0.6666666666666666	3	0.471404520791	1	0	1
+75787048705148	Rock music Stations Nova	0.3333333333333333	3	0.471404520791	0	1	0
+75787048705148	Lou Reed Film music credits Faraway, So Close!	2.3333333333333335	3	0.471404520791	2	2	3
+75787048705148	Lou Reed Products Endorsed  Product Honda Elite	0.6666666666666666	3	0.942809041582	0	2	0
+75787048705148	Lou Reed Record Labels RCA Records	2.0	3	0.816496580928	2	1	3
+75787048705148	Piano Instrumentalists Wolfgang Amadeus Mozart	0.6666666666666666	3	0.471404520791	1	0	1
+75787048705148	Lou Reed Influenced By William S. Burroughs	0.6666666666666666	3	0.471404520791	1	0	1
+75787048705148	Rock music Halls of fame Rock and Roll Hall of Fame	1.0	3	0.0	1	1	1
+75787048705148	Rock music Parent genres Folk music	0.6666666666666666	3	0.471404520791	1	1	0
+75787048705148	Piano Regular Performances  Roles Guitar	0.3333333333333333	3	0.471404520791	0	1	0
+75787048705148	Rock music Artists Celine Dion	0.0	3	0.0	0	0	0
+75787048705148	Rock music Works Written About This Topic The Beatles	0.0	3	0.0	0	0	0
+75787048705148	Lou Reed Releases produced New York	2.0	3	0.0	2	2	2
+75787048705148	Lou Reed Quotations There's a bit of magic in everything, and some loss to even things out.	0.3333333333333333	3	0.471404520791	0	0	1
+75787048705148	Lou Reed Content radioIO 90s ROCK	1.6666666666666667	3	0.471404520791	2	1	2
+75787048705148	Lou Reed Languages English Language	0.3333333333333333	3	0.471404520791	1	0	0
+75787048705148	Rock music Periodicals Mojo	0.3333333333333333	3	0.471404520791	1	0	0
+75787048705148	Lou Reed Instruments Played Guitar	2.0	3	0.816496580928	2	3	1
+75787048705148	Piano Inventor Bartolomeo Cristofori	0.0	3	0.0	0	0	0
+75787048705148	Rock music Films On This Subject The Runaways	0.15789473684210525	19	0.364642275278	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0
+75787048705148	Piano Awards in this discipline Van Cliburn International Piano Competition	0.0	3	0.0	0	0	0
+75787048705148	Lou Reed Musical Artist Home Page Official site	1.0	3	0.816496580928	0	1	2
+75787048705148	Piano In collections  Items Organ	0.3333333333333333	3	0.471404520791	0	0	1
+75787048705148	Piano Guest Performances  Role Guitar	0.3333333333333333	3	0.471404520791	0	0	1
+75787048705148	Lou Reed Ethnicity Jewish people	0.3333333333333333	3	0.471404520791	1	0	0
+75787048705148	Lou Reed Lyrics Written New Age	2.0	3	0.0	2	2	2
+75787048705148	Lou Reed Cause of death Liver disease	0.6666666666666666	3	0.471404520791	1	1	0
+75787048705148	Lou Reed Albums New York	2.0	3	1.41421356237	3	3	0
+75787048705148	Rock music Recordings Pain In My Head	1.0	3	0.0	1	1	1
+75787048705148	Lou Reed Album Contributions  Album Berlin	2.3333333333333335	3	0.942809041582	3	1	3
+75787048705148	Rock music Content WLIF	0.3333333333333333	3	0.471404520791	1	0	0
+75787048705148	Rock music Albums Asia	0.4	20	0.583095189485	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	1	2	0	0	1
+75787048705148	Lou Reed Recordings Berlin	2.6666666666666665	3	0.471404520791	2	3	3
+75787048705148	Lou Reed Films Produced Red Shirley	1.0	3	0.816496580928	0	2	1
+75787048705148	Piano Family Keyboard	0.6666666666666666	3	0.942809041582	2	0	0
+5788825148	Isaac Asimov Profession Actor	0.6666666666666666	3	0.471404520791	0	1	1
+5788825148	Isaac Asimov Employment history  Employer Boston University	0.6666666666666666	3	0.942809041582	0	2	0
+5788825148	Isaac Asimov Ethnicity Jewish people	1.3333333333333333	3	0.942809041582	2	0	2
+5788825148	Foundation Characters Hari Seldon	1.0	3	0.816496580928	1	0	2
+5788825148	Isaac Asimov Awards Won  Award category Hugo Award for Best Novel	0.3333333333333333	3	0.471404520791	0	0	1
+5788825148	Isaac Asimov Education  Institution Columbia University	0.3333333333333333	3	0.471404520791	0	0	1
+5788825148	Isaac Asimov Products Endorsed  Endorsee RadioShack	1.0	3	0.816496580928	2	1	0
+5788825148	Isaac Asimov Religion Judaism	0.631578947368421	19	1.03672187387	0	0	0	3	0	0	1	0	2	0	0	0	0	2	0	0	3	0	1
+5788825148	Isaac Asimov Gender Male	0.0	3	0.0	0	0	0
+5788825148	Isaac Asimov Dedications  Dedicated To H. L. Gold	0.3333333333333333	3	0.471404520791	0	0	1
+5788825148	Isaac Asimov Fictional Characters Created Hari Seldon	1.6666666666666667	3	0.471404520791	1	2	2
+5788825148	Foundation and Empire Serial Installments The General	1.3333333333333333	3	0.942809041582	2	0	2
+5788825148	Isaac Asimov Book editions published Gold	1.6666666666666667	3	1.24721912892	2	3	0
+5788825148	Isaac Asimov Cause of death Heart failure	0.0	3	0.0	0	0	0
+5788825148	Foundation Editions Foundation	2.3333333333333335	3	0.471404520791	2	2	3
+5788825148	Foundation Setting Solaria	1.0	3	1.41421356237	0	0	3
+5788825148	Foundation and Empire Author Isaac Asimov	2.0	3	1.41421356237	0	3	3
+5788825148	Isaac Asimov Influenced Kurt Vonnegut	0.6666666666666666	3	0.471404520791	1	1	0
+5788825148	Isaac Asimov TV programs Created Probe	0.3333333333333333	3	0.471404520791	1	0	0
+5788825148	Isaac Asimov Condition AIDS	0.6666666666666666	3	0.942809041582	0	0	2
+5788825148	Isaac Asimov Works written Gold	1.3333333333333333	3	0.471404520791	1	2	1
+5788825148	Isaac Asimov Places lived  Location Brooklyn	0.6666666666666666	3	0.471404520791	1	1	0
+5788825148	Isaac Asimov Hall of fame inductions  Hall of fame Science Fiction Museum and Hall of Fame	1.0952380952380953	21	0.920908552658	1	1	0	0	3	2	0	3	1	2	1	0	1	2	0	0	1	1	1	1	2
+5788825148	Isaac Asimov Things named after this Asimov's Science Fiction	1.411764705882353	17	0.844276476142	1	2	0	1	2	1	2	2	1	3	2	2	0	2	1	2	0
+5788825148	Isaac Asimov Works edited Atlantis	1.0	3	0.816496580928	1	2	0
+5788825148	Isaac Asimov Award Nominations  Award Nominee Harlan Ellison	0.5333333333333333	15	0.618241233033	1	1	0	1	0	2	1	1	1	0	0	0	0	0	0
+5788825148	Isaac Asimov Influenced By Bertrand Russell	0.3333333333333333	3	0.471404520791	1	0	0
+5788825148	Foundation Quotations Never let your sense of morals prevent you from doing what is right.	0.3333333333333333	3	0.471404520791	0	1	0
+5788825148	Isaac Asimov Quotations Individual science fiction stories may seem as trivial as ever to the blinder critics and philosophers of today -- but the core of science fiction, its essence has become crucial to our salvation if we are to be saved at all.	0.6666666666666666	3	0.471404520791	1	0	1
+5788825148	Isaac Asimov Place of death New York City	0.2692307692307692	26	0.443560099795	1	0	0	0	0	0	1	0	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+5788825148	Isaac Asimov Products Endorsed  Product TRS-80	0.6666666666666666	3	0.942809041582	0	2	0
+5788825148	Isaac Asimov Film Story Credits I, Robot	1.0	3	0.0	1	1	1
+5788825148	Isaac Asimov Periodicals edited  Periodical Asimov's Science Fiction	1.0	3	1.41421356237	0	0	3
+5788825148	Foundation Original language English Language	0.3333333333333333	3	0.471404520791	0	0	1
+5788825148	Isaac Asimov Series Written (or Contributed To) Black Widowers	2.0	3	0.0	2	2	2
+5788825148	Foundation Translations Cronache della galassia	0.6666666666666666	3	0.942809041582	0	2	0
+5788825148	Foundation Genre Fiction	1.1428571428571428	21	0.989743318611	1	0	2	2	1	0	1	0	3	2	2	0	1	2	3	1	2	1	0	0	0
+5788825148	Foundation and Empire Previous in series Foundation	1.8333333333333333	18	1.01379375505	1	2	2	2	1	2	3	0	0	2	3	2	2	3	0	3	3	2
