@@ -13,7 +13,7 @@ docker run --rm -p 8888:8888 \
 ```
 
 
-## To piublish on github see
+## To publish on GitHub see
 
 https://docs.github.com/en/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github
 
